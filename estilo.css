@@ -635,8 +635,7 @@ main {
     margin-bottom: 0.4rem;
 }
 
-.tarjeta-contacto a,
-.tarjeta-contacto-valor {
+.tarjeta-contacto a {
     color: var(--color-texto);
     text-decoration: none;
     font-weight: 600;
@@ -644,11 +643,6 @@ main {
 
 .tarjeta-contacto a:hover {
     color: var(--color-acento-hover);
-}
-
-.tarjeta-contacto-proximamente {
-    color: var(--color-texto-faint) !important;
-    font-weight: 500 !important;
 }
 
 /* ---- Pie con datos de contacto (compartido) ---- */
