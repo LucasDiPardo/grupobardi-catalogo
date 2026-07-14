@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grupo Bardi — Catálogo</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<header>
+    <div class="header-top">
+        <div class="header-marca">
+            <svg class="logo-gbd" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <polygon points="50,8 86.37,29 86.37,71 50,92 13.63,71 13.63,29" fill="none" stroke="#8b5cf6" stroke-width="5"/>
+                <rect x="32" y="48" width="8" height="20" rx="2" fill="#5b21b6"/>
+                <rect x="46" y="36" width="8" height="32" rx="2" fill="#8b5cf6"/>
+                <rect x="60" y="54" width="8" height="14" rx="2" fill="#2563eb"/>
+            </svg>
+            <a href="index.html" class="marca-link">
+                <p class="marca-nombre">GRUPO BARDI</p>
+                <p class="marca-kicker">Catálogo</p>
+            </a>
+        </div>
+        <nav class="nav-principal">
+            <a href="index.html">Inicio</a>
+            <a href="catalogo.html" class="nav-activo">Catálogo</a>
+            <a href="contacto.html">Contacto</a>
+        </nav>
+    </div>
+    <div class="filtros">
+        <input id="buscador" type="search" placeholder="Buscar producto...">
+        <select id="filtroCategoria">
+            <option value="">Todas las categorías</option>
+        </select>
+    </div>
+    <div id="chipsCategorias" class="chips-categorias"></div>
+</header>
+
+<main>
+    <p id="contador" class="contador"></p>
+    <div id="grilla" class="grilla-productos"></div>
+    <button id="btnCargarMas" class="boton-cargar-mas" hidden>Ver más productos</button>
+    <p id="estadoVacio" class="estado-vacio" hidden>No se encontraron productos.</p>
+</main>
+
+<div id="modalOverlay" class="modal-overlay" hidden>
+    <div class="modal-caja" role="dialog" aria-modal="true">
+        <button id="modalCerrar" class="modal-cerrar" aria-label="Cerrar">&times;</button>
+        <div id="modalContenido"></div>
+    </div>
+</div>
+
+<footer class="pie">
+    <div class="barra-firma"><span></span><span></span></div>
+    <p id="pieFecha"></p>
+    <p class="pie-usuario">@grupobardi.ok</p>
+</footer>
+
+<script src="categorias.js"></script>
+<script src="catalogo.js"></script>
+</body>
+</html>
