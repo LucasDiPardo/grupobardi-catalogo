@@ -526,41 +526,96 @@ main {
     color: var(--color-acento-hover);
 }
 
-.categorias-destacadas {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-}
-
-.tarjeta-categoria {
-    display: block;
-    padding: 1.5rem 1.25rem;
-    border-radius: 10px;
+.carrusel {
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
     border: 1px solid var(--color-borde);
+    aspect-ratio: 8 / 3;
     background: var(--color-bg-panel);
-    text-decoration: none;
-    color: var(--color-texto);
-    border-top: 3px solid var(--color-acento);
-    transition: border-color 0.15s ease, transform 0.15s ease;
 }
 
-.tarjeta-categoria:hover {
-    border-color: var(--color-acento-hover);
-    border-top-color: var(--color-acento-hover);
-    transform: translateY(-2px);
+.carrusel-track {
+    display: flex;
+    height: 100%;
+    transition: transform 0.5s ease;
 }
 
-.tarjeta-categoria-nombre {
+.carrusel-slide {
+    flex: 0 0 100%;
     display: block;
-    font-size: 1.05rem;
-    font-weight: 600;
-    margin-bottom: 0.3rem;
+    height: 100%;
 }
 
-.tarjeta-categoria-cantidad {
+.carrusel-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     display: block;
-    font-size: 0.82rem;
-    color: var(--color-texto-muted);
+}
+
+.carrusel-flecha {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(11, 11, 15, 0.6);
+    color: #fff;
+    font-size: 1.5rem;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carrusel-flecha:hover {
+    background: rgba(11, 11, 15, 0.85);
+}
+
+.carrusel-flecha-izq {
+    left: 1rem;
+}
+
+.carrusel-flecha-der {
+    right: 1rem;
+}
+
+.carrusel-dots {
+    position: absolute;
+    bottom: 1rem;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.carrusel-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(255, 255, 255, 0.35);
+    cursor: pointer;
+    padding: 0;
+}
+
+.carrusel-dot-activo {
+    background: var(--color-acento-hover);
+    width: 20px;
+    border-radius: 4px;
+}
+
+@media (max-width: 640px) {
+    .carrusel-flecha {
+        width: 32px;
+        height: 32px;
+        font-size: 1.2rem;
+    }
 }
 
 .lista-features {
