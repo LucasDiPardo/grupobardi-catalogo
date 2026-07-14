@@ -180,7 +180,9 @@ btnCargarMas.addEventListener('click', () => {
 });
 
 async function iniciar() {
-    catalogo = await fetch('productos.json').then((r) => r.json());
+    // cache: 'no-store' evita que el navegador se quede con una copia vieja de
+    // productos.json despues de regenerar el catalogo (paso 3+ dias de cache).
+    catalogo = await fetch('productos.json', { cache: 'no-store' }).then((r) => r.json());
     poblarCategorias();
     poblarChipsCategorias();
 

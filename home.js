@@ -5,7 +5,9 @@ function esc(valor) {
 }
 
 async function iniciar() {
-    const catalogo = await fetch('productos.json').then((r) => r.json());
+    // cache: 'no-store' evita que el navegador se quede con una copia vieja de
+    // productos.json despues de regenerar el catalogo (paso 3+ dias de cache).
+    const catalogo = await fetch('productos.json', { cache: 'no-store' }).then((r) => r.json());
 
     if (catalogo.whatsapp_numero) {
         const link = document.getElementById('linkWhatsappHero');
