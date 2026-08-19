@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-18T19:59:46.564Z",
+  "generado": "2026-08-19T16:09:40.202Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -48,7 +48,7 @@
     {
       "nombre": "ADAPT P/ DRIVER 1\" ROSCA HEMBRA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
@@ -97,84 +97,84 @@
     {
       "nombre": "AMPLIFICADOR DE SONIDO HC14000 (9400)",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "AMPLIFICADOR DE SONIDO HC8000 (7200)",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 100*50*40 ECONOMICO",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2725-1787076630141.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 100*50*40 ECONOMICO C/ RUEDAS",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2727-1787076814135.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 100*50*40 PROFESIONAL",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2695-1787076808499.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 100*50*40 PROFESIONAL C/ RUEDAS",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2697-1787076802345.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 50*50*40 ECONOMICO",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2723-1787076794529.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 50*50*40 PROFESIONAL",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2693-1787076787076.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 75*50*40 ECONOMICO",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2724-1787076780999.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 75*50*40 ECONOMICO C/ RUEDAS",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2726-1787076775026.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 75*50*40 PROFESIONAL",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2694-1787076768103.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 75*50*40 PROFESIONAL C/ RUEDAS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2696-1787076763251.jpg"
     },
@@ -454,56 +454,56 @@
     {
       "nombre": "BAFLE CAJA 10\" VACIA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2715-1787076950304.jpg"
     },
     {
       "nombre": "BAFLE CAJA 12\" VACIA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2714-1787076958481.jpg"
     },
     {
       "nombre": "BAFLE CAJA 15\" VACIA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE CAJA 8\" VACIA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2716-1787076965817.jpg"
     },
     {
       "nombre": "BAFLE FULL RANGE 12\" ACTIVO 350W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE FULL RANGE 12\" PASIVO 350W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE FULL RANGE 15\" ACTIVO 500W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE FULL RANGE 15\" PASIVO 350W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
       "imagen": null
     },
@@ -1042,70 +1042,70 @@
     {
       "nombre": "BAFLE MONITOR 12\" ACTIVO COAXIAL 450W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE MONITOR 12\" PASIVO COAXIAL 450W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE MONITOR 15\" ACTIVO COAXIAL 800W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE MONITOR 15\" PASIVO COAXIAL 800W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE MONITOR VACIO 12",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE MONITOR VACIO 15",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE PLASTICO VACIO 10\" 2 VIAS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE PLASTICO VACIO 12\" 2 VIAS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE PLASTICO VACIO 15\" 2 VIAS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE PLASTICO VACIO 8\" 2 VIAS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
@@ -1126,35 +1126,35 @@
     {
       "nombre": "BAFLE SUB CUBITO 18\" VACIA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2712-1787076978195.jpg"
     },
     {
       "nombre": "BAFLE VACIO 10",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE VACIO 12",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BAFLE VACIO 15",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BARRA LED RGBW / FLIGHTCASE X10 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": null
     },
@@ -1371,14 +1371,14 @@
     {
       "nombre": "BUMPER PARA PANTALLA 100CM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "BUMPER PARA PANTALLA 50CM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
@@ -1616,42 +1616,42 @@
     {
       "nombre": "CABEZAL MOVIL 10R X2 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABEZAL MOVIL 14R X2 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABEZAL MOVIL BEAM 230W CON BORDA X2 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABEZAL MOVIL BEAM LED 200W X4 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABEZAL MOVIL BEE EYE 19*40 X2 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABEZAL MOVIL MAC AURA 19*15 X4 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
     },
@@ -1742,21 +1742,21 @@
     {
       "nombre": "CABLE CANON A CANON 1,5M",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABLE CANON A CANON 10M",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABLE PROF BALANCEADO X100M",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
@@ -1784,21 +1784,21 @@
     {
       "nombre": "CAJA LINE ARRAY VACIA 10",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CAJA LINE ARRAY VACIA 12",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CAJA LINE ARRAY VACIA 8",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
@@ -1868,14 +1868,14 @@
     {
       "nombre": "CONECTOR CANON XLR HEMBRA CABLE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CONECTOR CANON XLR MACHO CABLE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
@@ -1987,21 +1987,21 @@
     {
       "nombre": "CONECTOR SPEAKON GBR 4 C MACHO CABLE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CONECTOR SPEAKON GBR 4 C MACHO CABLE PRO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CONECTOR SPEAKON GBR 4C HEMBRA CHASIS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
@@ -2337,21 +2337,21 @@
     {
       "nombre": "CONTROLADOR DMX COMAND WING",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CONTROLADOR DMX FADER WING",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CONTROLADOR DMX MA2 BLACK HOURSE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": null
     },
@@ -3457,28 +3457,28 @@
     {
       "nombre": "DIVISOR FRECUENCIA CR18 - 2 VIAS 600W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "DIVISOR FRECUENCIA CR20 - 2 VIAS 600W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "DIVISOR FRECUENCIA CR25 - 2 VIAS 500W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "DIVISOR FRECUENCIA CR35 - 2 VIAS 300W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
@@ -3499,7 +3499,7 @@
     {
       "nombre": "DRIVER AV PL-75 BC BOCA 1,4\" 110W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
@@ -4248,49 +4248,49 @@
     {
       "nombre": "FICHA CANON XLR HEMBRA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "FICHA CANON XLR MACHO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "FICHA SPEAKON HEMBRA CHASIS CUADRADA METAL",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "FICHA SPEAKON HEMBRA CHASIS REDONDA METAL",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "FICHA SPEAKON MACHO PUNTA METALICA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "FICHA XLR CANON HEMBRA CABLE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "FICHA XLR CANON MACHO CABLE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
@@ -4570,14 +4570,14 @@
     {
       "nombre": "LASER RGB 2W DMX / APP / BLUETOOTH",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "LASER RGB 5W DMX",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": null
     },
@@ -4598,7 +4598,7 @@
     {
       "nombre": "LINE ARRAY V10 VACIA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2717-1787077211560.jpg"
     },
@@ -4857,63 +4857,63 @@
     {
       "nombre": "MANGUERA DE SONIDO 12 VIAS 15 METROS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANGUERA DE SONIDO 12 VIAS 25 METROS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANGUERA DE SONIDO 12+4 VIAS 30 METROS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANGUERA DE SONIDO 8 VIAS 10 METROS",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA BAFLE CUADRADA PH-3 PLASTICA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA BAFLE METALICA CHICA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA BAFLE METALICA GRANDE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA BAFLE REDONDA PH-4 PLASTICA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA DE CHAPA CHICA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
@@ -4955,42 +4955,42 @@
     {
       "nombre": "MAQUINA DE HUMO 1500W CONT INALAMBRICO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MAQUINA DE HUMO 1500W INALAMBRICO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MAQUINA DE HUMO 3000W - DMX / INALAMBRICO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MAQUINA DE HUMO 3000W DMX",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MAQUINA DE HUMO 900W CONT INALAMBRICO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MAQUINA DE HUMO- 1500W - VERTICAL RGB",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
@@ -5004,35 +5004,35 @@
     {
       "nombre": "MEMBRANA AV PL75 BC 8OHM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MEMBRANA AV34 8OHM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MEMBRANA AV44 8OHM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MEMBRANA AV51 8OHM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MEMBRANA AV72 8OHM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
@@ -5445,42 +5445,42 @@
     {
       "nombre": "MODU COSTILLA U ESCENARIO MODULAR 1,22X2,44",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MODU DIAGONAL LARGA ESCENARIO MODULAR 1 A 1.50",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MODU ESCALERA P/ESCENARIO MODULAR 1M A 1.50M C/BARANDA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MODU ESCENARIO MODULAR COMPARTIDO 1M A 1.50M",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MODU PATA ESCENARIO MODULAR 1M A 1.50M",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MODULO 1.22X2.44 C/MADERA 18MM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
@@ -5508,287 +5508,287 @@
     {
       "nombre": "MULT DIAGONAL 181 MODULO 109X1.50M ALT",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT DIAGONAL 211 MODULO 157X1.50M ALT",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT DIAGONAL 225 MODULO 109X2M ALT",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT DIAGONAL 248 MODULO 207X1.50M ALT",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT DIAGONAL 249 MODULO 157X2M ALT",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT DIAGONAL 250",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT DIAGONAL 281 MODULO 207X2M ALT",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT ESCALERA VERTICAL 0.60X2M ANDAMIO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT HORIZONTAL 073",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT HORIZONTAL 109",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT HORIZONTAL 157",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT HORIZONTAL 207",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT HORIZONTAL 257",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT JUEGO LATERAL ESCALERA 1,50M 257",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT JUEGO LATERAL ESCALERA 1M 257",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT TABLO ESCALON 257X28 CHAPA BASTONADA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL 0.50M S/ESP",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL 050 C/ESP",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL 1.50 C/ESP",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL 1.50M S/ESP",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL 1M S/ESP",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL 2M C/ESP",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL 2M S/ESP",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VERTICAL P/TECHO 070",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VIGA CELOCIA CORTA 128",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VIGA PUENTE U 1,57",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULT VIGA PUENTE U 109",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI BASE COLLARIN",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI CUMBRERA TECHO 257",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI DIAGONAL 212 MODULO 073X2M ALT",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI DIAGONAL 266",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI DIAGONAL 288",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI DIAGONAL 318",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI DIAGONAL PLANTA 257X257",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI LIMONERO PARA TRIBUNA 2.57X0.37X1.50M ALT X 4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI MENSULA 073X050",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI MENSULA 109X050",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI STRINGER C/LENGUETA 257",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI TABLON ANDAMIO 0.60MX257 CHAP/ANT DESLI",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI TABLON P/GRADA-TRIBUNA 2.57X0.60",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MULTI TABLON PARA ANDAMIO 0.60X2.57 CHAP/ANT DESL",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
@@ -6243,14 +6243,14 @@
     {
       "nombre": "PANTALLA LED P 3,9 OUTDOOR 50X100",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PANTALLA LED P3,9 INDOOR 50X100",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
@@ -6264,28 +6264,28 @@
     {
       "nombre": "PAR LED RGBW 18X8W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PAR LED RGBWA 18X15W (CASE PARA 12U)",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PAR LED RGBWA+UV 18X18W (CASE PARA 12U)",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PAR LED SLIM 18X5W RGBWA - 5 EN 1",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": null
     },
@@ -6488,56 +6488,56 @@
     {
       "nombre": "PARLANTE AV-1210 400W CRCF",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PARLANTE AV-1510 800W CRCF",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PARLANTE AV-1805 700W CBC",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PARLANTE AV-850 150W",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PATA-TORRE-320-100KG-C/CUERNO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PATA-TORRE-420-120KG-C/CUERNO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PATA-TORRE-520-225KG",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PATINETA 2 RUEDAS C/FRENO 2 S/FRENO",
       "marca": "B-SOUNDCASES",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
@@ -6551,7 +6551,7 @@
     {
       "nombre": "PIE DE MICROFONO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": null
     },
@@ -6593,7 +6593,7 @@
     {
       "nombre": "PIE MICROFONO JIRAFA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": null
     },
@@ -6649,42 +6649,42 @@
     {
       "nombre": "PROCESADOR DIGITAL DP24+ 2X4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PROCESADOR DIGITAL DP36+ 3X6",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PROCESADOR DIGITAL DP48+ 4X8",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PROCESADOR DIGITAL DS214B 2X4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PROCESADOR DIGITAL DS216B 2X6",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "PROCESADOR DIGITAL DS254 FIR 2X4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
@@ -7580,7 +7580,7 @@
     {
       "nombre": "RIBALTA LASER LED 6 X4 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": null
     },
@@ -7629,14 +7629,14 @@
     {
       "nombre": "SOMBRERO METALICO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SOMBRERO PARA BAFLE METALICO",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
@@ -7706,28 +7706,28 @@
     {
       "nombre": "SPEAKON CHASIS HEMBRA CUADRADA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SPLITTER DMX 1 X 4 CANALES + 4 POWERCOM",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SPLITTER DMX 1 X 8 CANALES",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SPLITTER DMX 1X8 2X4 CANALES",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": null
     },
@@ -7811,49 +7811,49 @@
     {
       "nombre": "STROBO FLASH LED RGB C/CINTA LED BLANCA X8 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "STROBO LED RGB X8 CON CASE",
       "marca": null,
-      "categoria": null,
+      "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SUB VACIO CLON DAS COMPAC 118",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SUB VACIO CLON DAS COMPAC 218",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SUB VACIO CLON JBL PRX 118",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SUB VACIO CLON STS CONCERTO 218",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "SUB VACIO CLON STS MINI CONCERTO 118",
       "marca": null,
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
@@ -8280,14 +8280,14 @@
     {
       "nombre": "TROMPA NEXO 6X6 ECONOMICA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TROMPA NEXO 8X8 ECONOMICA",
       "marca": null,
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
@@ -8630,119 +8630,119 @@
     {
       "nombre": "TRUSS-CIRC-24X24-4-SEC-4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-CIRC-30X30-3-SEC-4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-CIRC-30X30-4-SEC-4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-CIRC-30X30-6-SEC-4",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-CIRC-PLANA-24-2",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-PLUG-16X16-1",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-PLUG-16X16-2",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-PLUG-16X16-3",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-STD-24X24-0,5",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-STD-24X24-1",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": "imagenes/producto-2615-1787077260610.jpg"
     },
     {
       "nombre": "TRUSS-STD-24X24-2",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": "imagenes/producto-2616-1787077325458.png"
     },
     {
       "nombre": "TRUSS-STD-24X24-3",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": "imagenes/producto-2618-1787077430079.png"
     },
     {
       "nombre": "TRUSS-STD-24X24-3-SOP-90",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-STD-30X30-3-DOBLE-SOP-90",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-SUPPORT-30X30-2",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-SUPPORT-30X30-3",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "TRUSS-SUPPORT-30X30-MANUAL",
       "marca": null,
-      "categoria": null,
+      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
