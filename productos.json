@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-19T20:35:08.545Z",
+  "generado": "2026-08-24T14:33:44.640Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -50,7 +50,7 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2481-1787581958187.jpg"
     },
     {
       "nombre": "ADAPTADOR GBR",
@@ -260,7 +260,7 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-686-1787578963267.webp"
     },
     {
       "nombre": "Adaptador Plug a Minijack",
@@ -2272,6 +2272,27 @@
       "imagen": null
     },
     {
+      "nombre": "CONSOLA GBR ECO DMX 512 192 CH 8 PROGRAMAS",
+      "marca": "GBR",
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR   5 ENTRADAS USB MP3 FX. BT",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR   6 ENTRADAS USB MP3 FX. BT",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "nombre": "CONSOLA SONIDO MG12XU",
       "marca": null,
       "categoria": "Sonido > Consolas y Mezcladoras",
@@ -3459,28 +3480,35 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2476-1787581856056.webp"
     },
     {
       "nombre": "DIVISOR FRECUENCIA CR20 - 2 VIAS 600W",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2477-1787581820386.jpg"
     },
     {
       "nombre": "DIVISOR FRECUENCIA CR25 - 2 VIAS 500W",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2478-1787581762649.jpg"
+    },
+    {
+      "nombre": "DIVISOR FRECUENCIA CR2K5 - 1 VIA 120W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2729-1787581737204.jpg"
     },
     {
       "nombre": "DIVISOR FRECUENCIA CR35 - 2 VIAS 300W",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2479-1787581711740.webp"
     },
     {
       "nombre": "DIVISOR GBR 2V 300W",
@@ -3627,7 +3655,7 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-694-1787582009235.jpg"
     },
     {
       "nombre": "Driver American Vox AV6000 50W",
@@ -3641,7 +3669,7 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-697-1787579564221.jpg"
     },
     {
       "nombre": "Driver American Vox ND254 40W",
@@ -3665,13 +3693,6 @@
       "imagen": "imagenes/producto-700-1787081078629.webp"
     },
     {
-      "nombre": "Driver American Vox PL75/2 110W",
-      "marca": null,
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-698-1787081148147.webp"
-    },
-    {
       "nombre": "Driver American Vox TDU450 125W",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
@@ -3684,20 +3705,6 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-695-1787081241229.webp"
-    },
-    {
-      "nombre": "Driver American Vox TDU772 A 100W",
-      "marca": null,
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-699-1787081294616.webp"
-    },
-    {
-      "nombre": "Driver American Vox TDU772 B2 100W",
-      "marca": null,
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-696-1787081317567.webp"
     },
     {
       "nombre": "Driver FaitalPro HF FD371 30W",
@@ -4285,14 +4292,14 @@
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2483-1787579243619.jpg"
     },
     {
       "nombre": "FICHA XLR CANON MACHO CABLE",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2484-1787579248057.jpg"
     },
     {
       "nombre": "FIL. GBR DE VIENTO P/MIC",
@@ -5013,7 +5020,7 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2465-1787579787756.webp"
     },
     {
       "nombre": "MEMBRANA AV44 8OHM",
@@ -6651,42 +6658,42 @@
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2473-1787581130963.jpg"
     },
     {
       "nombre": "PROCESADOR DIGITAL DP36+ 3X6",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2474-1787581079907.jpg"
     },
     {
       "nombre": "PROCESADOR DIGITAL DP48+ 4X8",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2475-1787581028031.webp"
     },
     {
       "nombre": "PROCESADOR DIGITAL DS214B 2X4",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2470-1787580990060.jpg"
     },
     {
       "nombre": "PROCESADOR DIGITAL DS216B 2X6",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2471-1787580969767.jpg"
     },
     {
       "nombre": "PROCESADOR DIGITAL DS254 FIR 2X4",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2472-1787581613520.webp"
     },
     {
       "nombre": "PROYECTOR HOLOGRAFICO 3D",
@@ -8282,14 +8289,14 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2497-1787580944215.jpg"
     },
     {
       "nombre": "TROMPA NEXO 8X8 ECONOMICA",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2496-1787580913622.jpg"
     },
     {
       "nombre": "TRUSS 16X16X 2 MTS ZINC 1 PULG",
