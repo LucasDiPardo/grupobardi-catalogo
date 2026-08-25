@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-25T16:26:55.993Z",
+  "generado": "2026-08-25T16:49:38.825Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -57,7 +57,7 @@
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-11-1787675271637.jpg"
     },
     {
       "nombre": "ADAPTADOR GBR MET.P/EMBUTIR",
@@ -71,7 +71,7 @@
       "marca": null,
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-20-1787675911109.jpg"
     },
     {
       "nombre": "AMPLI.GBR 60W C/BAT.MIC.INAL.MP3",
@@ -85,14 +85,14 @@
       "marca": null,
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2542-1787676062423.jpg"
     },
     {
       "nombre": "AMPLIFICADOR DE SONIDO HC8000 (7200)",
       "marca": null,
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2541-1787676091938.jpg"
     },
     {
       "nombre": "ANVIL BAUL MULTIUSO 100*50*40 ECONOMICO",
@@ -179,7 +179,7 @@
       "imagen": "imagenes/producto-2456-1785277471138.jpg"
     },
     {
-      "nombre": "APAEJO ELECTRICO 100 A 250",
+      "nombre": "APAREJO ELECTRICO 100 A 250",
       "marca": null,
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
@@ -470,28 +470,28 @@
       "marca": null,
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2545-1787676396153.jpg"
     },
     {
       "nombre": "BAFLE FULL RANGE 12\" PASIVO 350W",
       "marca": null,
       "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2543-1787676424417.jpg"
     },
     {
       "nombre": "BAFLE FULL RANGE 15\" ACTIVO 500W",
       "marca": null,
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2546-1787676446918.jpg"
     },
     {
       "nombre": "BAFLE FULL RANGE 15\" PASIVO 350W",
       "marca": null,
       "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2544-1787676474308.jpg"
     },
     {
       "nombre": "BAFLE GBR 1 V12\" 800W POT MP3 BT",
@@ -1030,28 +1030,28 @@
       "marca": null,
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2549-1787676511882.jpg"
     },
     {
       "nombre": "BAFLE MONITOR 12\" PASIVO COAXIAL 450W",
       "marca": null,
       "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2547-1787676529893.jpg"
     },
     {
       "nombre": "BAFLE MONITOR 15\" ACTIVO COAXIAL 800W",
       "marca": null,
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2550-1787676558896.jpg"
     },
     {
       "nombre": "BAFLE MONITOR 15\" PASIVO COAXIAL 800W",
       "marca": null,
       "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2548-1787676564374.jpg"
     },
     {
       "nombre": "BAFLE MONITOR VACIO 12",
