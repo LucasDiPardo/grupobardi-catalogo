@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-25T16:49:38.825Z",
+  "generado": "2026-08-25T21:27:31.957Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -177,69 +177,6 @@
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "imagenes/producto-2456-1785277471138.jpg"
-    },
-    {
-      "nombre": "APAREJO ELECTRICO 100 A 250",
-      "marca": null,
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ARO/REJA GBR DE 10\"G10",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ARO/REJA GBR DE 12\" G12",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ARO/REJA GBR DE 5\"POR UNIDAD",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ARO/REJA GBR DE 6\" POR UNIDAD",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ARO/REJA GBR DE 8\" G8",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ATENUADOR DE LINEA GBR 30W 100V",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ATENUADOR DE LINEA GBR 60W 100V",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "AURICULAR GBR COMPACTO Y",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
     },
     {
       "nombre": "Adaptador Driver American Vox AR2 1&quot; con Rosca Macho",
@@ -429,13 +366,6 @@
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011732307493/0.jpg"
-    },
-    {
-      "nombre": "BABLE GBR 200W 6X4\"2VIAS X PAR",
-      "marca": null,
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
     },
     {
       "nombre": "BAFLE CAJA 10\" VACIA",
@@ -5482,7 +5412,7 @@
       "marca": null,
       "categoria": "Iluminación > Esferas Espejadas",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-7-1787690486600.jpg"
     },
     {
       "nombre": "MOTOR GBR P/ESFERA HASTA 60 CM",
