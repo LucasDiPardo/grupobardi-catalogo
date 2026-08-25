@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-24T20:28:38.566Z",
+  "generado": "2026-08-25T16:26:55.993Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -8,42 +8,42 @@
       "marca": null,
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2287-1787675060769.jpg"
     },
     {
       "nombre": "ACC CUERNO TRIPODE 3.20M",
       "marca": null,
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2288-1787674946215.jpg"
     },
     {
       "nombre": "ACC CUERNO TRIPODE 4M",
       "marca": null,
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2289-1787675055764.jpg"
     },
     {
       "nombre": "ACC TRIANGULO MESA DJ UNITARIO",
       "marca": null,
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2290-1787675082882.jpg"
     },
     {
       "nombre": "ACC TRIANGULO OCTOGONO",
       "marca": null,
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2291-1787675094545.jpg"
     },
     {
       "nombre": "ACCESORIO ANGULAR VARIABLE 30X30 24X24 6.2MM",
       "marca": null,
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2292-1787675125610.jpg"
     },
     {
       "nombre": "ADAPT P/ DRIVER 1\" ROSCA HEMBRA",
@@ -64,21 +64,7 @@
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ADAPTADOR P/MIC.GBR UHF",
-      "marca": null,
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ADAPTADOR P/MIC.GBR UHF",
-      "marca": null,
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-10-1787675142951.jpg"
     },
     {
       "nombre": "AGARRE METALICO P/BUMBER",
@@ -92,7 +78,7 @@
       "marca": null,
       "categoria": "Sonido > Bafles Portátiles / Batería",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-186-1787675197056.jpg"
     },
     {
       "nombre": "AMPLIFICADOR DE SONIDO HC14000 (9400)",
@@ -5027,21 +5013,21 @@
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2466-1787606255491.webp"
     },
     {
       "nombre": "MEMBRANA AV51 8OHM",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2467-1787606297922.webp"
     },
     {
       "nombre": "MEMBRANA AV72 8OHM",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2468-1787606342014.webp"
     },
     {
       "nombre": "MEZC.GBR 2 CH EQ P/CH MP3 DISPLA",
