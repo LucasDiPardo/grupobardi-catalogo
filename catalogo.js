@@ -1,5 +1,6 @@
 const buscador = document.getElementById('buscador');
 const filtroCategoria = document.getElementById('filtroCategoria');
+const filtroMarca = document.getElementById('filtroMarca');
 const chipsCategorias = document.getElementById('chipsCategorias');
 const grilla = document.getElementById('grilla');
 const contador = document.getElementById('contador');
@@ -103,12 +104,22 @@ document.addEventListener('keydown', (e) => {
 // ninguna opcion) y quedaba desincronizado.
 let categoriaActiva = '';
 
+// Sentinel para el filtro "Sin marca asignada" -- distinto de "" (que
+// significa "todas las marcas"), asi el <select> puede distinguir ambos casos.
+const SIN_MARCA = '__sin_marca__';
+let marcaActiva = '';
+
 function productosFiltrados() {
     const q = buscador.value.trim().toLowerCase();
     return catalogo.productos.filter((p) => {
         if (categoriaActiva) {
             const coincide = p.categoria === categoriaActiva || (p.categoria && p.categoria.startsWith(`${categoriaActiva} > `));
             if (!coincide) return false;
+        }
+        if (marcaActiva === SIN_MARCA) {
+            if (p.marca) return false;
+        } else if (marcaActiva) {
+            if (p.marca !== marcaActiva) return false;
         }
         if (!q) return true;
         return p.nombre.toLowerCase().includes(q) || (p.marca && p.marca.toLowerCase().includes(q));
@@ -136,6 +147,14 @@ function poblarCategorias() {
     });
     filtroCategoria.innerHTML = '<option value="">Todas las categorías</option>'
         + categorias.map((c) => `<option value="${esc(c)}">${esc(c)}</option>`).join('');
+}
+
+function poblarMarcas() {
+    const marcas = [...new Set(catalogo.productos.map((p) => p.marca).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'es'));
+    const hayProductosSinMarca = catalogo.productos.some((p) => !p.marca);
+    filtroMarca.innerHTML = '<option value="">Todas las marcas</option>'
+        + marcas.map((m) => `<option value="${esc(m)}">${esc(m)}</option>`).join('')
+        + (hayProductosSinMarca ? `<option value="${SIN_MARCA}">Sin marca asignada</option>` : '');
 }
 
 function poblarChipsCategorias() {
@@ -174,6 +193,10 @@ filtroCategoria.addEventListener('change', () => {
     actualizarChipActivo();
     filtrarDesdeCero();
 });
+filtroMarca.addEventListener('change', () => {
+    marcaActiva = filtroMarca.value;
+    filtrarDesdeCero();
+});
 btnCargarMas.addEventListener('click', () => {
     paginaActual += 1;
     renderizar();
@@ -185,6 +208,7 @@ async function iniciar() {
     catalogo = await fetch('productos.json', { cache: 'no-store' }).then((r) => r.json());
     poblarCategorias();
     poblarChipsCategorias();
+    poblarMarcas();
 
     // Permite linkear desde otra pagina a una categoria puntual, ej. las
     // tarjetas de "categorias destacadas" del Home (catalogo.html?categoria=Sonido).
