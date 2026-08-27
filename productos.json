@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-25T21:27:31.957Z",
+  "generado": "2026-08-27T14:31:31.232Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -1551,6 +1551,13 @@
       "imagen": null
     },
     {
+      "nombre": "CABEZAL MOVIL BEAM E-LIGHTING 150W - 13 COLORES + 14 GOBOS + PRISMA + FOCO AUTO.",
+      "marca": null,
+      "categoria": "Iluminación > Cabezales Móviles",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2796-1787839351159.jpg"
+    },
+    {
       "nombre": "CABEZAL MOVIL BEAM LED 200W X4 CON CASE",
       "marca": null,
       "categoria": "Iluminación > Cabezales Móviles",
@@ -1563,6 +1570,20 @@
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "nombre": "CABEZAL MOVIL E-LIGHTING 3X40W RGBW 4 EN 1 - TRI-EYE + WASH + BEAM",
+      "marca": null,
+      "categoria": "Iluminación > Cabezales Móviles",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2797-1787837873345.jpg"
+    },
+    {
+      "nombre": "CABEZAL MOVIL E-LIGHTING 7X40W CON ZOOM 4 EN 1 - WASH + BEAM",
+      "marca": null,
+      "categoria": "Iluminación > Cabezales Móviles",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2798-1787837875517.jpg"
     },
     {
       "nombre": "CABEZAL MOVIL MAC AURA 19*15 X4 CON CASE",
@@ -1670,6 +1691,139 @@
       "imagen": null
     },
     {
+      "nombre": "CABLE E-SOUND CANON A CANON XLR - 1 M",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2808-1787839865989.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND CANON A CANON XLR - 10 M",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2811-1787839873760.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND CANON A CANON XLR - 3 M",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2809-1787839877987.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND CANON A CANON XLR - 6 M",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2810-1787839883176.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND MICROFONO BALANCEADO CB-6,5/ST X 100 METROS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2807-1787839982511.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND MINI PLUG A 2 PLUG - 2 M",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2818-1787840009846.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND MINI PLUG A 2 RCA - 2 M",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2816-1787840191078.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND MINI PLUG A 2 RCA - 5 M",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2817-1787840228798.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND PLUG A PLUG - 3 M - ESTÁNDAR",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2812-1787840268778.png"
+    },
+    {
+      "nombre": "CABLE E-SOUND PLUG A PLUG - 3 M - PRO",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2814-1787840277442.png"
+    },
+    {
+      "nombre": "CABLE E-SOUND PLUG A PLUG - 6 M - ESTÁNDAR",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2813-1787840286746.png"
+    },
+    {
+      "nombre": "CABLE E-SOUND PLUG A PLUG - 6 M - PRO",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2815-1787840294111.png"
+    },
+    {
+      "nombre": "CABLE GBR POWERCOM 220V ARMADO",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CABLE GBR PRO CANON A CANON 1 METRO",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CABLE GBR PRO CANON A CANON 10 METROS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CABLE GBR PRO CANON A CANON 15 METROS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CABLE GBR PRO CANON A CANON 20 METROS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CABLE GBR PRO CANON A CANON 3 METROS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CABLE GBR PRO CANON A CANON 6 METROS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "nombre": "CABLE PROF BALANCEADO X100M",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
@@ -1722,6 +1876,13 @@
       "nombre": "CIERRE GBR P/EMBUTIR C/CAJA",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CIERRE MARIPOSA GBR EMBUTIR",
+      "marca": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
@@ -1873,6 +2034,34 @@
       "imagen": null
     },
     {
+      "nombre": "CONECTOR E-SOUND PLUG MONO MACHO 6,5",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2819-1787840485672.jpg"
+    },
+    {
+      "nombre": "CONECTOR E-SOUND SPEAKON CABLE MACHO - 2 CONTACTOS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONECTOR E-SOUND XLR CANON CABLE HEMBRA",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2820-1787840629099.jpg"
+    },
+    {
+      "nombre": "CONECTOR E-SOUND XLR CANON CABLE MACHO",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2821-1787840615090.jpg"
+    },
+    {
       "nombre": "CONECTOR MONO 6.5 METALICO PRO",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
@@ -1881,6 +2070,13 @@
     },
     {
       "nombre": "CONECTOR PLUG-PLUG 1 MTS",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONECTOR POWERCOM GBR CABLE MACHO BLANCO",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
@@ -2193,6 +2389,48 @@
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "nombre": "CONSOLA GBR INTERFACE DMX USB",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO E-SOUND 12 CANALES - EQ 3 BANDAS X CANAL",
+      "marca": null,
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2802-1787840379402.jpg"
+    },
+    {
+      "nombre": "CONSOLA SONIDO E-SOUND 16 CANALES - EQ 3 BANDAS X CANAL - USB/SD/BLUETOOTH",
+      "marca": null,
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2803-1787837895464.png"
+    },
+    {
+      "nombre": "CONSOLA SONIDO E-SOUND 2 CANALES - EQ 3 BANDAS - USB",
+      "marca": null,
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2799-1787839386612.jpg"
+    },
+    {
+      "nombre": "CONSOLA SONIDO E-SOUND 6 CANALES - EQ 3 BANDAS X CANAL",
+      "marca": null,
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2800-1787837899533.jpg"
+    },
+    {
+      "nombre": "CONSOLA SONIDO E-SOUND 8 CANALES - EQ 3 BANDAS X CANAL",
+      "marca": null,
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2801-1787837909472.jpg"
     },
     {
       "nombre": "CONSOLA SONIDO GBR   5 ENTRADAS USB MP3 FX. BT",
@@ -4106,6 +4344,13 @@
       "imagen": null
     },
     {
+      "nombre": "ESLINGA ACERO SEGURIDAD 4MM 85CM 25KG",
+      "marca": null,
+      "categoria": "Estructuras / Truss",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "nombre": "ESQ. GBR PLASTICO APILABLE EPAS",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
@@ -4456,6 +4701,27 @@
       "imagen": null
     },
     {
+      "nombre": "LASER E-LIGHTING BLASTER 1W - DMX/AUTO - FULL COLOR",
+      "marca": null,
+      "categoria": "Iluminación > Láser",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2793-1787839433146.jpg"
+    },
+    {
+      "nombre": "LASER E-LIGHTING BLASTER 2W - DMX/AUTO - FULL COLOR",
+      "marca": null,
+      "categoria": "Iluminación > Láser",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2794-1787839464749.jpg"
+    },
+    {
+      "nombre": "LASER E-LIGHTING BLASTER 3W - DMX/AUTO - FULL COLOR",
+      "marca": null,
+      "categoria": "Iluminación > Láser",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2795-1787839482357.jpg"
+    },
+    {
       "nombre": "LASER GBR 1W RGB AUDIO DMX",
       "marca": null,
       "categoria": "Iluminación > Láser",
@@ -4524,6 +4790,13 @@
       "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": "imagenes/producto-2717-1787077211560.jpg"
+    },
+    {
+      "nombre": "LIQUIDO DE HUMO X5 LITROS PROFESIONAL",
+      "marca": null,
+      "categoria": "Iluminación > Máquinas de Humo",
+      "precio_venta": null,
+      "imagen": null
     },
     {
       "nombre": "LIQUIDO GBR BURBUJA X 5LTS",
@@ -4862,6 +5135,13 @@
       "imagen": null
     },
     {
+      "nombre": "MANIJA REBATIBLE GBR ANVIL EXTERIOR",
+      "marca": null,
+      "categoria": "Gabinetes / Cajas Vacías",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "nombre": "MANO DE OBRA",
       "marca": null,
       "categoria": null,
@@ -4916,6 +5196,27 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "nombre": "MEGA GEM LED RGB (STROBO)",
+      "marca": null,
+      "categoria": "Iluminación > Efectos LED",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "MEGA PAR LED E-LIGHTING 18X10W RGBWA 5 EN 1 - OUTDOOR IP 65",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2806-1787839504444.jpg"
+    },
+    {
+      "nombre": "MEGA PAR LED E-LIGHTING 9X10W RGBWA 5 EN 1 - OUTDOOR IP 65",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2805-1787839524752.jpg"
     },
     {
       "nombre": "MEGAFONO GBR C/MICROFONO",
@@ -5233,6 +5534,48 @@
       "imagen": null
     },
     {
+      "nombre": "MICROFONO E-SOUND INALAMBRICO DE MANO + VINCHA DOBLE UHF",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2832-1787839559460.jpg"
+    },
+    {
+      "nombre": "MICROFONO E-SOUND INALAMBRICO DE MANO DOBLE UHF",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2829-1787839577442.jpg"
+    },
+    {
+      "nombre": "MICROFONO E-SOUND INALAMBRICO DE MANO SIMPLE UHF",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2828-1787839608287.jpg"
+    },
+    {
+      "nombre": "MICROFONO E-SOUND INALAMBRICO DE VINCHA DOBLE UHF",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2831-1787839632442.jpg"
+    },
+    {
+      "nombre": "MICROFONO E-SOUND INALAMBRICO DE VINCHA SIMPLE UHF",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2830-1787839649253.jpg"
+    },
+    {
+      "nombre": "MICROFONO E-SOUND SM58 CON CABLE",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2827-1787839680109.png"
+    },
+    {
       "nombre": "MICROFONO GBR COND.USB BRASO",
       "marca": null,
       "categoria": "Sonido > Microfonos Alámbricos",
@@ -5406,6 +5749,13 @@
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "nombre": "MOTOR ESFERA ESPEJADA E-LIGHTING - 20/30/40/50 CM - CARGA MAXIMA 5 KG 3,3 RPM",
+      "marca": null,
+      "categoria": "Iluminación > Esferas Espejadas",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2804-1787837924482.jpg"
     },
     {
       "nombre": "MOTOR GBR P/ESFERA HASTA 40 CM",
@@ -6185,6 +6535,34 @@
       "imagen": null
     },
     {
+      "nombre": "PAR LED E-LIGHTING 12X3W RGB 3 EN 1 - 5CH - DMX/AUTO/SOUND",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2789-1787837934052.jpg"
+    },
+    {
+      "nombre": "PAR LED E-LIGHTING 54X1,5W RGB 3 EN 1 - 4/7CH - DMX/AUTO/SOUND",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2790-1787837935739.png"
+    },
+    {
+      "nombre": "PAR LED E-LIGHTING 54X3W RGB 3 EN 1 - 3/7CH - DMX/AUTO/SOUND",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2791-1787837945129.png"
+    },
+    {
+      "nombre": "PAR LED FLAT E-LIGHTING 6X12W RGBWA + UV - 9CH - DMX/AUTO/SOUND",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2792-1787837954818.jpg"
+    },
+    {
       "nombre": "PAR LED RGBW 18X8W",
       "marca": null,
       "categoria": "Iluminación > Spots LED",
@@ -6465,6 +6843,13 @@
       "imagen": null
     },
     {
+      "nombre": "PIE DE BAFLE PESADO STUDIOMASTER SB400",
+      "marca": null,
+      "categoria": "Sonido > Soportes y Trípodes",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2825-1787839708903.jpg"
+    },
+    {
       "nombre": "PIE DE BAFLE STD METALICO",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Soportes y Trípodes",
@@ -6472,11 +6857,32 @@
       "imagen": null
     },
     {
+      "nombre": "PIE DE BAFLE STUDIOMASTER EXTENCION GRAVE A MEDIO 80CM",
+      "marca": null,
+      "categoria": "Sonido > Soportes y Trípodes",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2826-1787839735184.jpg"
+    },
+    {
       "nombre": "PIE DE MICROFONO",
       "marca": null,
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "nombre": "PIE DE MICROFONO STUDIOMASTER JIRAFA EXTENSIBLE PESADO MPS1",
+      "marca": null,
+      "categoria": "Sonido > Soportes y Trípodes",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2824-1787839811144.jpg"
+    },
+    {
+      "nombre": "PIE DE MICROFONO STUDIOMASTER JIRAFA EXTENSIBLE STD 130",
+      "marca": null,
+      "categoria": "Sonido > Soportes y Trípodes",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-2823-1787839831427.jpg"
     },
     {
       "nombre": "PIE GBR MESA CUELLO FLEXIBLE GS4",
@@ -6517,6 +6923,13 @@
       "nombre": "PIE MICROFONO JIRAFA",
       "marca": null,
       "categoria": "Sonido > Soportes y Trípodes",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "PIPETA GBR PARA MICROFONO DE MANO INALAMBRICO",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": null
     },
@@ -8213,6 +8626,13 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2496-1787580913622.jpg"
+    },
+    {
+      "nombre": "TROMPA NEXO H06 10X10 - 1,4\"",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Accesorios Varios",
+      "precio_venta": null,
+      "imagen": null
     },
     {
       "nombre": "TRUSS 16X16X 2 MTS ZINC 1 PULG",
