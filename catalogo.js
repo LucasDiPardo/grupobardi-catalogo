@@ -7,6 +7,8 @@ const contador = document.getElementById('contador');
 const estadoVacio = document.getElementById('estadoVacio');
 const btnCargarMas = document.getElementById('btnCargarMas');
 const pieFecha = document.getElementById('pieFecha');
+const header = document.querySelector('header');
+const btnVolverArriba = document.getElementById('btnVolverArriba');
 const modalOverlay = document.getElementById('modalOverlay');
 const modalContenido = document.getElementById('modalContenido');
 const modalCerrar = document.getElementById('modalCerrar');
@@ -200,6 +202,37 @@ filtroMarca.addEventListener('change', () => {
 btnCargarMas.addEventListener('click', () => {
     paginaActual += 1;
     renderizar();
+});
+
+// En celular el header (logo + buscador + filtros + chips) ocupa buena
+// parte de la pantalla y quedaba fijo arriba todo el tiempo (position:
+// sticky) -- se esconde al bajar y reaparece al subir, patron habitual de
+// sitios con buscador arriba (mismo lugar donde se recupera con el boton
+// "volver arriba").
+let ultimoScrollY = window.scrollY;
+let tickeando = false;
+
+function actualizarPorScroll() {
+    const actual = window.scrollY;
+    if (actual > ultimoScrollY && actual > 80) {
+        header.classList.add('header-oculto');
+    } else {
+        header.classList.remove('header-oculto');
+    }
+    btnVolverArriba.hidden = actual < 400;
+    ultimoScrollY = actual;
+    tickeando = false;
+}
+
+window.addEventListener('scroll', () => {
+    if (tickeando) return;
+    tickeando = true;
+    requestAnimationFrame(actualizarPorScroll);
+}, { passive: true });
+
+btnVolverArriba.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    header.classList.remove('header-oculto');
 });
 
 async function iniciar() {
