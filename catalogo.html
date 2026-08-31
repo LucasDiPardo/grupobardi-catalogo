@@ -49,10 +49,26 @@
 
 <button id="btnVolverArriba" class="boton-volver-arriba" type="button" aria-label="Volver arriba" hidden>&uarr;</button>
 
+<button id="btnCarrito" class="boton-carrito" type="button" aria-label="Ver consulta">
+    🛒<span id="carritoContador" class="carrito-contador" hidden>0</span>
+</button>
+
 <div id="modalOverlay" class="modal-overlay" hidden>
     <div class="modal-caja" role="dialog" aria-modal="true">
         <button id="modalCerrar" class="modal-cerrar" aria-label="Cerrar">&times;</button>
         <div id="modalContenido"></div>
+    </div>
+</div>
+
+<div id="carritoOverlay" class="modal-overlay" hidden>
+    <div class="modal-caja" role="dialog" aria-modal="true">
+        <button id="carritoCerrar" class="modal-cerrar" aria-label="Cerrar">&times;</button>
+        <div class="carrito-caja">
+            <h2 class="carrito-titulo">Tu consulta</h2>
+            <p class="carrito-ayuda">Juntá los productos que te interesan y mandanos una sola consulta por WhatsApp.</p>
+            <div id="carritoLista" class="carrito-lista"></div>
+            <div id="carritoAcciones"></div>
+        </div>
     </div>
 </div>
 

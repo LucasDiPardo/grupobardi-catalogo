@@ -756,6 +756,173 @@ header.header-oculto {
     background: var(--color-acento-hover);
 }
 
+/* ---- "Ver detalles" en la tarjeta (abre el modal). Violeta para no
+   competir visualmente con el azul, reservado para WhatsApp. ---- */
+
+.boton-ver-detalles {
+    margin-top: auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: 1px solid var(--color-acento);
+    color: var(--color-acento-hover);
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 0.55rem 0.8rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.boton-ver-detalles:hover {
+    background: var(--color-acento);
+    color: #fff;
+}
+
+/* ---- Agregar/quitar del carrito (dentro del modal de detalle) ---- */
+
+.boton-carrito-agregar {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    background: var(--color-acento);
+    border: 1px solid var(--color-acento);
+    color: #fff;
+    border-radius: 8px;
+    padding: 0.55rem 0.8rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    width: 100%;
+}
+
+.boton-carrito-agregar:hover {
+    background: var(--color-acento-hover);
+    border-color: var(--color-acento-hover);
+}
+
+.boton-carrito-agregar.en-carrito {
+    background: none;
+    color: var(--color-texto-muted);
+}
+
+.boton-carrito-agregar.en-carrito:hover {
+    border-color: #e05252;
+    color: #e05252;
+}
+
+.modal-acciones {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-top: 0.4rem;
+}
+
+/* ---- Boton flotante del carrito + contador ---- */
+
+.boton-carrito {
+    position: fixed;
+    left: 1rem;
+    bottom: 1rem;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 1px solid var(--color-borde-input);
+    background: var(--color-bg-elevado);
+    font-size: 1.2rem;
+    line-height: 1;
+    cursor: pointer;
+    z-index: 6;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+
+.boton-carrito:hover {
+    border-color: var(--color-acento-hover);
+}
+
+.carrito-contador {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    min-width: 18px;
+    height: 18px;
+    padding: 0 4px;
+    border-radius: 999px;
+    background: var(--color-azul-gbd);
+    color: #fff;
+    font-size: 0.68rem;
+    font-weight: 700;
+    line-height: 18px;
+}
+
+/* ---- Panel del carrito (reutiliza .modal-overlay / .modal-caja) ---- */
+
+.carrito-caja {
+    padding: 1.5rem;
+}
+
+.carrito-titulo {
+    margin: 0 0 0.3rem;
+    font-size: 1.15rem;
+}
+
+.carrito-ayuda {
+    margin: 0 0 1rem;
+    color: var(--color-texto-muted);
+    font-size: 0.85rem;
+}
+
+.carrito-lista {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+}
+
+.carrito-vacio {
+    color: var(--color-texto-faint);
+    font-size: 0.88rem;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.carrito-item {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.6rem 0.7rem;
+    border: 1px solid var(--color-borde);
+    border-radius: 8px;
+    background: var(--color-bg-elevado);
+}
+
+.carrito-item-nombre {
+    flex: 1;
+    font-size: 0.85rem;
+}
+
+.carrito-item-quitar {
+    flex-shrink: 0;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: none;
+    background: none;
+    color: var(--color-texto-faint);
+    font-size: 1.1rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.carrito-item-quitar:hover {
+    background: rgba(224, 82, 82, 0.15);
+    color: #e05252;
+}
+
 /* ---- Mobile: header/filtros/tarjetas mas chicos, el header se esconde al
    bajar para dejarle lugar a la grilla de productos (ver catalogo.js). ---- */
 @media (max-width: 640px) {
