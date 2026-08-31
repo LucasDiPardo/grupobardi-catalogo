@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-27T15:18:30.677Z",
+  "generado": "2026-08-31T13:08:08.670Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -46,11 +46,18 @@
       "imagen": "imagenes/producto-2292-1787675125610.jpg"
     },
     {
-      "nombre": "ADAPT P/ DRIVER 1\" ROSCA HEMBRA",
-      "marca": null,
+      "nombre": "ADAPTADOR DRIVER AMERICAN VOX ROSCA HEMBRA",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2481-1787581958187.jpg"
+    },
+    {
+      "nombre": "ADAPTADOR DRIVER AMERICAN VOX ROSCA MACHO",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Drivers y Repuestos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-686-1787578963267.webp"
     },
     {
       "nombre": "ADAPTADOR GBR",
@@ -58,13 +65,6 @@
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-11-1787675271637.jpg"
-    },
-    {
-      "nombre": "ADAPTADOR GBR MET.P/EMBUTIR",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-10-1787675142951.jpg"
     },
     {
       "nombre": "AGARRE METALICO P/BUMBER",
@@ -165,7 +165,7 @@
       "imagen": "imagenes/producto-2696-1787076763251.jpg"
     },
     {
-      "nombre": "ANVIL X10 CASE - LED PAR300 DMX - 18x10W RGBWAUV con ARO LED",
+      "nombre": "ANVIL X10 CASE - LED PAR300 DMX - 18x8W RGBW con ARO LED",
       "marca": "GBR",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
@@ -177,13 +177,6 @@
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "imagenes/producto-2456-1785277471138.jpg"
-    },
-    {
-      "nombre": "Adaptador Driver American Vox AR2 1&quot; con Rosca Macho",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-686-1787578963267.webp"
     },
     {
       "nombre": "Adaptador Plug a Minijack",
@@ -382,6 +375,13 @@
       "imagen": "imagenes/producto-2714-1787076958481.jpg"
     },
     {
+      "nombre": "BAFLE CAJA 15\" PRO VACIA",
+      "marca": "B-SOUND",
+      "categoria": "Gabinetes / Cajas Vacías",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "nombre": "BAFLE CAJA 15\" VACIA",
       "marca": "B-SOUND",
       "categoria": "Gabinetes / Cajas Vacías",
@@ -424,240 +424,9 @@
       "imagen": "imagenes/producto-2544-1787676474308.jpg"
     },
     {
-      "nombre": "BAFLE GBR 1 V12\" 800W POT MP3 BT",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 1 V15\" 500W graves pot",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 1 VIA 15\" 500W 1.1 act",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 1 VIA 15\" 500W 1.1 pas",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 1 VIA 15\" 500W POT PLA",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 1 VIA 18\" 600W POT PLA",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 10\" 300W 2V COAX ACT",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 12\" COAX 2V 600W POT",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 1200W 2V 12\" ACT ARRAY",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Line Array",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 120W 3 VIAS 4\"PAR BLAN",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 120W 3 VIAS 4\"PAR NEGR",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 120W 3V 4\"PAR100V BLAN",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 120W 3V 4\"PAR100V NEGR",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 15\" COAX 2V 600W POT",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 15\"800W POTENCIA Plus",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 15W C/BAT.VINCHA MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 18\" 1600W 1V PAS ARRAY",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Line Array",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "BAFLE GBR 18\" 600W 1V POT dsp",
       "marca": "GBR",
       "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 18\"600W 1V 8OHM PASiVO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 18\"800W 1V ACTIVO plus",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 18\"800W 1V PASiVO plus",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 1V18\" 1000W graves pot",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V 10\" MP3 BAT party",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V 10\" POT PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V 15\" MP3 BAT party",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V 15x2 MP3 BAT party",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V 8\" MP3 BAT party",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V 8\" MP3 BAT party",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V 8\" POT PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V12\" 1000W dsp serie",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V15\" 1200W PLAT DSP",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 V15\" MP3 BT PRO app",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 10\" 180W PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 10\" MP3 BATERIA",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
       "precio_venta": null,
       "imagen": null
     },
@@ -669,91 +438,14 @@
       "imagen": null
     },
     {
-      "nombre": "BAFLE GBR 2 VIAS 12\" 1000W PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 12\" MP3 BAT PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 12\" POT PRO DSP",
+      "nombre": "BAFLE GBR 2 VIAS 12\" POT PRO DSP - PL1230",
       "marca": "GBR",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "BAFLE GBR 2 VIAS 12\"MP3 PRO APP",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 15\" 1000W new",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 15\" 250W PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 15\" MP3 BAT PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 15\" MP3 BT eco",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 15\" MP3 bt new",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 15\"\" DSP BT dsp",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 18\" 500W RMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 18\" MP3 PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 2 VIAS 2X15\"MP3 BT pro",
+      "nombre": "BAFLE GBR 2 VIAS 15\"\" DSP BT DSP - PL1500",
       "marca": "GBR",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
@@ -770,188 +462,6 @@
       "nombre": "BAFLE GBR 2 VIAS 8\" MP3 BT PRO",
       "marca": "GBR",
       "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 200W 2 VIAS 6.5\" X PAR",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 200W 2V 6.5\" PAR BLANC",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 200W 2V6.5\" PAR100V BL",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 200W 2V6.5\" PAR100V NE",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 200W 6.5 PAR100V BL WP",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 200W 6.5 PAR100V NE WP",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 250W 2 VIAS 8\" X PAR",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 300W 2 VIAS 10\" X PAR",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 300W 2X4\"2VIAS X PAR",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Activos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 40W C/BAT.MIC.INAL.MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 500W 2 V 10\"PASIV COAX",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 500W 2 VIAS 8\" PLATIN",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 600W 2 V 12\"PASIV COAX",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 600W 2 V 15\"P A701PA",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 600W 2 VIAS 10\" PLATIN",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR 800W 2V15\" PAS. Plus",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR GRAVES 18\" 500W 8OHM",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR GRAVES15\" 500W 8OHM",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR INTEMPERIE 4",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR INTEMPERIE 60W",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR INTEMPERIE 80W2X5\"100V",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR JARDIN EXT 160W 100V",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles de Instalación",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR MINI MP3 BT BAT party",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Portátiles / Batería",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR PAR ARRAY 600W",
-      "marca": "GBR",
-      "categoria": "Sonido > Bafles Line Array",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR1000W 2 VIAS 12\" PLAT",
-      "marca": null,
-      "categoria": "Sonido > Bafles Pasivos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAFLE GBR1200W 2 VIAS 15\" PLAT",
-      "marca": null,
-      "categoria": "Sonido > Bafles Pasivos",
       "precio_venta": null,
       "imagen": null
     },
@@ -998,46 +508,67 @@
       "imagen": null
     },
     {
-      "nombre": "BAFLE PLASTICO VACIO 10\" 2 VIAS",
-      "marca": null,
+      "nombre": "BAFLE PLASTICO AMERICAN VOX VACIO 10\" 2 VIAS",
+      "marca": "AMERICAN VOX",
       "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "BAFLE PLASTICO VACIO 12\" 2 VIAS",
-      "marca": null,
+      "nombre": "BAFLE PLASTICO AMERICAN VOX VACIO 12\" 2 VIAS",
+      "marca": "AMERICAN VOX",
       "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "BAFLE PLASTICO VACIO 15\" 2 VIAS",
-      "marca": null,
+      "nombre": "BAFLE PLASTICO AMERICAN VOX VACIO 15\" 2 VIAS",
+      "marca": "AMERICAN VOX",
       "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "BAFLE PLASTICO VACIO 8\" 2 VIAS",
-      "marca": null,
+      "nombre": "BAFLE PLASTICO AMERICAN VOX VACIO 8\" 2 VIAS",
+      "marca": "AMERICAN VOX",
       "categoria": "Gabinetes / Cajas Vacías",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "BAFLE PLAT LINE ARRAY 10\" 2V500W",
-      "marca": null,
-      "categoria": "Sonido > Bafles Line Array",
+      "nombre": "BAFLE PROFESIONAL AMERICAN VOX AVNOXEN 12 PRO 800W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-674-1787168190926.webp"
     },
     {
-      "nombre": "BAFLE PLAT18\" 2000W 1V ACT ARRAY",
-      "marca": null,
-      "categoria": "Sonido > Bafles Line Array",
+      "nombre": "BAFLE PROFESIONAL AMERICAN VOX AVNOXEN 15 PRO 800W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-673-1787168274463.webp"
+    },
+    {
+      "nombre": "BAFLE PROFESIONAL AMERICAN VOX F12X 400W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Bafles Pasivos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-814-1787168302428.webp"
+    },
+    {
+      "nombre": "BAFLE PROFESIONAL AMERICAN VOX F15X 500W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Bafles Pasivos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-813-1787168403220.webp"
+    },
+    {
+      "nombre": "BAFLE PROFESIONAL AMERICAN VOX S18X 1000W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Bafles Pasivos",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-812-1787168420151.webp"
     },
     {
       "nombre": "BAFLE SUB CUBITO 18\" VACIA",
@@ -1096,13 +627,6 @@
       "imagen": "imagenes/producto-2297-1787079654819.jpg"
     },
     {
-      "nombre": "BASE PLANA A 45 GRADOS X 4 UNID 24X24",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "BASE PLANA A 45 GRADOS X 4 UNID 30X30",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
@@ -1124,163 +648,9 @@
       "imagen": null
     },
     {
-      "nombre": "BAÑADOR GBR LED 24 LED 10W 4EN1",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAÑADOR GBR LED 40 LED 3W PIXEL",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAÑADOR GBR LED 48+8 LED STROBO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAÑADOR GBR LED 80 LED 3W PIXEL",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAÑADOR GBR LED 9 LED 10W UV",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAÑADOR GBR LED IP MOVIL 714LED",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BAÑADOR GBR LED STROB KIT 10 ANV",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "BLINDER 4 LED 400W FRIO/CALIDO",
       "marca": null,
       "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOBINA WOOFER P1000 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOBINA WOOFER P1500 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOBINA WOOFER P1800 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOBINA WOOFER P800 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOCINA GBR C/DRIVER 50W 5X8 H520",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOCINA GBR METALICA P/INTEMPERIE",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOCINA GBR S/DRIVER 1\"",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOCINA GBR S/DRIVER 1\" PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOCINA GBR S/DRIVER 1\" PT204",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOCINA GBR S/DRIVER 1\"7.5\"x6\"",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOCINA GBR S/DRIVER 1\"P/ARRAY100",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOMBA M DE HUMO 11W",
-      "marca": null,
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOMBA M DE HUMO 18W",
-      "marca": null,
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOMBA M DE HUMO 31W",
-      "marca": null,
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BOMBA M DE HUMO 49W",
-      "marca": null,
-      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
@@ -1295,20 +665,6 @@
       "nombre": "BUMPER PARA PANTALLA 50CM",
       "marca": null,
       "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BUMPER PLATINUM ARRAY 1020 PRO",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "BUMPER PLATINUM P/ARRAY1000 LA",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": null
     },
@@ -1432,49 +788,14 @@
       "imagen": "https://venetian.com.ar/images/products/2402161634575438/0.jpg"
     },
     {
-      "nombre": "CABEZAL GBR BEAM 200W kit 4 case",
+      "nombre": "CABEZAL GBR BEAM LED 100W KIT X4 ANVIL",
       "marca": "GBR",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "CABEZAL GBR DBEAM 100W X4 ANVIL",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR DMX 11CH LED 10W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR DMX 11CH LED 30W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR DMX 16CH LED 60W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR DMX 6 BEAM + LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR DMX 7LED 12W RGBW",
+      "nombre": "CABEZAL GBR BEAM LED 200W KIT X4 ANVIL",
       "marca": "GBR",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
@@ -1496,34 +817,6 @@
     },
     {
       "nombre": "CABEZAL GBR DMX BEAM LED 200W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR DMX LASER 5W RGB",
-      "marca": "GBR",
-      "categoria": "Iluminación > Láser",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR DMX LED 360 WASH/BE",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR GOBO + BEAM DMX",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABEZAL GBR GOBO + WASH DMX",
       "marca": "GBR",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
@@ -1600,13 +893,6 @@
       "imagen": null
     },
     {
-      "nombre": "CABLE BAFLE 2X1MM TIPO TALLLER",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "CABLE BAFLE 2X2,5MM TIPO TALLLER",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
@@ -1621,49 +907,7 @@
       "imagen": null
     },
     {
-      "nombre": "CABLE BAFLE ROJO Y NEGRO",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABLE BAFLE ROJO Y NEGRO",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABLE BAFLE ROJO Y NEGRO 2 X 1MM",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "CABLE BALANC.DMX 120 OHMS X MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABLE BALANC.DMX 120 OHMS X MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABLE BALANC.MIC.DMX P/MET",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CABLE BALANC.MIC.DMX P/MET",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
@@ -1678,14 +922,14 @@
     },
     {
       "nombre": "CABLE CANON A CANON 1,5M",
-      "marca": null,
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "CABLE CANON A CANON 10M",
-      "marca": null,
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
@@ -1724,6 +968,13 @@
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "imagenes/producto-2807-1787839982511.jpg"
+    },
+    {
+      "nombre": "CABLE E-SOUND MICROFONO BALANCEADO CB-6,5/ST X METRO",
+      "marca": "E-SOUND",
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
     },
     {
       "nombre": "CABLE E-SOUND MINI PLUG A 2 PLUG - 2 M",
@@ -1824,29 +1075,22 @@
       "imagen": null
     },
     {
-      "nombre": "CABLE PROF BALANCEADO X100M",
+      "nombre": "CABLE PROFESIONAL BALANCEADO BOBINA X100M",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "CAJA GBR PARA BAFLE BORNERA",
-      "marca": "GBR",
-      "categoria": "Sonido > Conectores y Cables",
+      "nombre": "CABLE PROFESIONAL BALANCEADO BOBINA X100M",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "CAJA GBR PORTA CANON XLR-2",
-      "marca": "GBR",
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CAJA GBR PORTA JACK PLUG-2",
-      "marca": "GBR",
+      "nombre": "CABLE PROFESIONAL BALANCEADO X METRO",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
@@ -1873,13 +1117,6 @@
       "imagen": null
     },
     {
-      "nombre": "CIERRE GBR P/EMBUTIR C/CAJA",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "CIERRE MARIPOSA GBR EMBUTIR",
       "marca": "GBR",
       "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
@@ -1887,42 +1124,7 @@
       "imagen": null
     },
     {
-      "nombre": "CONECT.CANON HEMBRA P/CABLE",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECT.CANON MACHO P/CABLE",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECT.GBR MINI CANON P/MIC UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "CONECT.GBR SPEAKON",
-      "marca": "GBR",
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECT.GBR SPEAKON HEMBRA",
-      "marca": "GBR",
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECT.GBR SPEAKON MACHO",
       "marca": "GBR",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
@@ -1936,13 +1138,6 @@
       "imagen": "imagenes/producto-63-1785162206667.jpg"
     },
     {
-      "nombre": "CONECT.RCA MACHO METALICO",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "CONECTOR CANON XLR HEMBRA CABLE",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
@@ -1951,76 +1146,6 @@
     },
     {
       "nombre": "CONECTOR CANON XLR MACHO CABLE",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 1 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 1 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 10 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 15 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 2.5 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 20 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 25 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 3 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 30 MTS",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR CANON-CANON 6 MTS",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
@@ -2069,7 +1194,7 @@
       "imagen": null
     },
     {
-      "nombre": "CONECTOR PLUG-PLUG 1 MTS",
+      "nombre": "CONECTOR POWERCOM GBR CABLE MACHO AZUL",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
@@ -2078,20 +1203,6 @@
     {
       "nombre": "CONECTOR POWERCOM GBR CABLE MACHO BLANCO",
       "marca": "GBR",
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR POWERCOM GBRCABLE",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR RCA METALICO PRO",
-      "marca": null,
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
@@ -2125,58 +1236,9 @@
       "imagen": null
     },
     {
-      "nombre": "CONECTOR SPK-SPK 10MTS 2x1mm",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR SPK-SPK 15MTS 2x1mm",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "CONECTOR SPK-SPK 20MTS 2x1.5mm",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR SPK-SPK 20MTS 2x1mm",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR SPK-SPK 30MTS 2x1.5mm",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR SPK-SPK 30MTS 2x1mm",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONECTOR SPK-SPK 6MTS 2x1 mm",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS. INTERFACE PARA PC",
-      "marca": null,
-      "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": null
     },
@@ -2188,196 +1250,7 @@
       "imagen": null
     },
     {
-      "nombre": "CONS.SON.GBR 16CH USB FX BT PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 100W 100v 12/220",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 12 CH MP3 EQ",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 12 CH USB FX BT",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 12CH 400W PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 16 CH MP3 EQ",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 16 CH USB FX BT",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 170W 100V",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 200W 100V 4",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 24 CH USB FX BT",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 250W 100V 6",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 30W220/12",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 4CH 400W MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 4CH 400W MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 5 ENT MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 5 ENT MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 8 CH USB MP3 FX",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 80WMP3BT100V",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 8CH 400W MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 8CH 400W MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR 8CH MP3 EQ",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR MINI 4CH",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR PARED 4X25W",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR POT 4CH 150W",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR POT 4CH MP3. BT",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR POT MIX4 POWER",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR POTE 400W BT",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONS.SONIDO GBR POTEN. 6CH MP3",
+      "nombre": "CONSOLA GBR DMX 512 384 CH 240 ESCENAS - 2 UNIVERSOS",
       "marca": "GBR",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
@@ -2398,49 +1271,98 @@
       "imagen": null
     },
     {
-      "nombre": "CONSOLA SONIDO E-SOUND 12 CANALES - EQ 3 BANDAS X CANAL",
+      "nombre": "CONSOLA SONIDO E-SOUND 12 CANALES - EQ 3 BANDAS X CANAL - FX-1230",
       "marca": "E-SOUND",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "imagenes/producto-2802-1787840379402.jpg"
     },
     {
-      "nombre": "CONSOLA SONIDO E-SOUND 16 CANALES - EQ 3 BANDAS X CANAL - USB/SD/BLUETOOTH",
+      "nombre": "CONSOLA SONIDO E-SOUND 16 CANALES - EQ 3 BANDAS X CANAL - USB/SD/BL - FX-1630U/BL",
       "marca": "E-SOUND",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "imagenes/producto-2803-1787837895464.png"
     },
     {
-      "nombre": "CONSOLA SONIDO E-SOUND 2 CANALES - EQ 3 BANDAS - USB",
+      "nombre": "CONSOLA SONIDO E-SOUND 2 CANALES - EQ 3 BANDAS - USB - AF-400U",
       "marca": "E-SOUND",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "imagenes/producto-2799-1787839386612.jpg"
     },
     {
-      "nombre": "CONSOLA SONIDO E-SOUND 6 CANALES - EQ 3 BANDAS X CANAL",
+      "nombre": "CONSOLA SONIDO E-SOUND 6 CANALES - EQ 3 BANDAS X CANAL - FX-630",
       "marca": "E-SOUND",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "imagenes/producto-2800-1787837899533.jpg"
     },
     {
-      "nombre": "CONSOLA SONIDO E-SOUND 8 CANALES - EQ 3 BANDAS X CANAL",
+      "nombre": "CONSOLA SONIDO E-SOUND 8 CANALES - EQ 3 BANDAS X CANAL - FX-830",
       "marca": "E-SOUND",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "imagenes/producto-2801-1787837909472.jpg"
     },
     {
-      "nombre": "CONSOLA SONIDO GBR   5 ENTRADAS USB MP3 FX. BT",
+      "nombre": "CONSOLA SONIDO GBR 12 CH USB FX BT - MIX12USB",
       "marca": "GBR",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "CONSOLA SONIDO GBR   6 ENTRADAS USB MP3 FX. BT",
+      "nombre": "CONSOLA SONIDO GBR 12CH 400W MP3 - MIX12-PP",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR 16 CH USB FX BT - MIX16USB",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR 24 CH USB FX BT - MIX24USB",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR 4 CH 400W MP3 - MIX6-PP",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR 5 CH USB/MP3/FX/BT - MX650USB ",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR 6 CH USB/MP3/FX/BT - MX680USB",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR 8 CH 400W MP3 - MIX8-PP",
+      "marca": "GBR",
+      "categoria": "Sonido > Consolas y Mezcladoras",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "CONSOLA SONIDO GBR 8 CH USB MP3 FX - MIX8USB",
       "marca": "GBR",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
@@ -2452,62 +1374,6 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "imagenes/producto-2137-1784584437306.jpg"
-    },
-    {
-      "nombre": "CONT.GBR ALAMBRICO P/F1000/800",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONT.GBR CABLE KONOR600-600 PRO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONT.GBR DMX 192CH 8 PROG ECO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Controladores DMX",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONT.GBR DMX 384CH 240 ESCENAS",
-      "marca": "GBR",
-      "categoria": "Iluminación > Controladores DMX",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONT.GBR INAL COMPLETO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONT.GBR INALAL 600-600PRO-900",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONT.GBR INALAMBRICO P/F800/1000",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CONT.GBR REMOTO COMPLETO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
     },
     {
       "nombre": "CONTROLADOR DMX COMAND WING",
@@ -2595,20 +1461,6 @@
     },
     {
       "nombre": "CUBO RIGIDO 40X30 X 3,2MM",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CUBO RIGIDO CHAPA 16X16",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "CUBO TRIANGULAR EQUILATERO 30X30 CAÑO (HEXAGONO)",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
@@ -3154,13 +2006,6 @@
       "imagen": "https://venetian.com.ar/images/products/1911081331268863/0.jpg"
     },
     {
-      "nombre": "Conector Speakon Hembra de Chasis",
-      "marca": null,
-      "categoria": "Sonido > Conectores y Cables",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "Conector Speakon Macho a Cable",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
@@ -3497,13 +2342,6 @@
       "imagen": "https://venetian.com.ar/images/products/2506181719409148/0.jpg"
     },
     {
-      "nombre": "Corrector de Fase American Vox CF08",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-687-1787164515929.webp"
-    },
-    {
       "nombre": "Cápsula de Repuesto Profesional",
       "marca": null,
       "categoria": "Sonido > Microfonos Inalámbricos",
@@ -3553,562 +2391,128 @@
       "imagen": "https://venetian.com.ar/images/products/1911071205302948/0.jpg"
     },
     {
-      "nombre": "DIAFRAGMA GBR D1560 34mm",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR D1580VC 44mm",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR LINE ARRAY 4",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/ARRAY800",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/D4428VC",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/D7288VC",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/D772",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/DA875",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/TWD105 VC100",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/TWD50",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIAFRAGMA GBR P/TWD75",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIVISOR FRECUENCIA CR18 - 2 VIAS 600W",
-      "marca": null,
+      "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR18 - 2 VIAS 600W",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2476-1787581856056.webp"
     },
     {
-      "nombre": "DIVISOR FRECUENCIA CR20 - 2 VIAS 600W",
-      "marca": null,
+      "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR20 - 2 VIAS 600W",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2477-1787581820386.jpg"
     },
     {
-      "nombre": "DIVISOR FRECUENCIA CR25 - 2 VIAS 500W",
-      "marca": null,
+      "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR25 - 2 VIAS 500W",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2478-1787581762649.jpg"
     },
     {
-      "nombre": "DIVISOR FRECUENCIA CR2K5 - 1 VIA 120W",
+      "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR2K0 - 1 VIA 200W",
+      "marca": "AMERICAN VOX",
+      "categoria": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR2K5 - 1 VIA 120W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido",
       "precio_venta": null,
       "imagen": "imagenes/producto-2729-1787581737204.jpg"
     },
     {
-      "nombre": "DIVISOR FRECUENCIA CR35 - 2 VIAS 300W",
-      "marca": null,
+      "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR35 - 2 VIAS 300W",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2479-1787602496629.webp"
     },
     {
-      "nombre": "DIVISOR GBR 2V 300W",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DIVISOR GBR 2V 400W",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER AV PL-75 BC BOCA 1,4\" 110W",
+      "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR4K0 - 1 VIA 120W",
       "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-2464-1787164830777.webp"
-    },
-    {
-      "nombre": "DRIVER GBR 100W 20oz320KHZ TWD75",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
+      "categoria": null,
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "DRIVER GBR 200W 1\" 8 OH TWD100",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER GBR 200W 1\" 8O D4428",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER GBR 200W 1\" PLATINUM PRO",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER GBR 260W 1\" PLATINUM PRO",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER GBR 400W 2\" 8 OHM PLATINU",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER GBR 50W 8 OHM D50",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER GBR UNIDAD MOTRIZ 16",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "DRIVER LEEA TW18 1\" - CON ROSCA 80W",
-      "marca": "LEEA",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "Driver American Vox AV1000 40W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-683-1787164574478.webp"
-    },
-    {
-      "nombre": "Driver American Vox AV25 40W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-771-1787164595161.webp"
-    },
-    {
-      "nombre": "Driver American Vox AV3000 40W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-682-1787164618107.webp"
-    },
-    {
-      "nombre": "Driver American Vox AV34 50W",
+      "nombre": "DRIVER AMERICAN VOX AV34 50W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-769-1787164640787.webp"
     },
     {
-      "nombre": "Driver American Vox AV34s 50W",
+      "nombre": "DRIVER AMERICAN VOX AV34s 50W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-671-1787164659476.webp"
     },
     {
-      "nombre": "Driver American Vox AV44 75W",
+      "nombre": "DRIVER AMERICAN VOX AV44 75W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-768-1787164682451.webp"
     },
     {
-      "nombre": "Driver American Vox AV44S 75W",
+      "nombre": "DRIVER AMERICAN VOX AV44S 75W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-672-1787164704986.webp"
     },
     {
-      "nombre": "Driver American Vox AV5000 50W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-681-1787164727392.webp"
-    },
-    {
-      "nombre": "Driver American Vox AV51 100W",
+      "nombre": "DRIVER AMERICAN VOX AV51 100W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-694-1787602649745.jpg"
     },
     {
-      "nombre": "Driver American Vox AV6000 50W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-680-1787164747697.webp"
-    },
-    {
-      "nombre": "Driver American Vox AV72 200W",
+      "nombre": "DRIVER AMERICAN VOX AV72 200W",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-697-1787579564221.jpg"
     },
     {
-      "nombre": "Driver American Vox ND254 40W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-772-1787080942442.webp"
-    },
-    {
-      "nombre": "Driver American Vox ND4402/B 50W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-770-1787081042918.webp"
-    },
-    {
-      "nombre": "Driver American Vox PL75 BC 110W",
+      "nombre": "DRIVER AMERICAN VOX PL75 BC 110W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-700-1787081078629.webp"
     },
     {
-      "nombre": "Driver American Vox TDU450 125W",
+      "nombre": "DRIVER AMERICAN VOX PL75 BC 110W 1.4\"",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": "imagenes/producto-679-1787081190651.webp"
+      "imagen": "imagenes/producto-2464-1787164830777.webp"
     },
     {
-      "nombre": "Driver American Vox TDU772 100W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-695-1787081241229.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF FD371 30W",
+      "nombre": "DRIVER FAITAL PRO HF140 NEODIMIO 70W",
       "marca": "FAITALPRO",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
-      "imagen": "imagenes/producto-705-1787081414638.webp"
+      "imagen": null
     },
     {
-      "nombre": "Driver FaitalPro HF HF10AT 60W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-711-1787081442997.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF HF140 109DB 70W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-707-1787081488277.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF HF146 80W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-706-1787081553171.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF100 30W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-688-1787081615230.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF105 40W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-709-1787081755760.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF107 70W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-708-1787081795213.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF10AK 60W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-712-1787081822969.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF110 40W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-774-1787081850747.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF141 1.4 100W",
+      "nombre": "DRIVER FAITAL PRO HF141 1.4 FERRITE 100W",
       "marca": "FAITALPRO",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-703-1787081873921.webp"
     },
     {
-      "nombre": "Driver FaitalPro HF143 1.4 100W",
-      "marca": "FAITALPRO",
+      "nombre": "DRIVER LEEA TW18 1\" - CON ROSCA 80W",
+      "marca": "LEEA",
       "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-702-1787081906383.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF146 80W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-704-1787081959487.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF200F 70W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-773-1787082054684.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF201 50W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-701-1787082089571.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF204 80W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-689-1787082123883.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF206 80W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-714-1787082151509.webp"
-    },
-    {
-      "nombre": "Driver FaitalPro HF20AT 90W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-716-1787082189742.webp"
-    },
-    {
-      "nombre": "Driver Lavoce DF10.101L 20W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-717-1787082222346.webp"
-    },
-    {
-      "nombre": "Driver Lavoce DF10.14 30W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-713-1787082241946.webp"
-    },
-    {
-      "nombre": "Driver Lavoce DF10.172K 60W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-715-1787082260602.webp"
-    },
-    {
-      "nombre": "Driver Lavoce DF14.300T 110W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-710-1787082372693.webp"
-    },
-    {
-      "nombre": "EFECTO GBR 2 RUEDAS 360. LED FLA",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR 3 EN 1 LED LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR 3 EN 1 LED LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR 3 EN 1 LED LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR 4 EN 1 6 BEAM LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR 469 LED 4 EN UNO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR 6 BEAM + LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR BEAM MOVIL 360 RGBW",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR BEAM MOVIL 8X10W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR BEAM MOVIL 8X3W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR BEAM MOVIL 9X3W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Cabezales Móviles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR LED 2 EN1 DMX WATER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR LED 2EN1 DMX GOBOS",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR LED 4 EN1 DMX LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR LED 4 EN1 DMX LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": null
     },
@@ -4120,84 +2524,7 @@
       "imagen": null
     },
     {
-      "nombre": "EFECTO GBR LED 6 X 3W AUDIO/DMX",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR LED BOLA KIT X4 ANVIL",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR LED BOLA LASER",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EFECTO GBR LED BOLA SUBE/BAJA",
-      "marca": "GBR",
-      "categoria": "Iluminación > Efectos LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQ.GBR 31+31 STEREO PROFESIONAL",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO GBR 1000W MULTI LED",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO GBR 1200W DMX LED",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO GBR 1500W DMX LED",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO GBR 1500W MULTI LED",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO GBR 1500W MULTI LED",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "EQUIPO HUMO GBR 1500W REMOTO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO GBR 2000W MULTI LED",
       "marca": "GBR",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
@@ -4218,13 +2545,6 @@
       "imagen": null
     },
     {
-      "nombre": "EQUIPO HUMO GBR 600W REMOTO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "EQUIPO HUMO GBR 900W REMO.LED",
       "marca": "GBR",
       "categoria": "Iluminación > Máquinas de Humo",
@@ -4232,114 +2552,9 @@
       "imagen": null
     },
     {
-      "nombre": "EQUIPO HUMO GBR 900W REMOTO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO GBR CO2 9MTS LED",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "EQUIPO HUMO NEBLINA GBR DMX",
       "marca": "GBR",
       "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO NEBLINA GBR DMX",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO HUMO Y PAPEL GBR CO2",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO L/ HUMO BAJO GBR DMX",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO LANZA BURBUJAS GBR",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO LANZA BURBUJAS GBR INAL",
-      "marca": "GBR",
-      "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "EQUIPO LANZA PAPELITOS",
-      "marca": null,
-      "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESFERA ESPEJADA GBR 1MTS",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESFERA ESPEJADA GBR DE 40CM P16",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESFERA ESPEJADA GBR DE 80 CM",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESFERA GBR ESPEJADA DE 30CM",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESFERA GBR ESPEJADA DE 40CM",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESFERA GBR ESPEJADA DE 50CM",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESFERA GBR ESPEJADA DE 60CM",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
       "precio_venta": null,
       "imagen": null
     },
@@ -4347,27 +2562,6 @@
       "nombre": "ESLINGA ACERO SEGURIDAD 4MM 85CM 25KG",
       "marca": null,
       "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESQ. GBR PLASTICO APILABLE EPAS",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESTRCUTRA GBR 2 TRIP + BARRAL 3M",
-      "marca": "GBR",
-      "categoria": "Iluminación > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "ESTUCHE GBR ARRAY 1200 COMBO",
-      "marca": "GBR",
-      "categoria": "Sonido > Fundas y Estuches",
       "precio_venta": null,
       "imagen": null
     },
@@ -4463,69 +2657,6 @@
       "imagen": "imagenes/producto-2484-1787579248057.jpg"
     },
     {
-      "nombre": "FIL. GBR DE VIENTO P/MIC",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FILTRO GBR 50 X 80 VARIOS COLORE",
-      "marca": "GBR",
-      "categoria": "Iluminación > Filtros y Accesorios de Color",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FILTRO GBR DE INTERF. 12A",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FUNDA PARA BAFLE 860",
-      "marca": null,
-      "categoria": "Sonido > Fundas y Estuches",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FUNDA PARA BAFLE ARRAY 1000",
-      "marca": null,
-      "categoria": "Sonido > Fundas y Estuches",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FUNDA PARA BAFLE ARRAY 800",
-      "marca": null,
-      "categoria": "Sonido > Fundas y Estuches",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FUNDA PARA BAFLE K-1200",
-      "marca": null,
-      "categoria": "Sonido > Fundas y Estuches",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FUNDA PARA BAFLE SUB ARRAY 1500",
-      "marca": null,
-      "categoria": "Sonido > Fundas y Estuches",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "FUNDA PARA BAFLE SUB ARRAY 1800",
-      "marca": null,
-      "categoria": "Sonido > Fundas y Estuches",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "Filtro Antipop Paraviento Estudio",
       "marca": null,
       "categoria": "Sonido > Accesorios Varios",
@@ -4575,7 +2706,7 @@
       "imagen": null
     },
     {
-      "nombre": "GANCHO MORZA GBR ALUMINIO TIPO",
+      "nombre": "GANCHO MORZA GBR ALUMINIO TIPO C",
       "marca": "GBR",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
@@ -4589,67 +2720,11 @@
       "imagen": null
     },
     {
-      "nombre": "IN EAR GBR INAL.MONITOR 80CH UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "INALAMBRICO DMX GBR",
-      "marca": "GBR",
-      "categoria": "Iluminación > Controladores DMX",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "INALAMBRICO DMX GBR RECEPTOR",
-      "marca": "GBR",
-      "categoria": "Iluminación > Controladores DMX",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "Inflador para Máquina Lanza Papeles",
       "marca": null,
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131114529243/0.jpg"
-    },
-    {
-      "nombre": "KIT BOBINA Y CONO HP15PLUS PLATI",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "KIT BOBINA Y CONO HP18PLUS PLATI",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "KIT BOBINA Y CONO P1500 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "KIT BOBINA Y CONO P1800 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "KIT BOBINA Y CONO P800 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
     },
     {
       "nombre": "Kit de Cabezales Móviles Beam 150W",
@@ -4669,34 +2744,6 @@
       "nombre": "LAMP.DESC. 7R 230W 8000K",
       "marca": null,
       "categoria": "Iluminación > Filtros y Accesorios de Color",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LAMP.DESC. GBR HMI 1200",
-      "marca": "GBR",
-      "categoria": "Iluminación > Filtros y Accesorios de Color",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LAMP.NEGRA TUBO GBR 20W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Filtros y Accesorios de Color",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LAMP.NEGRA TUBO GBR 40W",
-      "marca": "GBR",
-      "categoria": "Iluminación > Filtros y Accesorios de Color",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LASER BARRA 6 RGB 500MW",
-      "marca": null,
-      "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": null
     },
@@ -4722,35 +2769,14 @@
       "imagen": "imagenes/producto-2795-1787839482357.jpg"
     },
     {
-      "nombre": "LASER GBR 1W RGB AUDIO DMX",
+      "nombre": "LASER GBR LEGEND LED 2W  FULL COLOR",
       "marca": "GBR",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "LASER GBR 2W RGB AUDIO DMX",
-      "marca": "GBR",
-      "categoria": "Iluminación > Láser",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LASER GBR 2W RGB AUDIO DMX APP",
-      "marca": "GBR",
-      "categoria": "Iluminación > Láser",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LASER GBR 3W RGB DMX ILDA APP",
-      "marca": "GBR",
-      "categoria": "Iluminación > Láser",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LASER GBR 8 RGBWY 500MW",
+      "nombre": "LASER GBR TORNADO LED 3W  FULL COLOR",
       "marca": "GBR",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
@@ -4771,7 +2797,7 @@
       "imagen": null
     },
     {
-      "nombre": "LED PAR300 DMX - 18x10W RGBW con ARO LED",
+      "nombre": "LED PAR300 DMX - 18x8W RGBW con ARO LED",
       "marca": "GBR",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
@@ -4792,60 +2818,18 @@
       "imagen": "imagenes/producto-2717-1787077211560.jpg"
     },
     {
-      "nombre": "LIQUIDO DE HUMO X5 LITROS PROFESIONAL",
-      "marca": null,
-      "categoria": "Iluminación > Máquinas de Humo",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LIQUIDO GBR BURBUJA X 5LTS",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LIQUIDO GBR MAQ. HUMO 1LTS PRO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LIQUIDO GBR MAQ. HUMO 5LTS PRO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-355-1784573292176.jpg"
-    },
-    {
-      "nombre": "LIQUIDO GBR MAQ.HUMO 5LTS CLASI",
+      "nombre": "LIQUIDO HUMO GBR 5LTS CLASICO",
       "marca": "GBR",
       "categoria": "Iluminación > Líquidos y Consumibles",
       "precio_venta": null,
       "imagen": "imagenes/producto-353-1784573316553.jpg"
     },
     {
-      "nombre": "LIQUIDO GBR NIEVE 5L",
+      "nombre": "LIQUIDO HUMO GBR 5LTS PROFESIONAL",
       "marca": "GBR",
       "categoria": "Iluminación > Líquidos y Consumibles",
       "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LIQUIDO GBR P/MAQ. HUMO X 1 L",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "LUZ PILOTO LED GBR CUELLO FLEX",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-355-1784573292176.jpg"
     },
     {
       "nombre": "Lanza Papeles Profesional 1000W",
@@ -5044,13 +3028,6 @@
       "imagen": "https://venetian.com.ar/images/products/2311071707165680/0.jpg"
     },
     {
-      "nombre": "MALACATE MANUAL 725KG",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "MANGUERA DE SONIDO 12 VIAS 15 METROS",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
@@ -5080,28 +3057,28 @@
     },
     {
       "nombre": "MANIJA BAFLE CUADRADA PH-3 PLASTICA",
-      "marca": null,
+      "marca": "AMERICAN VOX",
       "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA BAFLE METALICA CHICA",
-      "marca": null,
+      "marca": "AMERICAN VOX",
       "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA BAFLE METALICA GRANDE",
-      "marca": null,
-      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
+      "marca": "AMERICAN VOX",
+      "categoria": null,
       "precio_venta": null,
       "imagen": null
     },
     {
       "nombre": "MANIJA BAFLE REDONDA PH-4 PLASTICA",
-      "marca": null,
+      "marca": "AMERICAN VOX",
       "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
@@ -5114,30 +3091,9 @@
       "imagen": null
     },
     {
-      "nombre": "MANIJA GBR CHICA PLASTICA",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MANIJA GBR GRANDE PLAST. BH003",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MANIJA GBR MET.EXTERIOR",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "MANIJA REBATIBLE GBR ANVIL EXTERIOR",
       "marca": "GBR",
-      "categoria": "Gabinetes / Cajas Vacías",
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
@@ -5219,319 +3175,39 @@
       "imagen": "imagenes/producto-2805-1787839524752.jpg"
     },
     {
-      "nombre": "MEGAFONO GBR C/MICROFONO",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MEMBRANA AV PL75 BC 8OHM",
+      "nombre": "MEMBRANA AMERICAN VOX AV PL75 BC 8OHM",
       "marca": null,
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2469-1787164893139.webp"
     },
     {
-      "nombre": "MEMBRANA AV34 8OHM",
+      "nombre": "MEMBRANA AMERICAN VOX AV34 8OHM",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2465-1787579787756.webp"
     },
     {
-      "nombre": "MEMBRANA AV44 8OHM",
+      "nombre": "MEMBRANA AMERICAN VOX AV44 8OHM",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2466-1787606255491.webp"
     },
     {
-      "nombre": "MEMBRANA AV51 8OHM",
+      "nombre": "MEMBRANA AMERICAN VOX AV51 8OHM",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2467-1787606297922.webp"
     },
     {
-      "nombre": "MEMBRANA AV72 8OHM",
+      "nombre": "MEMBRANA AMERICAN VOX AV72 8OHM",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2468-1787606342014.webp"
-    },
-    {
-      "nombre": "MEZC.GBR 2 CH EQ P/CH MP3 DISPLA",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MEZC.GBR EQ X CH 3 MIC DOBL MP3",
-      "marca": "GBR",
-      "categoria": "Sonido > Consolas y Mezcladoras",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL. MANO UHF LCD",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.2 FLEXIBLE UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.4 FLEXI 100 FRE UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.4 FLEXI 100 FRE UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.4 MANO UHF MINI",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.4 MANO UHF RACK",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.4 VINCHA UHF RACK",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBL.MANO100 CH UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBL.MANO100 CH UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBL.MANO100 CH UHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBL.VINCH. O CORB",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBL.VINCH. Y MANO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBL.VINCHA 100CH U",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBLE CORBATERO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBLE MANO UHF LCD",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBLE MANO VHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.DOBLVINCHA100CH",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.SIMPL.CORBATERO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.SIMPL.HEAD ST/CORB",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INAL.SIMPL.MANO VHF",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR INALDOBLE VINCHA UHF LCD",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL DOBLE CAMARAS",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL DOBLE FLEXIBLE",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.CAMARAS CELU",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.CORBATERO MINI",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.DOBLE",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.DOBLE DE VINCHA",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.DOBLE MANO MIN",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.DOBLE VINCHA MI",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.FLEXIBLE MINI",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.MANO MINI ESTU",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.SIMPL.VINCHA",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR UHF INAL.VINCHA MINI",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR VHF INAL.DOBLE MANO MIN",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR VHF INAL.SIMPL.DE MANO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Inalámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR VINCHA MINI PLUG PIEL",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MIC.GBR VINCHA XLR COLOR PIEL",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
     },
     {
       "nombre": "MICROFONO E-SOUND INALAMBRICO DE MANO + VINCHA DOBLE UHF",
@@ -5576,177 +3252,16 @@
       "imagen": "imagenes/producto-2827-1787839680109.png"
     },
     {
-      "nombre": "MICROFONO GBR COND.USB BRASO",
+      "nombre": "MICROFONO GBR DE MANO TIPO 57",
       "marca": "GBR",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "MICROFONO GBR COND.XLR BRASO",
+      "nombre": "MICROFONO GBR DE MANO TIPO 58",
       "marca": "GBR",
       "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR CORBATERO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR CORBATERO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR CORBATERO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR CORBATERO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR CORBATERO MINI",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR CORBATERO MINI",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR DE MANO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR DE MANO CON",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR DE MANO TIPO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR DE VINCHA C/CABLE",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR FLEXIBLE C/BASE",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR FLEXIBLE C/BASE",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR INSTRUMENTO PRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR P/BATERIA SET",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR PARA",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR VINCHA CABLE",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MICROFONO GBR VINCHA CABLE PC",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MODU COSTILLA U ESCENARIO MODULAR 1,22X2,44",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MODU DIAGONAL LARGA ESCENARIO MODULAR 1 A 1.50",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MODU ESCALERA P/ESCENARIO MODULAR 1M A 1.50M C/BARANDA",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MODU ESCENARIO MODULAR COMPARTIDO 1M A 1.50M",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MODU PATA ESCENARIO MODULAR 1M A 1.50M",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MODULO 1.22X2.44 C/MADERA 18MM",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
@@ -5768,300 +3283,6 @@
       "nombre": "MOTOR GBR P/ESFERA HASTA 60 CM",
       "marca": "GBR",
       "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MOTOR GBR REFORZADO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Esferas Espejadas",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT DIAGONAL 181 MODULO 109X1.50M ALT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT DIAGONAL 211 MODULO 157X1.50M ALT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT DIAGONAL 225 MODULO 109X2M ALT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT DIAGONAL 248 MODULO 207X1.50M ALT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT DIAGONAL 249 MODULO 157X2M ALT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT DIAGONAL 250",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT DIAGONAL 281 MODULO 207X2M ALT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT ESCALERA VERTICAL 0.60X2M ANDAMIO",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT HORIZONTAL 073",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT HORIZONTAL 109",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT HORIZONTAL 157",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT HORIZONTAL 207",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT HORIZONTAL 257",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT JUEGO LATERAL ESCALERA 1,50M 257",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT JUEGO LATERAL ESCALERA 1M 257",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT TABLO ESCALON 257X28 CHAPA BASTONADA",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL 0.50M S/ESP",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL 050 C/ESP",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL 1.50 C/ESP",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL 1.50M S/ESP",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL 1M S/ESP",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL 2M C/ESP",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL 2M S/ESP",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VERTICAL P/TECHO 070",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VIGA CELOCIA CORTA 128",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VIGA PUENTE U 1,57",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULT VIGA PUENTE U 109",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI BASE COLLARIN",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI CUMBRERA TECHO 257",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI DIAGONAL 212 MODULO 073X2M ALT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI DIAGONAL 266",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI DIAGONAL 288",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI DIAGONAL 318",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI DIAGONAL PLANTA 257X257",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI LIMONERO PARA TRIBUNA 2.57X0.37X1.50M ALT X 4",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI MENSULA 073X050",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI MENSULA 109X050",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI STRINGER C/LENGUETA 257",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI TABLON ANDAMIO 0.60MX257 CHAP/ANT DESLI",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI TABLON P/GRADA-TRIBUNA 2.57X0.60",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "MULTI TABLON PARA ANDAMIO 0.60X2.57 CHAP/ANT DESL",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": null
     },
@@ -6591,247 +3812,177 @@
       "imagen": null
     },
     {
-      "nombre": "PARL.GBR 10/100 WOOFER 8OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 10/250W WOOFER 8 OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 10/300 P/ARRAY1000",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 10/350 RMS WOOFER",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 12/300W WOOFER 8 OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 12/400 WOF 8 OHM",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 12/500 P/ARRAY900-PA",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 12/500 RMS WOOFER",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 15\" 300W WOF.8 OHMS P15",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 15/1000 WOOFER 8OHM",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 15/1200 WOOFER 8OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 15/400 P/SUB ARRAY1500",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 15/400W COAX 8 OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 15/600W WOOFER 8OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 18/1200W WOOFER 8OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 18/1600 WOOFER 8OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 18/2000W WOOFER 8OHM",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 18/600 P/SUB ARRAY1800",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 4/100 P/K1200",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 6\" 80W 100V BLANCO PAR",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 6\" 80W ACTIVO BT C/SALI",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 6\" 80W BLANCO P/680A",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 8\" 100W 100V BLANCO PAR",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 8/200W WOOFER 8 OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 8/250 P/ARRAY800",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 8/600 WOOFER 8OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 8/80 WOOFER 4OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARL.GBR 8/80 WOOFER 8OHMS",
-      "marca": "GBR",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PARLANTE AV-1210 400W CRCF",
+      "nombre": "PARLANTE AMERCIAN VOX AV1210 400W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": "imagenes/producto-2462-1787166863786.png"
     },
     {
-      "nombre": "PARLANTE AV-1510 800W CRCF",
+      "nombre": "PARLANTE AMERICAN VOX AV1003 200W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-721-1787166973728.webp"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX AV1010 350W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-720-1787166994456.webp"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX AV1206 250W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-690-1787169819283.webp"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX AV1503 300W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-724-1787169836254.webp"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX AV1505 700W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-777-1787169856260.webp"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX AV1506 500W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-775-1787169895257.png"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX AV1510 800W ",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": "imagenes/producto-2461-1787166834979.png"
     },
     {
-      "nombre": "PARLANTE AV-1805 700W CBC",
+      "nombre": "PARLANTE AMERICAN VOX AV1805 700W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": "imagenes/producto-2460-1787166894281.png"
     },
     {
-      "nombre": "PARLANTE AV-850 150W",
+      "nombre": "PARLANTE AMERICAN VOX AV1806 1000W",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
-      "imagen": "imagenes/producto-2463-1787166928789.png"
+      "imagen": "imagenes/producto-736-1787168531147.webp"
     },
     {
-      "nombre": "PATA-TORRE-320-100KG-C/CUERNO",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
+      "nombre": "PARLANTE AMERICAN VOX AV1810 1000W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-735-1787168616852.webp"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX AV805 200W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-731-1787169945580.webp"
+    },
+    {
+      "nombre": "PARLANTE AMERICAN VOX BW850 150W",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-733-1787167049200.webp"
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 12FH500 NEODIMIO 500W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "PATA-TORRE-420-120KG-C/CUERNO",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
+      "nombre": "PARLANTE FAITAL PRO 12FH510 FERRITE 500W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-797-1787170851081.webp"
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 12HP1010 FERRITE 700W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "PATA-TORRE-520-225KG",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
+      "nombre": "PARLANTE FAITAL PRO 12HP1020 NEODIMIO 700W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 15FH500 NEODIMIO 500W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 15FH510 FERRITE 500W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-750-1787171061784.webp"
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 15HP1010 FERRITE 700W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 15HP1020 NEODIMIO 700W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 18FH500 NEODIMIO 600W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 18FH510 FERRITE 500W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-752-1787169170110.webp"
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 18HP1010 FERRITE 1000W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-806-1787169189363.webp"
+    },
+    {
+      "nombre": "PARLANTE FAITAL PRO 18HP1022 NEODIMIO 1000W",
+      "marca": "FAITALPRO",
+      "categoria": "Sonido > Parlantes (repuesto)",
       "precio_venta": null,
       "imagen": null
     },
@@ -6878,50 +4029,22 @@
       "imagen": "imagenes/producto-2824-1787839811144.jpg"
     },
     {
-      "nombre": "PIE DE MICROFONO STUDIOMASTER JIRAFA EXTENSIBLE STD 130",
+      "nombre": "PIE DE MICROFONO STUDIOMASTER JIRAFA EXTENSIBLE STD DD130B",
       "marca": "STUDIOMASTER",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "imagenes/producto-2823-1787839831427.jpg"
     },
     {
-      "nombre": "PIE GBR MESA CUELLO FLEXIBLE GS4",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PIE GBR P/MIC. JIRAFA CROMADO",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PIE GBR P/MIC. JIRAFA NEGRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PIE GBR P/MIC. JIRAFA PESADO CRO",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "PIE GBR P/MIC. JIRAFA PESADO NEG",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "PIE MICROFONO JIRAFA",
       "marca": null,
+      "categoria": "Sonido > Soportes y Trípodes",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "nombre": "PIPETA GBR PARA MICROFONO DE MANO",
+      "marca": "GBR",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": null
@@ -6969,13 +4092,6 @@
       "imagen": null
     },
     {
-      "nombre": "POT.GBR 700W 8 OHMS 2400W BR",
-      "marca": "GBR",
-      "categoria": "Sonido > Potencias",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "POT.GBR 900W 8 OHMS 3000W BR",
       "marca": "GBR",
       "categoria": "Sonido > Potencias",
@@ -6983,51 +4099,51 @@
       "imagen": null
     },
     {
-      "nombre": "PROCESADOR DIGITAL DP24+ 2X4",
-      "marca": null,
+      "nombre": "PROCESADOR DIGITAL DB-MARK DP24+ 2X4",
+      "marca": "DB-MARK",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-2473-1787602380088.jpg"
     },
     {
-      "nombre": "PROCESADOR DIGITAL DP36+ 3X6",
-      "marca": null,
+      "nombre": "PROCESADOR DIGITAL DB-MARK DP36+ 3X6",
+      "marca": "DB-MARK",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-2474-1787581079907.jpg"
     },
     {
-      "nombre": "PROCESADOR DIGITAL DP48+ 4X8",
-      "marca": null,
+      "nombre": "PROCESADOR DIGITAL DB-MARK DP48+ 4X8",
+      "marca": "DB-MARK",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-2475-1787581028031.webp"
     },
     {
-      "nombre": "PROCESADOR DIGITAL DS214B 2X4",
-      "marca": "STS",
+      "nombre": "PROCESADOR DIGITAL DIGISYNTHETIC DS214B 2X4",
+      "marca": "DIGISYNTETIC",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-2470-1787580990060.jpg"
     },
     {
-      "nombre": "PROCESADOR DIGITAL DS216B 2X6",
-      "marca": "STS",
+      "nombre": "PROCESADOR DIGITAL DIGISYNTHETIC DS216B 2X6",
+      "marca": "DIGISYNTHETIC",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-2471-1787580969767.jpg"
     },
     {
-      "nombre": "PROCESADOR DIGITAL DS254 FIR 2X4",
-      "marca": "STS",
+      "nombre": "PROCESADOR DIGITAL DIGISYNTHETIC DS254 FIR 2X4",
+      "marca": "DIGISYNTHETIC",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-2472-1787581613520.webp"
     },
     {
-      "nombre": "PROYECTOR HOLOGRAFICO 3D",
-      "marca": null,
-      "categoria": "Iluminación > Láser",
+      "nombre": "PROCESADOR DIGITAL DIGISYNTHETIC DS458 FIR 4X8",
+      "marca": "DIGISYNTHETIC",
+      "categoria": null,
       "precio_venta": null,
       "imagen": null
     },
@@ -7086,692 +4202,6 @@
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331462506/0.jpg"
-    },
-    {
-      "nombre": "Parlante Coaxial American Vox CX1275 400W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-734-1787082761708.webp"
-    },
-    {
-      "nombre": "Parlante Coaxial FaitalPro 12IN 12HX500 400W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-781-1787082824710.webp"
-    },
-    {
-      "nombre": "Parlante Coaxial FaitalPro 15HX500 400W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-779-1787082866939.webp"
-    },
-    {
-      "nombre": "Parlante Full Range FaitalPro 2FE22 25W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-788-1787082886778.webp"
-    },
-    {
-      "nombre": "Parlante Full Range FaitalPro 3FE22 20W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-787-1787082911683.webp"
-    },
-    {
-      "nombre": "Parlante Full Range FaitalPro 3FE25 20W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-783-1787082937221.webp"
-    },
-    {
-      "nombre": "Parlante Full Range FaitalPro 4FE32 30W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-784-1787082970044.webp"
-    },
-    {
-      "nombre": "Parlante Full Range FaitalPro 4FE42 40W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-791-1787083002643.webp"
-    },
-    {
-      "nombre": "Parlante Full Range Lavoce FSF030.70 30W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-758-1787083032787.webp"
-    },
-    {
-      "nombre": "Parlante Full Range Lavoce FSF041.00 40W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "Parlante Mid Range American Vox AV805 200W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-732-1787083153782.webp"
-    },
-    {
-      "nombre": "Parlante Mid Range FaitalPro M5N1280 80W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-793-1787083178070.webp"
-    },
-    {
-      "nombre": "Parlante Mid Range Lavoce MAF103.00 350W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-808-1787166949128.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer American Vox AV1003 200W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-721-1787166973728.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer American Vox AV1010 350W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-720-1787166994456.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer American Vox BW850 150W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-733-1787167049200.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 10FE200 150W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-747-1787167069315.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 10PR300 300W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-795-1787167090868.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 10PR310 300W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-744-1787167122255.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 12PR300 600W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-745-1787167148412.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 12PR310 600W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-746-1787167168432.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 15FX560 700W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-749-1787167196295.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 15PR400 400W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-754-1787167856073.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 5FE100 80W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-786-1787167973434.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 8FE200 130W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-740-1787167997066.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 8FE300 250W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-693-1787168061989.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro 8FE400 200W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-790-1787168104514.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro W6N8120 120W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-792-1787168123145.webp"
-    },
-    {
-      "nombre": "Parlante Mid Woofer FaitalPro W8N8150 150W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-741-1787168156320.webp"
-    },
-    {
-      "nombre": "Parlante Profesional American Vox AVNOXEN 12 PRO 800W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-674-1787168190926.webp"
-    },
-    {
-      "nombre": "Parlante Profesional American Vox AVNOXEN 15 PRO 800W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-673-1787168274463.webp"
-    },
-    {
-      "nombre": "Parlante Profesional American Vox F12X 400W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-814-1787168302428.webp"
-    },
-    {
-      "nombre": "Parlante Profesional American Vox F15X 500W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-813-1787168403220.webp"
-    },
-    {
-      "nombre": "Parlante Profesional American Vox S18X 1000W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-812-1787168420151.webp"
-    },
-    {
-      "nombre": "Parlante Profesional American Vox VX10 EON 75W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-684-1787168482410.webp"
-    },
-    {
-      "nombre": "Parlante Profesional American Vox VX8 EON 60W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-685-1787168504889.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer American Vox AV1806 1000W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-736-1787168531147.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer American Vox AV1806X 1000W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-691-1787168589652.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer American Vox AV1810 1000W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-735-1787168616852.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer American Vox AV18127 1200W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-780-1787168739124.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer American Vox AV21140 1500W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-782-1787168766555.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 12HP1030 1000W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-753-1787168907545.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 12RS1066 1000W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-796-1787168925404.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 15XL1400 1400W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-755-1787169071084.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18FH500 600W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-804-1787169087198.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18FH510 600W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-752-1787169170110.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18HP1010 1000W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-806-1787169189363.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18HP1022 1000W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-802-1787169205101.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18HW1070 1600W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-692-1787169227583.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18XL1600 1600W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-805-1787169500170.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18XL1800 1600W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-757-1787169516996.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer FaitalPro 18XL2000 2000W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-803-1787169566200.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer Lavoce SAF184.02 1200W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-764-1787169534046.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer Lavoce SAF184.03 1500W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-811-1787169550286.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer Lavoce SAF184.50 1800W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-766-1787169594801.webp"
-    },
-    {
-      "nombre": "Parlante Subwoofer Lavoce SAF214.50 2000W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-767-1787169616566.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox 12C75 300W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-718-1787169637543.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV1017 150W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-726-1787169656748.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV1205 800W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-723-1787169673599.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV1206 250W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-690-1787169819283.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV1503 300W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-724-1787169836254.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV1505 700W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-777-1787169856260.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV1506 500W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-775-1787169895257.png"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV1560 200W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-722-1787169927301.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV806 200W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-731-1787169945580.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AV818 150W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-730-1787170130622.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AVNEO1064 300W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-727-1787170146151.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AVNEO1088 700W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-719-1787170167354.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AVNEO1276 400W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-729-1787170189325.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AVNEO1288 700W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-728-1787170209089.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AVNEO1576 500W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-776-1787170235822.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox AVNEO1588 700W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-778-1787170567188.webp"
-    },
-    {
-      "nombre": "Parlante Woofer American Vox BW1517 250W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-725-1787170590340.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 10FE300 250W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-789-1787170614970.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 10FE400 200W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-785-1787170642505.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 10FH500 500W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-748-1787170663997.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 10HP1020 700W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-743-1787170682741.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 12FE300 250W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-738-1787170751276.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 12FE400 200W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-737-1787170775880.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 12FH500 500W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-798-1787170807920.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 12FH510 500W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-797-1787170851081.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 12HP1010 700W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-799-1787170867509.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 12HP1020 700W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-800-1787170888665.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 12RS550 500W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-801-1787170907761.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 15FH500 500W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-751-1787171040026.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 15FH510 500W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-750-1787171061784.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 15HP1020 700W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-756-1787171084342.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 8PR200 200W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-742-1787171099902.webp"
-    },
-    {
-      "nombre": "Parlante Woofer FaitalPro 8PR320 250W",
-      "marca": "FAITALPRO",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-794-1787171120026.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WAF082.00 200W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-807-1787171137814.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WAF123.00 1000W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-765-1787171164136.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WSF081.82 150W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-759-1787171197816.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WSF102.00 175W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-810-1787171216230.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WSF102.50 250W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-739-1787171429722.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WSF122.02 200W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-809-1787171448643.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WSF122.50 500W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-761-1787171473414.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WSF152.50 250W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-762-1787171506346.webp"
-    },
-    {
-      "nombre": "Parlante Woofer Lavoce WXF15.400 400W",
-      "marca": "LAVOCE",
-      "categoria": "Sonido > Parlantes (repuesto)",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-763-1787171525816.webp"
     },
     {
       "nombre": "Parlante de Techo 5\" Línea 100V",
@@ -7963,6 +4393,13 @@
       "imagen": null
     },
     {
+      "nombre": "SOMBRERO GBR METALICO EMBUTIR",
+      "marca": "GBR",
+      "categoria": "Sonido > Accesorios Varios",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-10-1787675142951.jpg"
+    },
+    {
       "nombre": "SOMBRERO METALICO",
       "marca": null,
       "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
@@ -7970,56 +4407,7 @@
       "imagen": null
     },
     {
-      "nombre": "SOMBRERO PARA BAFLE METALICO",
-      "marca": null,
-      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SOPORTE GBR ARRAY800/1000 X PAR",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "SOPORTE GBR BAFLE REGULABLE",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SOPORTE GBR BAFLE ROSCA",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SOPORTE GBR BAFLE TIPO\"Y\"",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SOPORTE GBR MIC",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SOPORTE GBR P/MIC. X 6 CLIP",
-      "marca": "GBR",
-      "categoria": "Sonido > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SOPORTE GBR P/MICROFONO",
       "marca": "GBR",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
@@ -8047,6 +4435,13 @@
       "imagen": null
     },
     {
+      "nombre": "SPEAKON CHASIS HEMBRA REDONDA",
+      "marca": "AMERICAN VOX",
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "nombre": "SPLITTER DMX 1 X 4 CANALES + 4 POWERCOM",
       "marca": null,
       "categoria": "Iluminación > Controladores DMX",
@@ -8068,42 +4463,7 @@
       "imagen": null
     },
     {
-      "nombre": "SPOT GBR LED 10W P/ESFERA blanco",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SPOT GBR LED 10W P/ESFERA negro",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SPOT GBR LED 12 LED 10W 4 EN 1",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SPOT GBR LED 14 LED 10W 4EN1 APP",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "SPOT GBR LED 18X10W IP65DMX",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SPOT GBR LED 36X1W LED DMX",
       "marca": "GBR",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
@@ -8118,20 +4478,6 @@
     },
     {
       "nombre": "SPOT GBR LED 6X10W IP65 RGBW",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SPOT GBR LED 6X3W IP65 RGB REMO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Spots LED",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SPOT GBR LED 9X10W 6 EN 1 UV DMX",
       "marca": "GBR",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
@@ -8201,34 +4547,6 @@
       "imagen": null
     },
     {
-      "nombre": "SUPPORT TRUSS 24X24 CUADRADA X 1M SUPPORT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SUPPORT TRUSS 24X24 CUADRADA X 2M",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SUPPORT TRUSS 24X24 CUADRADA X 3M SUPPORT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SUPPORT TRUSS 24X24 X 3M TORRE SUPP MANUAL",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "SUPPORT TRUSS 30X30 CUAD X 0.50 SUPPORT",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
@@ -8251,20 +4569,6 @@
     },
     {
       "nombre": "SUPPORT TRUSS 30X30 CUADRADA X 3M SUPPORT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SUPPORT TRUSS 30X30 X 3M TORRE SUPP MANUAL Y ELECT",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "SUPPORT TRUSS CUADRADA 24X24 X 0.50",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
@@ -8544,41 +4848,6 @@
       "imagen": "imagenes/producto-2385-1787080017557.jpg"
     },
     {
-      "nombre": "TRANSFORMADOR DE LINEA",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRANSFORMADOR DE LINEA",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRANSFORMADOR DE LINEA 10W",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRANSFORMADOR DE LINEA 70V/100V",
-      "marca": null,
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRIPODE GBR ALUM.CON BARRAL",
-      "marca": "GBR",
-      "categoria": "Iluminación > Soportes y Trípodes",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "TRIPODE GBR ALUM.CON BARRAL",
       "marca": "GBR",
       "categoria": "Iluminación > Soportes y Trípodes",
@@ -8614,46 +4883,32 @@
       "imagen": null
     },
     {
-      "nombre": "TROMPA NEXO 6X6 ECONOMICA",
-      "marca": "NEXO",
+      "nombre": "TROMPA AMERICAN VOX 6X6 ECONOMICA TIPO NEXO",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2497-1787580944215.jpg"
     },
     {
-      "nombre": "TROMPA NEXO 8X8 ECONOMICA",
-      "marca": "NEXO",
+      "nombre": "TROMPA AMERICAN VOX 8X8 ECONOMICA TIPO NEXO",
+      "marca": "AMERICAN VOX",
       "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": "imagenes/producto-2496-1787580913622.jpg"
     },
     {
-      "nombre": "TROMPA NEXO H06 10X10 - 1,4\"",
+      "nombre": "TROMPA AMERICAN VOX H06 10X10 1,4 TIPO NEXO",
       "marca": "AMERICAN VOX",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
     {
-      "nombre": "TRUSS 16X16X 2 MTS ZINC 1 PULG",
+      "nombre": "TRUSS 24X24 CUADRADA  X 3M STD",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 16X16X 3 MTS ZINC 1 PULG",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 16X16X1 MTS ZINC 1 PULG",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2618-1787077430079.png"
     },
     {
       "nombre": "TRUSS 24X24 CUADRADA X 0.50M STD",
@@ -8667,28 +4922,14 @@
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2615-1787077260610.jpg"
     },
     {
       "nombre": "TRUSS 24X24 CUADRADA X 2M STD",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 24X24 CUADRADA X 3M CON SOP 90",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 24X24 CUADRADA X 3M STD",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2616-1787077325458.png"
     },
     {
       "nombre": "TRUSS 24X24 TRIANGULAR 0.50M STD",
@@ -8719,27 +4960,6 @@
       "imagen": null
     },
     {
-      "nombre": "TRUSS 30X30 CUAD LIENA 2\" X 1M",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 30X30 CUAD LINEA 2\" X 2M",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 30X30 CUAD LINEA 2\" X 3M",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "TRUSS 30X30 CUADRADA X 0.50M STD",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
@@ -8761,28 +4981,7 @@
       "imagen": null
     },
     {
-      "nombre": "TRUSS 30X30 CUADRADA X 3M C/SOP 90ª",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "TRUSS 30X30 CUADRADA X 3M STD",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 30X30 CUADRADA X3M C/DOBLE SOPORT 90ª",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 30X30 LINEA 2\" X 3M RETICULADA",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
@@ -8804,13 +5003,6 @@
     },
     {
       "nombre": "TRUSS 30X30 TRIANGULAR X 3M STD",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 30X30 X 2M CON GRADOS",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
@@ -8839,27 +5031,6 @@
     },
     {
       "nombre": "TRUSS 40X30 RECTANGULAR X 3M",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 40X40 CUAD X 1M RETICULADA",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 40X40 CUAD X 2M RETICULADA",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS 40X40 CUAD X 3M RETICULADA",
       "marca": "TRUSS RAPTOR",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
@@ -8957,188 +5128,6 @@
       "imagen": null
     },
     {
-      "nombre": "TRUSS PLANA 24CM X 2M C/ENCASTRE 40X40",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS PLANA X 2M 24 ALARGUE",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-CIRC-24X24-4-SEC-4",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-CIRC-30X30-3-SEC-4",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-CIRC-30X30-4-SEC-4",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-CIRC-30X30-6-SEC-4",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-CIRC-PLANA-24-2",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-PLUG-16X16-1",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-PLUG-16X16-2",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-PLUG-16X16-3",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-STD-24X24-0,5",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-STD-24X24-1",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-2615-1787077260610.jpg"
-    },
-    {
-      "nombre": "TRUSS-STD-24X24-2",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-2616-1787077325458.png"
-    },
-    {
-      "nombre": "TRUSS-STD-24X24-3",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-2618-1787077430079.png"
-    },
-    {
-      "nombre": "TRUSS-STD-24X24-3-SOP-90",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-STD-30X30-3-DOBLE-SOP-90",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-SUPPORT-30X30-2",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-SUPPORT-30X30-3",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TRUSS-SUPPORT-30X30-MANUAL",
-      "marca": "TRUSS RAPTOR",
-      "categoria": "Estructuras / Truss",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TUBO SINTONIA GBR. 2\"",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TUBO SINTONIA GBR. 3\"",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TUBO SINTONIA GBR. 4\"",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TWEETER GBR BALA 120W x unidad",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TWEETER GBR BALA 200W x unidad",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TWEETER GBR BALA 300W x unidad",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "nombre": "TWEETER GBR PIEZO T/2001",
-      "marca": "GBR",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "nombre": "Tacho LED Par RGB 6x1.5W",
       "marca": null,
       "categoria": "Iluminación > Spots LED",
@@ -9221,34 +5210,6 @@
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2112161727524752/0.jpg"
-    },
-    {
-      "nombre": "Tweeter American Vox Bala AV304 100W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-677-1787171651139.webp"
-    },
-    {
-      "nombre": "Tweeter American Vox Bala TW44 150W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-676-1787171667168.webp"
-    },
-    {
-      "nombre": "Tweeter American Vox Bala TW46 300W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-675-1787171683432.webp"
-    },
-    {
-      "nombre": "Tweeter American Vox Domo TDW25 50W",
-      "marca": "AMERICAN VOX",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "precio_venta": null,
-      "imagen": "imagenes/producto-678-1787171701772.webp"
     }
   ]
 }
