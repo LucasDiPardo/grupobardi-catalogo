@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-31T13:50:02.572Z",
+  "generado": "2026-09-09T11:55:40.777Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -2761,7 +2761,7 @@
       "marca": "GBR",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2732-1788893402993.jpg"
     },
     {
       "id": 2773,
@@ -4082,6 +4082,14 @@
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "imagenes/producto-687-1787164515929.webp"
+    },
+    {
+      "id": 3451,
+      "nombre": "Crown XTi 4000 (usada)",
+      "marca": "CROWN",
+      "categoria": "Sonido",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3451-1788898716456.webp"
     },
     {
       "id": 1998,
@@ -7218,6 +7226,14 @@
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205243542/0.jpg"
+    },
+    {
+      "id": 3450,
+      "nombre": "Mini Beam 100w",
+      "marca": null,
+      "categoria": "Iluminación > Cabezales Móviles",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3450-1788891508869.webp"
     },
     {
       "id": 2081,
