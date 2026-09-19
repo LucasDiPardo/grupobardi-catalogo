@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-19T01:28:48.848Z",
+  "generado": "2026-09-19T01:37:17.319Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -206,7 +206,7 @@
     {
       "id": 1856,
       "nombre": "Adaptador Plug a Minijack",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111228129208/0.jpg"
@@ -214,7 +214,7 @@
     {
       "id": 1714,
       "nombre": "Adaptador Plug a Minijack Sintetizado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331268833/0.jpg"
@@ -222,7 +222,7 @@
     {
       "id": 1713,
       "nombre": "Adaptador Powercon Hembra a Hembra",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111227077889/0.jpg"
@@ -230,7 +230,7 @@
     {
       "id": 1715,
       "nombre": "Adaptador XLR Canon Hembra a Macho",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121343302504/0.jpg"
@@ -238,7 +238,7 @@
     {
       "id": 1711,
       "nombre": "Adaptador XLR Macho 5 Pines a Hembra 3 Pines",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121343302475/0.jpg"
@@ -246,7 +246,7 @@
     {
       "id": 3572,
       "nombre": "Adaptador plug 1/4\" para interconectar pedales, resistencia de contacto <10mΩ, aislamiento >1000MΩ (LC3111-1)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331278803/0.jpg"
@@ -254,7 +254,7 @@
     {
       "id": 3573,
       "nombre": "Adaptador plug 1/4\" para unir pedales en pedalera, resistencia de contacto mínima, alta resistencia de aislamiento (LC3111-2)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111158132100/0.jpg"
@@ -262,7 +262,7 @@
     {
       "id": 3571,
       "nombre": "Adaptador plug macho mono 6.35mm (1/4\") a RCA hembra (LB2028)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2306141720502767/0.jpg"
@@ -270,7 +270,7 @@
     {
       "id": 1740,
       "nombre": "Amplificador Compacto 70/100V con USB/BT",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111451383022/0.jpg"
@@ -278,7 +278,7 @@
     {
       "id": 1724,
       "nombre": "Amplificador Multizona 70/100V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111454268403/0.jpg"
@@ -286,7 +286,7 @@
     {
       "id": 1725,
       "nombre": "Amplificador Multizona 70/100V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111455117305/0.jpg"
@@ -294,7 +294,7 @@
     {
       "id": 1735,
       "nombre": "Amplificador Multizona 70/100V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111454464318/0.jpg"
@@ -302,7 +302,7 @@
     {
       "id": 1738,
       "nombre": "Amplificador Multizona 70/100V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111455571002/0.jpg"
@@ -310,7 +310,7 @@
     {
       "id": 1739,
       "nombre": "Amplificador Multizona 70/100V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111453591163/0.jpg"
@@ -318,7 +318,7 @@
     {
       "id": 1729,
       "nombre": "Amplificador de Potencia 200W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040337650/0.jpg"
@@ -326,7 +326,7 @@
     {
       "id": 1720,
       "nombre": "Amplificador de Potencia 300W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040321969/0.jpg"
@@ -334,7 +334,7 @@
     {
       "id": 1728,
       "nombre": "Amplificador de Potencia 4 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011724524194/0.jpg"
@@ -342,7 +342,7 @@
     {
       "id": 1731,
       "nombre": "Amplificador de Potencia 450W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040337679/0.jpg"
@@ -350,7 +350,7 @@
     {
       "id": 1721,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011656438957/0.jpg"
@@ -358,7 +358,7 @@
     {
       "id": 1722,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011705449324/0.jpg"
@@ -366,7 +366,7 @@
     {
       "id": 1723,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011659478451/0.jpg"
@@ -374,7 +374,7 @@
     {
       "id": 1726,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040345745/0.jpg"
@@ -382,7 +382,7 @@
     {
       "id": 1727,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011719456865/0.jpg"
@@ -390,7 +390,7 @@
     {
       "id": 1730,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040355685/0.jpg"
@@ -398,7 +398,7 @@
     {
       "id": 1732,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011729551651/0.jpg"
@@ -406,7 +406,7 @@
     {
       "id": 1733,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011727212958/0.jpg"
@@ -414,7 +414,7 @@
     {
       "id": 1734,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011716361462/0.jpg"
@@ -422,7 +422,7 @@
     {
       "id": 1736,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011734453634/0.jpg"
@@ -430,7 +430,7 @@
     {
       "id": 1737,
       "nombre": "Amplificador de Potencia Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011732307493/0.jpg"
@@ -438,7 +438,7 @@
     {
       "id": 3638,
       "nombre": "Aro de luz LED 16cm, 3 tonalidades 2200-12000K, hasta 780 lúmenes, alimentación USB (L01)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2010011206093232/0.jpg"
@@ -446,7 +446,7 @@
     {
       "id": 3639,
       "nombre": "Aro de luz LED 26cm, 3 tonalidades 2200-12000K, alimentación USB, agarre para soporte (L03)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2010011204436563/0.jpg"
@@ -1582,7 +1582,7 @@
     {
       "id": 1761,
       "nombre": "Bafle Activo 10\" con Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111501071086/0.jpg"
@@ -1590,7 +1590,7 @@
     {
       "id": 1749,
       "nombre": "Bafle Activo 12\" con Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111508557258/0.jpg"
@@ -1598,7 +1598,7 @@
     {
       "id": 1763,
       "nombre": "Bafle Activo 15 Pulgadas Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111509222257/0.jpg"
@@ -1606,7 +1606,7 @@
     {
       "id": 1762,
       "nombre": "Bafle Activo 8 Bluetooth TWS",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111458293065/0.jpg"
@@ -1614,7 +1614,7 @@
     {
       "id": 1748,
       "nombre": "Bafle Activo de Instalación Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011622519933/0.jpg"
@@ -1622,7 +1622,7 @@
     {
       "id": 1754,
       "nombre": "Bafle Activo de Instalación Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011625521649/0.jpg"
@@ -1630,7 +1630,7 @@
     {
       "id": 1757,
       "nombre": "Bafle Activo de Instalación Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011613012410/0.jpg"
@@ -1638,7 +1638,7 @@
     {
       "id": 1752,
       "nombre": "Bafle Instalación Pared 20W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2202211040452536/0.jpg"
@@ -1646,7 +1646,7 @@
     {
       "id": 1758,
       "nombre": "Bafle Instalación Pared 20W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2202211043055569/0.jpg"
@@ -1654,7 +1654,7 @@
     {
       "id": 2106,
       "nombre": "Bañador LED Blanco 100W DMX",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402161626349498/0.jpg"
@@ -1662,7 +1662,7 @@
     {
       "id": 2096,
       "nombre": "Bañador LED COB 200W Blanco",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402161629597779/0.jpg"
@@ -1670,7 +1670,7 @@
     {
       "id": 2095,
       "nombre": "Bañador LED Exterior RGBW IP65",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402161607155819/0.jpg"
@@ -1678,7 +1678,7 @@
     {
       "id": 2100,
       "nombre": "Bañador LED PAR 18x18W RGBLA+UV",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2510201642509780/0.jpg"
@@ -1686,7 +1686,7 @@
     {
       "id": 2094,
       "nombre": "Bañador LED PAR Blanco DMX",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402161631366339/0.jpg"
@@ -1694,7 +1694,7 @@
     {
       "id": 2091,
       "nombre": "Bañador LED PAR RGB 54 Leds",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402161622361578/0.jpg"
@@ -1702,7 +1702,7 @@
     {
       "id": 1834,
       "nombre": "Blinder COB de Alta Potencia",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2510201639115938/0.jpg"
@@ -1710,7 +1710,7 @@
     {
       "id": 1829,
       "nombre": "Blinder LED Mini Brut 400W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402161634575438/0.jpg"
@@ -3118,7 +3118,7 @@
     {
       "id": 1832,
       "nombre": "Cabezal LED Blinder 200W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201232405851/0.jpg"
@@ -3126,7 +3126,7 @@
     {
       "id": 1838,
       "nombre": "Cabezal LED Blinder y Pixel 200W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2404111742116599/0.jpg"
@@ -3134,7 +3134,7 @@
     {
       "id": 1837,
       "nombre": "Cabezal Móvil Barra Matrix 150W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2412101746534760/0.jpg"
@@ -3142,7 +3142,7 @@
     {
       "id": 1765,
       "nombre": "Cabezal Móvil LED Beam 100W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2412061631095207/0.jpg"
@@ -3150,7 +3150,7 @@
     {
       "id": 1767,
       "nombre": "Cabezal Móvil LED Beam 230W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071727418483/0.jpg"
@@ -3158,7 +3158,7 @@
     {
       "id": 1764,
       "nombre": "Cabezal Móvil LED Bee Eye",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2410241143036810/0.jpg"
@@ -3166,7 +3166,7 @@
     {
       "id": 1831,
       "nombre": "Cabezal Móvil LED Blinder 400W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201232395911/0.jpg"
@@ -3174,7 +3174,7 @@
     {
       "id": 1769,
       "nombre": "Cabezal Móvil LED Spot 30W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2410241144487620/0.jpg"
@@ -3182,7 +3182,7 @@
     {
       "id": 1771,
       "nombre": "Cabezal Móvil LED Spot 30W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402161633157817/0.jpg"
@@ -3190,7 +3190,7 @@
     {
       "id": 1768,
       "nombre": "Cabezal Móvil LED Spot con Láser",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2404111745231079/0.jpg"
@@ -3198,7 +3198,7 @@
     {
       "id": 1766,
       "nombre": "Cabezal Móvil LED Wash 19x15W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2412101750049940/0.jpg"
@@ -3206,7 +3206,7 @@
     {
       "id": 1770,
       "nombre": "Cabezal Móvil LED Wash 56W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2404111747172586/0.jpg"
@@ -3214,7 +3214,7 @@
     {
       "id": 3644,
       "nombre": "Cabezal móvil LED Beam 150W, aro RGB, rueda de colores/gobos, prisma y estrobo, DMX 14 canales (BEAMCORE 150)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754308114/0.jpg"
@@ -3222,7 +3222,7 @@
     {
       "id": 3643,
       "nombre": "Cabezal móvil LED Spot 60W, rueda de colores y gobos, aro LED RGB, Pan/Tilt, DMX 14 canales (QUANTUM 60)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754325905/0.jpg"
@@ -3230,7 +3230,7 @@
     {
       "id": 3645,
       "nombre": "Cabezal móvil multiefecto, beam de 6 cabezas, Bee Eye central, láser rojo/verde, LEDs CREE RGBW, DMX 26 canales (X-PHOTON)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754334686/0.jpg"
@@ -3238,7 +3238,7 @@
     {
       "id": 3465,
       "nombre": "Cable DMX 120 Ω (bobina), transmisión DMX512, malla trenzada, cobre estañado (CBL13-1)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554518417/0.jpg"
@@ -3246,7 +3246,7 @@
     {
       "id": 1808,
       "nombre": "Cable DMX 3 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181639369117/0.jpg"
@@ -3254,7 +3254,7 @@
     {
       "id": 1809,
       "nombre": "Cable DMX 3 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181602111173/0.jpg"
@@ -3262,7 +3262,7 @@
     {
       "id": 1814,
       "nombre": "Cable DMX 3 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181638123246/0.jpg"
@@ -3270,7 +3270,7 @@
     {
       "id": 1817,
       "nombre": "Cable DMX 3 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181607061104/0.jpg"
@@ -3278,7 +3278,7 @@
     {
       "id": 3500,
       "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 1 metro (DMX0201)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051506362204/0.jpg"
@@ -3286,7 +3286,7 @@
     {
       "id": 3501,
       "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 1,5 metros (DMX0202)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554292342/0.jpg"
@@ -3294,7 +3294,7 @@
     {
       "id": 3504,
       "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 10 metros (DMX0210)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554303725/0.jpg"
@@ -3302,7 +3302,7 @@
     {
       "id": 3505,
       "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 15 metros (DMX0215)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554455252/0.jpg"
@@ -3310,7 +3310,7 @@
     {
       "id": 3502,
       "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 3 metros (DMX0203)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554293755/0.jpg"
@@ -3318,7 +3318,7 @@
     {
       "id": 3506,
       "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 30 metros (DMX0230)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554458511/0.jpg"
@@ -3326,7 +3326,7 @@
     {
       "id": 3503,
       "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 7,5 metros (DMX0208)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554465222/0.jpg"
@@ -3334,7 +3334,7 @@
     {
       "id": 1773,
       "nombre": "Cable MIDI 5 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071038076009/0.jpg"
@@ -3342,7 +3342,7 @@
     {
       "id": 1774,
       "nombre": "Cable MIDI 5 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071038066038/0.jpg"
@@ -3350,7 +3350,7 @@
     {
       "id": 1775,
       "nombre": "Cable MIDI 5 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071038079208/0.jpg"
@@ -3358,7 +3358,7 @@
     {
       "id": 1776,
       "nombre": "Cable MIDI 5 Pines Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2201041123085447/0.jpg"
@@ -3366,7 +3366,7 @@
     {
       "id": 1781,
       "nombre": "Cable Plug Estéreo TRS a TRS",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2006101654303847/0.jpg"
@@ -3374,7 +3374,7 @@
     {
       "id": 1782,
       "nombre": "Cable Plug Estéreo TRS a TRS",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2006101213473963/0.jpg"
@@ -3382,7 +3382,7 @@
     {
       "id": 1783,
       "nombre": "Cable Plug Estéreo TRS a TRS",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2003171502293101/0.jpg"
@@ -3390,7 +3390,7 @@
     {
       "id": 3539,
       "nombre": "Cable Plug mono 6.35mm a Plug mono 6.35mm, conductor 100% OFC, diámetro exterior 6mm (LE5021)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": null
@@ -3398,7 +3398,7 @@
     {
       "id": 1777,
       "nombre": "Cable Speakon para Parlantes",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554543194/0.jpg"
@@ -3406,7 +3406,7 @@
     {
       "id": 1778,
       "nombre": "Cable Speakon para Parlantes",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554533253/0.jpg"
@@ -3414,7 +3414,7 @@
     {
       "id": 1779,
       "nombre": "Cable Speakon para Parlantes",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554533224/0.jpg"
@@ -3422,7 +3422,7 @@
     {
       "id": 1780,
       "nombre": "Cable Speakon para Parlantes",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111748152757/0.jpg"
@@ -3430,7 +3430,7 @@
     {
       "id": 3520,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 1 metro (EMC0101)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2005121056084031/0.jpg"
@@ -3438,7 +3438,7 @@
     {
       "id": 3521,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 2 metros (EMC0102)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111617522245/0.jpg"
@@ -3446,7 +3446,7 @@
     {
       "id": 3519,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 50 cm (EMC01005)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2005051113117382/0.jpg"
@@ -3454,7 +3454,7 @@
     {
       "id": 3546,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 1 metro (NMC0101)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251754354844/0.jpg"
@@ -3462,7 +3462,7 @@
     {
       "id": 3550,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 10 metros (NMC0110)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2010141235441867/0.jpg"
@@ -3470,7 +3470,7 @@
     {
       "id": 3551,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 15 metros (NMC0115)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251800381446/0.jpg"
@@ -3478,7 +3478,7 @@
     {
       "id": 3547,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 2 metros (NMC0102)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251755403394/0.jpg"
@@ -3486,7 +3486,7 @@
     {
       "id": 3548,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 3 metros (NMC0103)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251756315233/0.jpg"
@@ -3494,7 +3494,7 @@
     {
       "id": 3545,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 50 cm (NMC01005)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251753334015/0.jpg"
@@ -3502,7 +3502,7 @@
     {
       "id": 3549,
       "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 6 metros (NMC0106)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251757235316/0.jpg"
@@ -3510,7 +3510,7 @@
     {
       "id": 3541,
       "nombre": "Cable XLR hembra a Plug mono 6.35mm, blindado, conectores metálicos, 3 metros (NGC0103)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251803244324/0.jpg"
@@ -3518,7 +3518,7 @@
     {
       "id": 3542,
       "nombre": "Cable XLR hembra a Plug mono 6.35mm, blindado, conectores metálicos, 6 metros (NGC0106)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251802236359/0.jpg"
@@ -3526,7 +3526,7 @@
     {
       "id": 3466,
       "nombre": "Cable combinado DMX y alimentación, sección 3x1,5mm², control y energía en un solo cable (CBL16)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554473317/0.jpg"
@@ -3534,7 +3534,7 @@
     {
       "id": 3533,
       "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 10 metros (EMC0610)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111156382580/0.jpg"
@@ -3542,7 +3542,7 @@
     {
       "id": 3534,
       "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 2 metros (EMC062)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111157299178/0.jpg"
@@ -3550,7 +3550,7 @@
     {
       "id": 3535,
       "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 3 metros (EMC063)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111129115709/0.jpg"
@@ -3558,7 +3558,7 @@
     {
       "id": 3536,
       "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 6 metros (EMC066)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111129549181/0.jpg"
@@ -3566,7 +3566,7 @@
     {
       "id": 3528,
       "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 1 metro (EMC031)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051459259440/0.jpg"
@@ -3574,7 +3574,7 @@
     {
       "id": 3529,
       "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 10 metros (EMC0310)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051502385785/0.jpg"
@@ -3582,7 +3582,7 @@
     {
       "id": 3530,
       "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 2 metros (EMC032)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051501038768/0.jpg"
@@ -3590,7 +3590,7 @@
     {
       "id": 3531,
       "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 3 metros (EMC033)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051501346684/0.jpg"
@@ -3598,7 +3598,7 @@
     {
       "id": 3532,
       "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 6 metros (EMC036)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051502112340/0.jpg"
@@ -3606,7 +3606,7 @@
     {
       "id": 3514,
       "nombre": "Cable de audio balanceado plug TRS 6,35mm estéreo a XLR hembra, 30cm (EGC0303)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111154255876/0.jpg"
@@ -3614,7 +3614,7 @@
     {
       "id": 3467,
       "nombre": "Cable de audio para exterior 2x1,5mm², resistente a la intemperie, rollo 100m (CBL18 2*1.50)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2205101628398657/0.jpg"
@@ -3622,7 +3622,7 @@
     {
       "id": 3468,
       "nombre": "Cable de audio para exterior 2x2,5mm², aislante reforzado, rollo 100m (CBL18 2*2.50)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554526542/0.jpg"
@@ -3630,7 +3630,7 @@
     {
       "id": 3537,
       "nombre": "Cable de instrumento 6.35mm macho-macho, 6 metros, conductor OFC, blindado, certificaciones CE/ROHS (IC049-20FT)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554476576/0.jpg"
@@ -3638,7 +3638,7 @@
     {
       "id": 3538,
       "nombre": "Cable de instrumento 6.35mm macho-macho, 9 metros, conductor OFC, aislamiento PE, cubierta PVC (IC049-30FT)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554465193/0.jpg"
@@ -3646,7 +3646,7 @@
     {
       "id": 3543,
       "nombre": "Cable de instrumento Plug mono 6.35mm a Plug mono, blindado, conectores metálicos, 3 metros (NGC0203)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2007271522375524/0.jpg"
@@ -3654,7 +3654,7 @@
     {
       "id": 3544,
       "nombre": "Cable de instrumento Plug mono 6.35mm a Plug mono, blindado, conectores metálicos, 6 metros (NGC0206)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251805073674/0.jpg"
@@ -3662,7 +3662,7 @@
     {
       "id": 3460,
       "nombre": "Cable de instrumento plug 10m, cobre OFC, conectores niquelados 6,35mm, cubierta PVC (AGC0610)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111146509498/0.jpg"
@@ -3670,7 +3670,7 @@
     {
       "id": 3461,
       "nombre": "Cable de instrumento plug 3m, conectores rectos 6,35mm, cobre OFC, cubierta PVC (AGC063)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111147212197/0.jpg"
@@ -3678,7 +3678,7 @@
     {
       "id": 3462,
       "nombre": "Cable de instrumento plug 6,35mm 6m, cobre OFC, cubierta PVC resistente (AGC066)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111147468437/0.jpg"
@@ -3686,7 +3686,7 @@
     {
       "id": 3456,
       "nombre": "Cable de instrumento plug mono, conductor 100% libre de oxígeno, 6 metros (AGC0206)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011251751107654/0.jpg"
@@ -3694,7 +3694,7 @@
     {
       "id": 3457,
       "nombre": "Cable de instrumento plug/plug TS mono 10m, conectores niquelados 6,35mm, cobre OFC (AGC0510)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111145256487/0.jpg"
@@ -3702,7 +3702,7 @@
     {
       "id": 3458,
       "nombre": "Cable de instrumento plug/plug TS mono 3m, cobre OFC, conectores niquelados 6,35mm, CE/ROHS (AGC053)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111146004117/0.jpg"
@@ -3710,7 +3710,7 @@
     {
       "id": 3459,
       "nombre": "Cable de instrumento plug/plug TS mono 6m, cobre OFC, conectores niquelados 6,35mm, PVC (AGC056)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111146232385/0.jpg"
@@ -3718,7 +3718,7 @@
     {
       "id": 3555,
       "nombre": "Cable de instrumento textil trenzado Plug mono a Plug mono, conectores dorados, 10 metros (SGC0110)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111205149336/0.jpg"
@@ -3726,7 +3726,7 @@
     {
       "id": 3556,
       "nombre": "Cable de instrumento textil trenzado Plug mono a Plug mono, conectores dorados, 3 metros (SGC013)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111206202077/0.jpg"
@@ -3734,7 +3734,7 @@
     {
       "id": 3557,
       "nombre": "Cable de instrumento textil trenzado Plug mono a Plug mono, conectores dorados, 6 metros (SGC016)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111206393023/0.jpg"
@@ -3742,7 +3742,7 @@
     {
       "id": 3558,
       "nombre": "Cable de instrumento textil trenzado Plug mono recto a L (90°), conectores dorados, 10 metros (SGC0210)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111207024922/0.jpg"
@@ -3750,7 +3750,7 @@
     {
       "id": 3559,
       "nombre": "Cable de instrumento textil trenzado Plug mono recto a L (90°), conectores dorados, 3 metros (SGC023)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111207379123/0.jpg"
@@ -3758,7 +3758,7 @@
     {
       "id": 3560,
       "nombre": "Cable de instrumento textil trenzado Plug mono recto a L (90°), conectores dorados, 6 metros (SGC026)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111207568323/0.jpg"
@@ -3766,7 +3766,7 @@
     {
       "id": 3524,
       "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 10 metros (EMC0110)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111617522275/0.jpg"
@@ -3774,7 +3774,7 @@
     {
       "id": 3525,
       "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 15 metros (EMC0115)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111617532156/0.jpg"
@@ -3782,7 +3782,7 @@
     {
       "id": 3526,
       "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 20 metros (EMC0120)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2103221244203006/0.jpg"
@@ -3790,7 +3790,7 @@
     {
       "id": 3522,
       "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 3 metros (EMC0103)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111617522215/0.jpg"
@@ -3798,7 +3798,7 @@
     {
       "id": 3527,
       "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 30 metros (EMC0130)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2109101531358967/0.jpg"
@@ -3806,7 +3806,7 @@
     {
       "id": 3523,
       "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 6 metros (EMC0106)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111617532185/0.jpg"
@@ -3814,7 +3814,7 @@
     {
       "id": 3507,
       "nombre": "Cable instrumento XLR hembra a plug mono 6,35mm, blindado, 3 metros (EGC0103)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554491412/0.jpg"
@@ -3822,7 +3822,7 @@
     {
       "id": 3508,
       "nombre": "Cable instrumento XLR hembra a plug mono 6,35mm, blindado, 6 metros (EGC0106)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554525099/0.jpg"
@@ -3830,7 +3830,7 @@
     {
       "id": 3511,
       "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 10 metros (EGC0210)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111150058451/0.jpg"
@@ -3838,7 +3838,7 @@
     {
       "id": 3509,
       "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 3 metros (EGC0203)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111748145103/0.jpg"
@@ -3846,7 +3846,7 @@
     {
       "id": 3512,
       "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 3 metros (EGC023)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111151559529/0.jpg"
@@ -3854,7 +3854,7 @@
     {
       "id": 3510,
       "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 6 metros (EGC0206)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111748145074/0.jpg"
@@ -3862,7 +3862,7 @@
     {
       "id": 3513,
       "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 6 metros (EGC026)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111151303079/0.jpg"
@@ -3870,7 +3870,7 @@
     {
       "id": 3464,
       "nombre": "Cable microfónico balanceado (bobina), cobre estañado, malla trenzada antiinterferencias (CBL03)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554442830/0.jpg"
@@ -3878,7 +3878,7 @@
     {
       "id": 3469,
       "nombre": "Cable multipar snake 12 pares, blindaje individual por par, baja diafonía, por metro (CBL31-12 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111748133720/0.jpg"
@@ -3886,7 +3886,7 @@
     {
       "id": 3470,
       "nombre": "Cable multipar snake 16 pares, blindaje individual por par, baja diafonía, por metro (CBL31-16 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554507093/0.jpg"
@@ -3894,7 +3894,7 @@
     {
       "id": 3471,
       "nombre": "Cable multipar snake 20 pares, blindaje individual por par, baja diafonía, por metro (CBL31-20 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554484700/0.jpg"
@@ -3902,7 +3902,7 @@
     {
       "id": 3472,
       "nombre": "Cable multipar snake 24 pares, blindaje individual por par, baja diafonía, por metro (CBL31-24 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554525158/0.jpg"
@@ -3910,7 +3910,7 @@
     {
       "id": 3473,
       "nombre": "Cable multipar snake 32 pares, blindaje individual por par, baja diafonía, por metro (CBL31-32 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554518447/0.jpg"
@@ -3918,7 +3918,7 @@
     {
       "id": 3474,
       "nombre": "Cable multipar snake 4 pares, blindaje individual por par, baja diafonía, por metro (CBL31-4 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554483287/0.jpg"
@@ -3926,7 +3926,7 @@
     {
       "id": 3475,
       "nombre": "Cable multipar snake 40 pares, blindaje individual por par, baja diafonía, por metro (CBL31-40 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051554442800/0.jpg"
@@ -3934,7 +3934,7 @@
     {
       "id": 3476,
       "nombre": "Cable multipar snake 8 pares, blindaje individual por par, baja diafonía, por metro (CBL31-8 Cores)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111748136418/0.jpg"
@@ -3942,7 +3942,7 @@
     {
       "id": 3515,
       "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 1 metro (ELC011)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111155217683/0.jpg"
@@ -3950,7 +3950,7 @@
     {
       "id": 3516,
       "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 2 metros (ELC012)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111127443859/0.jpg"
@@ -3958,7 +3958,7 @@
     {
       "id": 3517,
       "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 3 metros (ELC013)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111155368987/0.jpg"
@@ -3966,7 +3966,7 @@
     {
       "id": 3518,
       "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 6 metros (ELC016)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111155561384/0.jpg"
@@ -3974,7 +3974,7 @@
     {
       "id": 1784,
       "nombre": "Caja Directa Activa Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121302407118/0.jpg"
@@ -3982,7 +3982,7 @@
     {
       "id": 1787,
       "nombre": "Caja Directa Activa con Batería",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121302407147/0.jpg"
@@ -3990,7 +3990,7 @@
     {
       "id": 1786,
       "nombre": "Caja Directa Pasiva Doble",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111536052457/0.jpg"
@@ -3998,7 +3998,7 @@
     {
       "id": 1785,
       "nombre": "Caja Directa Pasiva Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111538456262/0.jpg"
@@ -4006,7 +4006,7 @@
     {
       "id": 1788,
       "nombre": "Caja Directa Pasiva Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121302397177/0.jpg"
@@ -4014,7 +4014,7 @@
     {
       "id": 2074,
       "nombre": "Clamp Doble Nudo para Cabezal Móvil",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141158171216/0.jpg"
@@ -4022,7 +4022,7 @@
     {
       "id": 2076,
       "nombre": "Clamp Nudo para Truss",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754399841/0.jpg"
@@ -4030,7 +4030,7 @@
     {
       "id": 2075,
       "nombre": "Clamp Rápido Para Truss",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754405291/0.jpg"
@@ -4038,7 +4038,7 @@
     {
       "id": 2083,
       "nombre": "Clamp de Aluminio Tipo Nudo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141157512614/0.jpg"
@@ -4046,7 +4046,7 @@
     {
       "id": 2080,
       "nombre": "Clamp de Aluminio para Cabezal Móvil",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141157273523/0.jpg"
@@ -4054,7 +4054,7 @@
     {
       "id": 2073,
       "nombre": "Clamp de Aluminio para Efectos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141157052096/0.jpg"
@@ -4062,7 +4062,7 @@
     {
       "id": 2077,
       "nombre": "Clamp de Montaje Rápido 7R",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141158583280/0.jpg"
@@ -4070,7 +4070,7 @@
     {
       "id": 2085,
       "nombre": "Clamp de Montaje Rápido 7R",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2312151123337993/0.jpg"
@@ -4078,7 +4078,7 @@
     {
       "id": 1862,
       "nombre": "Conector 1/4 Mono Angulado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155482835/0.jpg"
@@ -4086,7 +4086,7 @@
     {
       "id": 1852,
       "nombre": "Conector 1/4 Mono TS PCB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155482805/0.jpg"
@@ -4094,7 +4094,7 @@
     {
       "id": 1849,
       "nombre": "Conector 1/4 Stereo Angulado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155509810/0.jpg"
@@ -4102,7 +4102,7 @@
     {
       "id": 1855,
       "nombre": "Conector 1/4 Stereo Angulado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111159332677/0.jpg"
@@ -4110,7 +4110,7 @@
     {
       "id": 1847,
       "nombre": "Conector 1/4 TRS PCB a Plug",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155494158/0.jpg"
@@ -4118,7 +4118,7 @@
     {
       "id": 1716,
       "nombre": "Conector 6.5mm Mono a XLR Hembra",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155482775/0.jpg"
@@ -4126,7 +4126,7 @@
     {
       "id": 1905,
       "nombre": "Conector Combo XLR/Jack Chasis",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121359569778/0.jpg"
@@ -4134,7 +4134,7 @@
     {
       "id": 1885,
       "nombre": "Conector Combo XLR/Jack a PCB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121359559808/0.jpg"
@@ -4142,7 +4142,7 @@
     {
       "id": 1839,
       "nombre": "Conector Ethercon Crimpeado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155459530/0.jpg"
@@ -4150,7 +4150,7 @@
     {
       "id": 1843,
       "nombre": "Conector Ethercon Macho Crimpeado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001061059371351/0.jpg"
@@ -4158,7 +4158,7 @@
     {
       "id": 1863,
       "nombre": "Conector Jack 6.3 mm Mono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155466182/0.jpg"
@@ -4166,7 +4166,7 @@
     {
       "id": 1859,
       "nombre": "Conector Jack Hembra Stereo con Traba",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201604414460/0.jpg"
@@ -4174,7 +4174,7 @@
     {
       "id": 1717,
       "nombre": "Conector Jack Mono Hembra a Hembra",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201604417749/0.jpg"
@@ -4182,7 +4182,7 @@
     {
       "id": 1853,
       "nombre": "Conector Jack Mono de Panel",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155519780/0.jpg"
@@ -4190,7 +4190,7 @@
     {
       "id": 1858,
       "nombre": "Conector Jack Mono de Panel",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155494188/0.jpg"
@@ -4198,7 +4198,7 @@
     {
       "id": 1854,
       "nombre": "Conector Jack a Chasis con Traba",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155494129/0.jpg"
@@ -4206,7 +4206,7 @@
     {
       "id": 3564,
       "nombre": "Conector Mini XLR hembra 4 pines, compatible cables 3 a 4 mm, vida útil 1000 ciclos (LA1069-4)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155484218/0.jpg"
@@ -4214,7 +4214,7 @@
     {
       "id": 3563,
       "nombre": "Conector Mini XLR hembra, resistencia de contacto <5mΩ, vida útil +1000 ciclos de conexión (LA1069)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155476153/0.jpg"
@@ -4222,7 +4222,7 @@
     {
       "id": 3565,
       "nombre": "Conector Mini XLR macho 3 pines, compatible cables 3 a 4 mm, vida útil 1000 ciclos (LA1070)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155459560/0.jpg"
@@ -4230,7 +4230,7 @@
     {
       "id": 3566,
       "nombre": "Conector Mini XLR macho 4 pines, compatible cables 3 a 4 mm, alta resistencia de aislamiento, vida útil +1000 ciclos (LA1070-4)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155476123/0.jpg"
@@ -4238,7 +4238,7 @@
     {
       "id": 1846,
       "nombre": "Conector Miniplug 1/8 Stereo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155509839/0.jpg"
@@ -4246,7 +4246,7 @@
     {
       "id": 1860,
       "nombre": "Conector Plug 1/4 Estéreo Angulado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111159542576/0.jpg"
@@ -4254,7 +4254,7 @@
     {
       "id": 1845,
       "nombre": "Conector Plug 1/4 Mono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155472864/0.jpg"
@@ -4262,7 +4262,7 @@
     {
       "id": 1857,
       "nombre": "Conector Plug 6.3 mm Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155448117/0.jpg"
@@ -4270,7 +4270,7 @@
     {
       "id": 1850,
       "nombre": "Conector Plug Mono 6.35mm",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201604417719/0.jpg"
@@ -4278,7 +4278,7 @@
     {
       "id": 1866,
       "nombre": "Conector Powercon 220V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613519757/0.jpg"
@@ -4286,7 +4286,7 @@
     {
       "id": 1867,
       "nombre": "Conector Powercon Azul 220V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613518225/0.jpg"
@@ -4294,7 +4294,7 @@
     {
       "id": 1872,
       "nombre": "Conector Powercon Hembra IP65",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111202196003/0.jpg"
@@ -4302,7 +4302,7 @@
     {
       "id": 1875,
       "nombre": "Conector Powercon Hembra de Panel",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111203453975/0.jpg"
@@ -4310,7 +4310,7 @@
     {
       "id": 1879,
       "nombre": "Conector Powercon Macho",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613509787/0.jpg"
@@ -4318,7 +4318,7 @@
     {
       "id": 1870,
       "nombre": "Conector Powercon Macho Azul",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613519728/0.jpg"
@@ -4326,7 +4326,7 @@
     {
       "id": 1865,
       "nombre": "Conector Powercon Macho IP65",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111203156339/0.jpg"
@@ -4334,7 +4334,7 @@
     {
       "id": 1874,
       "nombre": "Conector Powercon Macho de Panel",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111202403493/0.jpg"
@@ -4342,7 +4342,7 @@
     {
       "id": 3540,
       "nombre": "Conector RCA macho para soldar a cable, metal, baja resistencia de contacto, alta resistencia de aislamiento (LE5021)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155459500/0.jpg"
@@ -4350,7 +4350,7 @@
     {
       "id": 1841,
       "nombre": "Conector RJ45 a Chasis",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155527875/0.jpg"
@@ -4358,7 +4358,7 @@
     {
       "id": 1840,
       "nombre": "Conector RJ45 a Chasis Horizontal",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155527845/0.jpg"
@@ -4366,7 +4366,7 @@
     {
       "id": 1842,
       "nombre": "Conector RJ45 a Chasis Metálico",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155527905/0.jpg"
@@ -4374,7 +4374,7 @@
     {
       "id": 1844,
       "nombre": "Conector RJ45 a Chasis Vertical",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155537816/0.jpg"
@@ -4382,7 +4382,7 @@
     {
       "id": 1868,
       "nombre": "Conector Speakon 2 Contactos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613528196/0.jpg"
@@ -4390,7 +4390,7 @@
     {
       "id": 1869,
       "nombre": "Conector Speakon 4 Polos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613508845/0.jpg"
@@ -4398,7 +4398,7 @@
     {
       "id": 1877,
       "nombre": "Conector Speakon Chasis 4 Polos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155509869/0.jpg"
@@ -4406,7 +4406,7 @@
     {
       "id": 1718,
       "nombre": "Conector Speakon Hembra a Hembra",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331268863/0.jpg"
@@ -4414,7 +4414,7 @@
     {
       "id": 1873,
       "nombre": "Conector Speakon Macho a Cable",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111204144836/0.jpg"
@@ -4422,7 +4422,7 @@
     {
       "id": 1878,
       "nombre": "Conector Speakon Panel 4 Polos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111201057720/0.jpg"
@@ -4430,7 +4430,7 @@
     {
       "id": 3575,
       "nombre": "Conector Speakon hembra 4 polos chasis redondo, vida útil 2000 conexiones, baja resistencia de contacto (LD4021)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111200249193/0.jpg"
@@ -4438,7 +4438,7 @@
     {
       "id": 3574,
       "nombre": "Conector Speakon hembra de chasis, resistencia de contacto mínima, robusta resistencia de aislamiento (LD4017)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155522164/0.jpg"
@@ -4446,7 +4446,7 @@
     {
       "id": 1851,
       "nombre": "Conector TRS 1/4 Estéreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155512224/0.jpg"
@@ -4454,7 +4454,7 @@
     {
       "id": 1887,
       "nombre": "Conector XLR 3 Pines Hembra",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613489995/0.jpg"
@@ -4462,7 +4462,7 @@
     {
       "id": 1901,
       "nombre": "Conector XLR Hembra Angulado 90°",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155512194/0.jpg"
@@ -4470,7 +4470,7 @@
     {
       "id": 1886,
       "nombre": "Conector XLR Hembra Impermeable",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051505353772/0.jpg"
@@ -4478,7 +4478,7 @@
     {
       "id": 1907,
       "nombre": "Conector XLR Hembra Switchcraft",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613474658/0.jpg"
@@ -4486,7 +4486,7 @@
     {
       "id": 1900,
       "nombre": "Conector XLR Hembra Tipo estándar profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613474598/0.jpg"
@@ -4494,7 +4494,7 @@
     {
       "id": 1906,
       "nombre": "Conector XLR Hembra Tipo estándar profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613451547/0.jpg"
@@ -4502,7 +4502,7 @@
     {
       "id": 1891,
       "nombre": "Conector XLR Hembra para Chasis",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121359559867/0.jpg"
@@ -4510,7 +4510,7 @@
     {
       "id": 1898,
       "nombre": "Conector XLR Hembra para Chasis",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121359549897/0.jpg"
@@ -4518,7 +4518,7 @@
     {
       "id": 1896,
       "nombre": "Conector XLR Macho 5 Pines",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613464687/0.jpg"
@@ -4526,7 +4526,7 @@
     {
       "id": 1883,
       "nombre": "Conector XLR Macho Chasis Cuadrado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613499936/0.jpg"
@@ -4534,7 +4534,7 @@
     {
       "id": 1884,
       "nombre": "Conector XLR Macho Chasis Horizontal",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121359549927/0.jpg"
@@ -4542,7 +4542,7 @@
     {
       "id": 1880,
       "nombre": "Conector XLR Macho Impermeable",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2503051504371214/0.jpg"
@@ -4550,7 +4550,7 @@
     {
       "id": 1881,
       "nombre": "Conector XLR Macho Plateado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613484568/0.jpg"
@@ -4558,7 +4558,7 @@
     {
       "id": 1899,
       "nombre": "Conector XLR Macho Switchcraft",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613474628/0.jpg"
@@ -4566,7 +4566,7 @@
     {
       "id": 1892,
       "nombre": "Conector XLR Macho estándar profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613464747/0.jpg"
@@ -4574,7 +4574,7 @@
     {
       "id": 1889,
       "nombre": "Conector XLR Macho para Chasis",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121359559838/0.jpg"
@@ -4582,7 +4582,7 @@
     {
       "id": 1895,
       "nombre": "Conector XLR Macho para Chasis",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001081026504687/0.jpg"
@@ -4590,7 +4590,7 @@
     {
       "id": 3570,
       "nombre": "Conector XLR hembra 3 pines a plug estéreo 6.5mm, resistencia de contacto mínima (LB2008)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155469471/0.jpg"
@@ -4598,7 +4598,7 @@
     {
       "id": 3567,
       "nombre": "Conector XLR hembra 5 pines chasis cuadrado, alta resistencia de aislamiento, vida útil +1000 ciclos (LA1091-5)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613499965/0.jpg"
@@ -4606,7 +4606,7 @@
     {
       "id": 3569,
       "nombre": "Conector XLR hembra 5 pines para chasis/PCB, resistencia de contacto <10mΩ, aislamiento >1000MΩ (LA1123)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121359569749/0.jpg"
@@ -4614,7 +4614,7 @@
     {
       "id": 3561,
       "nombre": "Conector XLR hembra 5 pines, color negro, baja resistencia de contacto, alto aislamiento eléctrico (LA1011-5B)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613464717/0.jpg"
@@ -4622,7 +4622,7 @@
     {
       "id": 3568,
       "nombre": "Conector XLR macho 5 pines chasis cuadrado, vida útil 1000 conexiones, fuerza de inserción 20N (LA1092-5)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111613499906/0.jpg"
@@ -4630,7 +4630,7 @@
     {
       "id": 3562,
       "nombre": "Conector XLR macho angulado 90°, resistencia de contacto <5mΩ, vida útil 1000 ciclos de inserción (LA1066)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911051155466212/0.jpg"
@@ -4638,7 +4638,7 @@
     {
       "id": 1810,
       "nombre": "Consola DMX 384 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181650564556/0.jpg"
@@ -4646,7 +4646,7 @@
     {
       "id": 1813,
       "nombre": "Consola DMX 512 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181657518453/0.jpg"
@@ -4654,7 +4654,7 @@
     {
       "id": 1816,
       "nombre": "Consola DMX 512 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181652158722/0.jpg"
@@ -4662,7 +4662,7 @@
     {
       "id": 1811,
       "nombre": "Consola DMX Profesional 1024 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181659337580/0.jpg"
@@ -4670,7 +4670,7 @@
     {
       "id": 1815,
       "nombre": "Consola DMX Profesional 1024 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181704275574/0.jpg"
@@ -4678,7 +4678,7 @@
     {
       "id": 1820,
       "nombre": "Consola DMX Profesional 1024 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181702037170/0.jpg"
@@ -4686,7 +4686,7 @@
     {
       "id": 1790,
       "nombre": "Consola Mezcladora USB y Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2101131712343476/0.jpg"
@@ -4694,7 +4694,7 @@
     {
       "id": 1789,
       "nombre": "Consola Mixer 6 Canales USB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2101131720501531/0.jpg"
@@ -4702,7 +4702,7 @@
     {
       "id": 1799,
       "nombre": "Consola Mixer USB 4 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2101131714301107/0.jpg"
@@ -4710,7 +4710,7 @@
     {
       "id": 1794,
       "nombre": "Consola Mixer de Efectos 8 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911271111296016/0.jpg"
@@ -4718,7 +4718,7 @@
     {
       "id": 1797,
       "nombre": "Consola de Audio 12 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040312028/0.jpg"
@@ -4726,7 +4726,7 @@
     {
       "id": 1800,
       "nombre": "Consola de Audio 12 Canales USB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108134767/0.jpg"
@@ -4734,7 +4734,7 @@
     {
       "id": 1792,
       "nombre": "Consola de Audio 16 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040321998/0.jpg"
@@ -4742,7 +4742,7 @@
     {
       "id": 1802,
       "nombre": "Consola de Audio 16 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108141508/0.jpg"
@@ -4750,7 +4750,7 @@
     {
       "id": 1804,
       "nombre": "Consola de Audio 8 Canales USB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108141449/0.jpg"
@@ -4758,7 +4758,7 @@
     {
       "id": 1793,
       "nombre": "Consola de Audio Mixer 6 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108141478/0.jpg"
@@ -4766,7 +4766,7 @@
     {
       "id": 1803,
       "nombre": "Consola de Mezcla 12 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108252411/0.jpg"
@@ -4774,7 +4774,7 @@
     {
       "id": 1805,
       "nombre": "Consola de Mezcla 12 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108179866/0.jpg"
@@ -4782,7 +4782,7 @@
     {
       "id": 1806,
       "nombre": "Consola de Mezcla 12 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108189807/0.jpg"
@@ -4790,7 +4790,7 @@
     {
       "id": 1791,
       "nombre": "Consola de Mezcla 16 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108252382/0.jpg"
@@ -4798,7 +4798,7 @@
     {
       "id": 1807,
       "nombre": "Consola de Mezcla 16 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108189777/0.jpg"
@@ -4806,7 +4806,7 @@
     {
       "id": 1795,
       "nombre": "Consola de Mezcla 8 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108189748/0.jpg"
@@ -4814,7 +4814,7 @@
     {
       "id": 1801,
       "nombre": "Consola de Mezcla 8 Canales",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108268003/0.jpg"
@@ -4822,7 +4822,7 @@
     {
       "id": 1796,
       "nombre": "Consola de Mezcla 8 Canales Bluetooth",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040293993/0.jpg"
@@ -4830,7 +4830,7 @@
     {
       "id": 1798,
       "nombre": "Consola de Mezcla USB con Efectos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Consolas y Mezcladoras",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121108339607/0.jpg"
@@ -4838,7 +4838,7 @@
     {
       "id": 1821,
       "nombre": "Controlador DMX Command Wing",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181717214406/0.jpg"
@@ -4846,7 +4846,7 @@
     {
       "id": 1819,
       "nombre": "Controlador DMX Compacto para PC",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251755208485/0.jpg"
@@ -4854,7 +4854,7 @@
     {
       "id": 1818,
       "nombre": "Controlador DMX Fader Wing",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181719409148/0.jpg"
@@ -4878,7 +4878,7 @@
     {
       "id": 1998,
       "nombre": "Cápsula de Repuesto Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261326473323/0.jpg"
@@ -4886,7 +4886,7 @@
     {
       "id": 2001,
       "nombre": "Cápsula de Repuesto Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205312918/0.jpg"
@@ -4894,7 +4894,7 @@
     {
       "id": 2002,
       "nombre": "Cápsula de Repuesto Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754435394/0.jpg"
@@ -4902,7 +4902,7 @@
     {
       "id": 2003,
       "nombre": "Cápsula de Repuesto Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205322829/0.jpg"
@@ -4910,7 +4910,7 @@
     {
       "id": 2006,
       "nombre": "Cápsula de Repuesto Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205312889/0.jpg"
@@ -4918,7 +4918,7 @@
     {
       "id": 2039,
       "nombre": "Cápsula de Repuesto Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754434258/0.jpg"
@@ -4926,7 +4926,7 @@
     {
       "id": 2049,
       "nombre": "Cápsula de Repuesto Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205302948/0.jpg"
@@ -5902,7 +5902,7 @@
     {
       "id": 1824,
       "nombre": "Efecto Estroboscópico Wash 2 en 1",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2510201655489423/0.jpg"
@@ -5910,7 +5910,7 @@
     {
       "id": 1835,
       "nombre": "Efecto Estroboscópico Wash 2 en 1",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2510201659326990/0.jpg"
@@ -5918,7 +5918,7 @@
     {
       "id": 3640,
       "nombre": "Efecto LED 2 en 1 RGBW, láser rojo/verde multipuntos, 8 patrones, DMX 7 canales, audio (EF-500)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201151485344/0.jpg"
@@ -5926,7 +5926,7 @@
     {
       "id": 1825,
       "nombre": "Efecto LED Matrix Estroboscópico 3 en 1",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2510201648273550/0.jpg"
@@ -5934,7 +5934,7 @@
     {
       "id": 1826,
       "nombre": "Efecto LED Mini Spider",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2002031322563719/0.jpg"
@@ -5942,7 +5942,7 @@
     {
       "id": 3641,
       "nombre": "Efecto LED Mushroom giratorio 20W, RGBA+UV, láser rojo/verde multipunto, DMX 7 canales, IP33 (EF-505)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201151495314/0.jpg"
@@ -5950,7 +5950,7 @@
     {
       "id": 3642,
       "nombre": "Efecto LED Spider compacto, 8 LEDs RGBW 5W, láser rojo/verde 50mW, tilt 200°, DMX 10/17 canales (NOVA SPIDER)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754327595/0.jpg"
@@ -5958,7 +5958,7 @@
     {
       "id": 3646,
       "nombre": "Efecto LED de gobo 8 colores, 8 LEDs CREE RGBW 3W, dimmer lineal y estrobo, DMX 7 canales (SPG008)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201232449449/0.jpg"
@@ -5966,7 +5966,7 @@
     {
       "id": 1836,
       "nombre": "Efecto Matrix Estroboscópico 3 en 1",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2510201651357104/0.jpg"
@@ -6102,7 +6102,7 @@
     {
       "id": 1743,
       "nombre": "Filtro Antipop Paraviento Estudio",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331567041/0.jpg"
@@ -6110,7 +6110,7 @@
     {
       "id": 1746,
       "nombre": "Filtro Antipop para Micrófono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331557071/0.jpg"
@@ -6118,7 +6118,7 @@
     {
       "id": 1744,
       "nombre": "Filtro Antipop para Micrófono Condensador",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201604431053/0.jpg"
@@ -6126,7 +6126,7 @@
     {
       "id": 1823,
       "nombre": "Flash LED Strobe Mini RGB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201232389258/0.jpg"
@@ -6134,7 +6134,7 @@
     {
       "id": 2102,
       "nombre": "Foco LED Par RGB 216W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402151715562387/0.jpg"
@@ -6198,7 +6198,7 @@
     {
       "id": 1971,
       "nombre": "Inflador para Máquina Lanza Papeles",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131114529243/0.jpg"
@@ -6206,7 +6206,7 @@
     {
       "id": 3647,
       "nombre": "Inflador para lanza papeles 500W, medidor de presión ajustable 0,1-1,6 MPa, parada automática (LP-300)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": null
@@ -6254,7 +6254,7 @@
     {
       "id": 1772,
       "nombre": "Kit de Cabezales Móviles Beam 150W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Cabezales Móviles",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754319650/0.jpg"
@@ -6262,7 +6262,7 @@
     {
       "id": 1827,
       "nombre": "Kit de Streaming con Aro de Luz",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011031713564301/0.jpg"
@@ -6270,7 +6270,7 @@
     {
       "id": 3581,
       "nombre": "Kit de streaming con aro de luz LED 26 cm, control remoto, USB, soporte ajustable hasta 2 m (ZB-02)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011021414107677/0.jpg"
@@ -6278,7 +6278,7 @@
     {
       "id": 3579,
       "nombre": "Kit de streaming con aro de luz LED 3 tonos y trípode, brazo para micrófono, bandeja (MP-302)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011031716214745/0.jpg"
@@ -6478,7 +6478,7 @@
     {
       "id": 1972,
       "nombre": "Lanza Papeles Profesional 1000W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001221404272438/0.jpg"
@@ -6486,7 +6486,7 @@
     {
       "id": 3452,
       "nombre": "Linga de seguridad acero 2mm, largo 80cm, carga máxima 30kg (AC535)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001221804433383/0.jpg"
@@ -6494,7 +6494,7 @@
     {
       "id": 3454,
       "nombre": "Linga de seguridad acero 3mm, largo 80cm, carga máxima 30kg (AC537)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2308101542313804/0.jpg"
@@ -6502,7 +6502,7 @@
     {
       "id": 3453,
       "nombre": "Linga de seguridad acero 4mm, largo 80cm, carga hasta 30kg, con mosquetón (AC536)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2308101541147085/0.jpg"
@@ -6510,7 +6510,7 @@
     {
       "id": 3455,
       "nombre": "Linga de seguridad acero 5mm, largo 75cm, carga hasta 50kg, con mosquetón (AC538)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Estructuras / Truss",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2308101536465893/0.jpg"
@@ -6518,7 +6518,7 @@
     {
       "id": 1926,
       "nombre": "Láser Bicolor RG 130mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071703236713/0.jpg"
@@ -6526,7 +6526,7 @@
     {
       "id": 1922,
       "nombre": "Láser Gráfico RGB 10W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071724174027/0.jpg"
@@ -6534,7 +6534,7 @@
     {
       "id": 1910,
       "nombre": "Láser Gráfico RGB 180mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071713202016/0.jpg"
@@ -6542,7 +6542,7 @@
     {
       "id": 1937,
       "nombre": "Láser Gráfico RGB 180mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071714496051/0.jpg"
@@ -6550,7 +6550,7 @@
     {
       "id": 1914,
       "nombre": "Láser Gráfico RGB 1W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071717483094/0.jpg"
@@ -6558,7 +6558,7 @@
     {
       "id": 1923,
       "nombre": "Láser Gráfico RGB 300mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071716225122/0.jpg"
@@ -6566,7 +6566,7 @@
     {
       "id": 1928,
       "nombre": "Láser Gráfico RGB 3W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071720419250/0.jpg"
@@ -6574,7 +6574,7 @@
     {
       "id": 1921,
       "nombre": "Láser Gráfico RGB 5W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071722289582/0.jpg"
@@ -6582,7 +6582,7 @@
     {
       "id": 1913,
       "nombre": "Láser RGB 600mW 3 Bocas",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011630415862/0.jpg"
@@ -6590,7 +6590,7 @@
     {
       "id": 1933,
       "nombre": "Láser RGB 600mW 4 Bocas",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011634379121/0.jpg"
@@ -6598,7 +6598,7 @@
     {
       "id": 1917,
       "nombre": "Láser RGB 600mW 6 Bocas",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011646298422/0.jpg"
@@ -6606,7 +6606,7 @@
     {
       "id": 1925,
       "nombre": "Láser RGB 600mW DMX",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011619392007/0.jpg"
@@ -6614,7 +6614,7 @@
     {
       "id": 1911,
       "nombre": "Láser RGB Animado 1W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011657233550/0.jpg"
@@ -6622,7 +6622,7 @@
     {
       "id": 1912,
       "nombre": "Láser RGB Animado 2W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011700456939/0.jpg"
@@ -6630,7 +6630,7 @@
     {
       "id": 1927,
       "nombre": "Láser RGB Animado 3W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011703288760/0.jpg"
@@ -6638,7 +6638,7 @@
     {
       "id": 1936,
       "nombre": "Láser RGB Animado 500mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011655275507/0.jpg"
@@ -6646,7 +6646,7 @@
     {
       "id": 1918,
       "nombre": "Láser RGB Doble Haz 600mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011623439420/0.jpg"
@@ -6654,7 +6654,7 @@
     {
       "id": 1920,
       "nombre": "Láser RGB de 2W IP65",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011708424674/0.jpg"
@@ -6662,7 +6662,7 @@
     {
       "id": 1932,
       "nombre": "Láser RGB de 3 Bocas 600mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011627271905/0.jpg"
@@ -6670,7 +6670,7 @@
     {
       "id": 1916,
       "nombre": "Láser RGB de 4 Bocas 600mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011637595361/0.jpg"
@@ -6678,7 +6678,7 @@
     {
       "id": 1934,
       "nombre": "Láser RGB de 4 Bocas 600mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011642322425/0.jpg"
@@ -6686,7 +6686,7 @@
     {
       "id": 1919,
       "nombre": "Láser RGB de 4 Salidas",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071711085233/0.jpg"
@@ -6694,7 +6694,7 @@
     {
       "id": 1935,
       "nombre": "Láser RGB de 6 Bocas 600mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011648135931/0.jpg"
@@ -6702,7 +6702,7 @@
     {
       "id": 1930,
       "nombre": "Láser RGB de 600mW 6 Bocas",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011650384035/0.jpg"
@@ -6710,7 +6710,7 @@
     {
       "id": 1931,
       "nombre": "Láser RGB de Efectos 200mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071708499334/0.jpg"
@@ -6718,7 +6718,7 @@
     {
       "id": 1929,
       "nombre": "Láser TTL Blanco 5W IP65",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311011712162896/0.jpg"
@@ -6726,7 +6726,7 @@
     {
       "id": 1915,
       "nombre": "Láser de Escenario Azul 1W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2311071707165680/0.jpg"
@@ -7902,7 +7902,7 @@
     {
       "id": 3552,
       "nombre": "Manguera multipar (snake) 12 canales, conectores XLR macho/hembra, blindado par a par, 5 metros (RS-12CH-5M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011753186059/0.jpg"
@@ -7910,7 +7910,7 @@
     {
       "id": 3553,
       "nombre": "Manguera multipar (snake) 16 canales, conectores XLR macho/hembra, blindado par a par, 5 metros (RS-16CH-5M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011754426031/0.jpg"
@@ -7918,7 +7918,7 @@
     {
       "id": 3554,
       "nombre": "Manguera multipar (snake) 8 canales, conectores XLR macho/hembra, blindado par a par, 5 metros (RS-8CH-5M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011751577922/0.jpg"
@@ -7926,7 +7926,7 @@
     {
       "id": 3483,
       "nombre": "Manguera multipar XLR profesional 12 canales, conectores individualizados, 10m (CD8112-3-10M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181158182845/0.jpg"
@@ -7934,7 +7934,7 @@
     {
       "id": 3484,
       "nombre": "Manguera multipar XLR profesional 12 canales, conectores individualizados, 15m (CD8112-3-15M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181156576973/0.jpg"
@@ -7942,7 +7942,7 @@
     {
       "id": 3485,
       "nombre": "Manguera multipar XLR profesional 12 canales, conectores individualizados, 5m (CD8112-3-5M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181200063266/0.jpg"
@@ -7950,7 +7950,7 @@
     {
       "id": 3486,
       "nombre": "Manguera multipar XLR profesional 16 canales, conectores individualizados, 10m (CD8112-4-10M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181154405826/0.jpg"
@@ -7958,7 +7958,7 @@
     {
       "id": 3487,
       "nombre": "Manguera multipar XLR profesional 16 canales, conectores individualizados, 15m (CD8112-4-15M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181150398834/0.jpg"
@@ -7966,7 +7966,7 @@
     {
       "id": 3488,
       "nombre": "Manguera multipar XLR profesional 16 canales, conectores individualizados, 5m (CD8112-4-5M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181155486956/0.jpg"
@@ -7974,7 +7974,7 @@
     {
       "id": 3477,
       "nombre": "Manguera multipar XLR profesional 4 canales, conectores individualizados, 10m (CD8112-1-10M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181212543590/0.jpg"
@@ -7982,7 +7982,7 @@
     {
       "id": 3478,
       "nombre": "Manguera multipar XLR profesional 4 canales, conectores individualizados, 15m (CD8112-1-15M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181210489836/0.jpg"
@@ -7990,7 +7990,7 @@
     {
       "id": 3479,
       "nombre": "Manguera multipar XLR profesional 4 canales, conectores individualizados, 5m (CD8112-1-5M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181216361595/0.jpg"
@@ -7998,7 +7998,7 @@
     {
       "id": 3463,
       "nombre": "Manguera multipar XLR profesional 45m, 24 salidas XLR hembra, 8 retornos XLR macho (BS01RB-2408X-45M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201604368478/0.jpg"
@@ -8006,7 +8006,7 @@
     {
       "id": 3480,
       "nombre": "Manguera multipar XLR profesional 8 canales, conectores individualizados, 10m (CD8112-2-10M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181203292402/0.jpg"
@@ -8014,7 +8014,7 @@
     {
       "id": 3481,
       "nombre": "Manguera multipar XLR profesional 8 canales, conectores individualizados, 15m (CD8112-2-15M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181201389691/0.jpg"
@@ -8022,7 +8022,7 @@
     {
       "id": 3482,
       "nombre": "Manguera multipar XLR profesional 8 canales, conectores individualizados, 5m (CD8112-2-5M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181208381915/0.jpg"
@@ -8030,7 +8030,7 @@
     {
       "id": 3490,
       "nombre": "Manguera stagebox 12 canales XLR, 8 entradas + 4 salidas, cable multipar blindado, 15m (CD8159-A-15M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181249381388/0.jpg"
@@ -8038,7 +8038,7 @@
     {
       "id": 3489,
       "nombre": "Manguera stagebox 12 canales XLR, 8 entradas + 4 salidas, caja metálica, 10m (CD8159-A-10M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181251254449/0.jpg"
@@ -8046,7 +8046,7 @@
     {
       "id": 3492,
       "nombre": "Manguera stagebox 16 canales XLR, 12 entradas + 4 salidas, cable multipar blindado, 15m (CD8159-B-15M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181246197811/0.jpg"
@@ -8054,7 +8054,7 @@
     {
       "id": 3493,
       "nombre": "Manguera stagebox 16 canales XLR, 12 entradas + 4 salidas, cable multipar blindado, 30m (CD8159-B-30M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181238052950/0.jpg"
@@ -8062,7 +8062,7 @@
     {
       "id": 3491,
       "nombre": "Manguera stagebox 16 canales XLR, 12 entradas + 4 salidas, caja metálica, 10m (CD8159-B-10M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181248097640/0.jpg"
@@ -8070,7 +8070,7 @@
     {
       "id": 3494,
       "nombre": "Manguera stagebox 20 canales XLR, 16 entradas + 4 salidas, cable multipar blindado, 30m (CD8159-C-30M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181235377604/0.jpg"
@@ -8078,7 +8078,7 @@
     {
       "id": 3495,
       "nombre": "Manguera stagebox 20 canales XLR, 16 entradas + 4 salidas, cable multipar blindado, 45m (CD8159-C-45M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181233454600/0.jpg"
@@ -8086,7 +8086,7 @@
     {
       "id": 3496,
       "nombre": "Manguera stagebox 24 canales XLR, 16 entradas + 8 salidas, cable multipar blindado, 30m (CD8162-C-30M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181231358701/0.jpg"
@@ -8094,7 +8094,7 @@
     {
       "id": 3497,
       "nombre": "Manguera stagebox 24 canales XLR, 16 entradas + 8 salidas, cable multipar blindado, 45m (CD8162-C-45M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181228474861/0.jpg"
@@ -8102,7 +8102,7 @@
     {
       "id": 3498,
       "nombre": "Manguera stagebox 32 canales XLR, 24 entradas + 8 salidas, cable multipar blindado, 30m (CD8162-E-30M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181224366926/0.jpg"
@@ -8110,7 +8110,7 @@
     {
       "id": 3499,
       "nombre": "Manguera stagebox 32 canales XLR, 24 entradas + 8 salidas, cable multipar blindado, 45m (CD8162-E-45M)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181219255404/0.jpg"
@@ -8118,7 +8118,7 @@
     {
       "id": 3637,
       "nombre": "Maquina Haze (B-600)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2408161735563232/0.jpg"
@@ -8126,7 +8126,7 @@
     {
       "id": 1977,
       "nombre": "Micrófono Condensador Shotgun",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301729151725/0.jpg"
@@ -8134,7 +8134,7 @@
     {
       "id": 1983,
       "nombre": "Micrófono Condensador Shotgun",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301733385803/0.jpg"
@@ -8142,7 +8142,7 @@
     {
       "id": 1987,
       "nombre": "Micrófono Condensador Shotgun",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301732351834/0.jpg"
@@ -8150,7 +8150,7 @@
     {
       "id": 2016,
       "nombre": "Micrófono Earset Oreja Condenser",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754517313/0.jpg"
@@ -8158,7 +8158,7 @@
     {
       "id": 2017,
       "nombre": "Micrófono Earset Oreja Condenser",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754499304/0.jpg"
@@ -8166,7 +8166,7 @@
     {
       "id": 2064,
       "nombre": "Micrófono Earset Oreja Condenser",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071330028576/0.jpg"
@@ -8174,7 +8174,7 @@
     {
       "id": 2065,
       "nombre": "Micrófono Earset Oreja Condenser",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754512267/0.jpg"
@@ -8182,7 +8182,7 @@
     {
       "id": 2066,
       "nombre": "Micrófono Earset Oreja Condenser",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754502578/0.jpg"
@@ -8190,7 +8190,7 @@
     {
       "id": 1989,
       "nombre": "Micrófono Lavalier con Conector TRS",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301739198999/0.jpg"
@@ -8198,7 +8198,7 @@
     {
       "id": 1988,
       "nombre": "Micrófono Lavalier con Monitoreo",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301746087415/0.jpg"
@@ -8206,7 +8206,7 @@
     {
       "id": 1982,
       "nombre": "Micrófono Lavalier para Celulares",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301741089885/0.jpg"
@@ -8214,7 +8214,7 @@
     {
       "id": 1991,
       "nombre": "Micrófono Lavalier para Celulares",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301742549940/0.jpg"
@@ -8222,7 +8222,7 @@
     {
       "id": 1981,
       "nombre": "Micrófono Shotgun Condensador Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071329545560/0.jpg"
@@ -8230,7 +8230,7 @@
     {
       "id": 3588,
       "nombre": "Micrófono condensador shotgun cardioide para cámara DSLR, 35 Hz-18 kHz, shock mount y paraviento (CM-90B)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2010011106376921/0.jpg"
@@ -8238,7 +8238,7 @@
     {
       "id": 3587,
       "nombre": "Micrófono condensador shotgun omnidireccional para cámara DSLR, 35 Hz-18 kHz, shock mount y paraviento (CM-90A)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2010011105227533/0.jpg"
@@ -8246,7 +8246,7 @@
     {
       "id": 3628,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, AKG (Mini XLR 3 pines) (Z1710c)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205451522/0.jpg"
@@ -8254,7 +8254,7 @@
     {
       "id": 3624,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Audio-Technica (Hirose 4 pines) (Z-1710T)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754474074/0.jpg"
@@ -8262,7 +8262,7 @@
     {
       "id": 3631,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Mini Plug Mono (Z1710z)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205461433/0.jpg"
@@ -8270,7 +8270,7 @@
     {
       "id": 3629,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Mipro (Mini XLR 4 pines rosca hembra) (Z1710m)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205461492/0.jpg"
@@ -8278,7 +8278,7 @@
     {
       "id": 3626,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, SKP (Mini Plug rosca macho) (Z1710a)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205451581/0.jpg"
@@ -8286,7 +8286,7 @@
     {
       "id": 3627,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Sennheiser (Mini Plug rosca hembra) (Z1710b)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205451551/0.jpg"
@@ -8294,7 +8294,7 @@
     {
       "id": 3630,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Shure (Mini XLR 4 pines) (Z1710s)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205461462/0.jpg"
@@ -8302,7 +8302,7 @@
     {
       "id": 3625,
       "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Venetian (Mini XLR 3 pines) (Z-1710V)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754468562/0.jpg"
@@ -8310,7 +8310,7 @@
     {
       "id": 2004,
       "nombre": "Micrófono de Cápsula Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205293067/0.jpg"
@@ -8318,7 +8318,7 @@
     {
       "id": 2005,
       "nombre": "Micrófono de Cápsula Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205303007/0.jpg"
@@ -8326,7 +8326,7 @@
     {
       "id": 2033,
       "nombre": "Micrófono de Cápsula Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205293097/0.jpg"
@@ -8334,7 +8334,7 @@
     {
       "id": 2034,
       "nombre": "Micrófono de Cápsula Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205302978/0.jpg"
@@ -8342,7 +8342,7 @@
     {
       "id": 2040,
       "nombre": "Micrófono de Cápsula Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205283126/0.jpg"
@@ -8350,7 +8350,7 @@
     {
       "id": 2050,
       "nombre": "Micrófono de Cápsula Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205293037/0.jpg"
@@ -8358,7 +8358,7 @@
     {
       "id": 2007,
       "nombre": "Micrófono de Mano Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205243513/0.jpg"
@@ -8366,7 +8366,7 @@
     {
       "id": 2023,
       "nombre": "Micrófono de Mano Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205243542/0.jpg"
@@ -8374,7 +8374,7 @@
     {
       "id": 3636,
       "nombre": "Micrófono de conferencia extendible, amplía el alcance de captación, colocación flexible para varios interlocutores (MT-7-V3)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": null
@@ -8382,7 +8382,7 @@
     {
       "id": 3582,
       "nombre": "Micrófono lavalier USB con base, cápsula cardioide condenser, sin drivers necesarios (901-USB)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2102251702027033/0.jpg"
@@ -8390,7 +8390,7 @@
     {
       "id": 3616,
       "nombre": "Micrófono lavalier con conector Lightning, para dispositivos Apple, construcción en aluminio (SL-101AP)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301742235138/0.jpg"
@@ -8398,7 +8398,7 @@
     {
       "id": 3598,
       "nombre": "Micrófono lavalier condenser electret omnidireccional, cable 6 m TRRS 3,5mm, batería LR44 (IS-D1)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2012031734588676/0.jpg"
@@ -8406,7 +8406,7 @@
     {
       "id": 3618,
       "nombre": "Micrófono lavalier condenser omnidireccional, respuesta 65Hz-18kHz, para celulares, tablets y cámaras (SL-101Z3)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205382205/0.jpg"
@@ -8414,7 +8414,7 @@
     {
       "id": 3592,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico (DL-B01D\n(new lapel))",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205263394/0.jpg"
@@ -8422,7 +8422,7 @@
     {
       "id": 3591,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector AKG mini XLR 3 pines (DL-B01C\n(new lapel))",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205253423/0.jpg"
@@ -8430,7 +8430,7 @@
     {
       "id": 3594,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector AKG mini XLR 3 pines (DL-B02C)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754556927/0.jpg"
@@ -8438,7 +8438,7 @@
     {
       "id": 3596,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Audio-Technica Hirose 4 pines (DL-B02T)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754576628/0.jpg"
@@ -8446,7 +8446,7 @@
     {
       "id": 3589,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector SKP mini plug rosca (DL-B01A\n(new lapel))",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205253483/0.jpg"
@@ -8454,7 +8454,7 @@
     {
       "id": 3590,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Sennheiser (DL-B01B\n(new lapel))",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205253453/0.jpg"
@@ -8462,7 +8462,7 @@
     {
       "id": 3593,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Sennheiser (Dl-b02b)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261353242732/0.jpg"
@@ -8470,7 +8470,7 @@
     {
       "id": 3595,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Shure mini XLR 4 pines (DL-B02S)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754565946/0.jpg"
@@ -8478,7 +8478,7 @@
     {
       "id": 3597,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Venetian mini XLR 3 pines (DL-B02V)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754559144/0.jpg"
@@ -8486,7 +8486,7 @@
     {
       "id": 3621,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, Audio-Technica (Hirose 4 pines) (Sl-201t)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071329584418/0.jpg"
@@ -8494,7 +8494,7 @@
     {
       "id": 3620,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, Mipro (Mini XLR 4 pines rosca hembra) (Sl-201m)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261422461850/0.jpg"
@@ -8502,7 +8502,7 @@
     {
       "id": 3599,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, SKP (Mini Plug rosca macho) (plastic band lapel       SL-201A)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205382175/0.jpg"
@@ -8510,7 +8510,7 @@
     {
       "id": 3619,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, Sennheiser (Mini Plug rosca hembra) (Sl-201b)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261421573787/0.jpg"
@@ -8518,7 +8518,7 @@
     {
       "id": 3601,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, cable reforzado, AKG (Mini XLR 3 pines) (plastic band lapel      SL-201C)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205392146/0.jpg"
@@ -8526,7 +8526,7 @@
     {
       "id": 3622,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, cable reforzado, Mini Plug Mono (Sl-201z)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261422186281/0.jpg"
@@ -8534,7 +8534,7 @@
     {
       "id": 3600,
       "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, cable reforzado, Shure (Mini XLR 4 pines) (plastic band lapel       SL-201S)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205392116/0.jpg"
@@ -8542,7 +8542,7 @@
     {
       "id": 3603,
       "nombre": "Micrófono lavalier corbatero inalámbrico condenser omnidireccional, diseño discreto, AKG (Mini XLR 3 pines) (Q1-C)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754585071/0.jpg"
@@ -8550,7 +8550,7 @@
     {
       "id": 3604,
       "nombre": "Micrófono lavalier corbatero inalámbrico condenser omnidireccional, diseño discreto, Shure (Mini XLR 4 pines) (Q1-S)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754593699/0.jpg"
@@ -8558,7 +8558,7 @@
     {
       "id": 3605,
       "nombre": "Micrófono lavalier corbatero inalámbrico condenser omnidireccional, diseño discreto, Venetian (Mini XLR 3 pines) (Q1-V)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754588962/0.jpg"
@@ -8566,7 +8566,7 @@
     {
       "id": 3602,
       "nombre": "Micrófono lavalier corbatero inalámbrico condenser, diseño discreto, Sennheiser (Mini Plug rosca hembra) (Q1-B)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754576445/0.jpg"
@@ -8574,7 +8574,7 @@
     {
       "id": 3635,
       "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, Audio-Technica (Hirose 4 pines) (ZL-1720T)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754524699/0.jpg"
@@ -8582,7 +8582,7 @@
     {
       "id": 3632,
       "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, Sennheiser (Mini Plug rosca hembra) (Zl-1720b)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261347255489/0.jpg"
@@ -8590,7 +8590,7 @@
     {
       "id": 3633,
       "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, cable reforzado, AKG (Mini XLR 3 pines) (ZL-1720C)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754531516/0.jpg"
@@ -8598,7 +8598,7 @@
     {
       "id": 3634,
       "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, cable reforzado, Shure (Mini XLR 4 pines) (ZL-1720S)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754544473/0.jpg"
@@ -8606,7 +8606,7 @@
     {
       "id": 3623,
       "nombre": "Micrófono lavalier corbatero, conector Mini Plug 3,5mm, diseño compacto y discreto (Sl-404)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205392086/0.jpg"
@@ -8614,7 +8614,7 @@
     {
       "id": 3617,
       "nombre": "Micrófono lavalier omnidireccional 360°, filtros de ruido de roce y bajas frecuencias, presentaciones y entrevistas (SL-101TC)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011301741428590/0.jpg"
@@ -8622,7 +8622,7 @@
     {
       "id": 3584,
       "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector AKG mini XLR 3 pines (ALPHA V3-C)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251755005321/0.jpg"
@@ -8630,7 +8630,7 @@
     {
       "id": 3583,
       "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector Sennheiser (ALPHA V3-B)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251755001149/0.jpg"
@@ -8638,7 +8638,7 @@
     {
       "id": 3585,
       "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector Shure mini XLR 4 pines (ALPHA V3-S)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251755025684/0.jpg"
@@ -8646,7 +8646,7 @@
     {
       "id": 3586,
       "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector Venetian mini XLR 3 pines (ALPHA V3-V)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251755017199/0.jpg"
@@ -8654,7 +8654,7 @@
     {
       "id": 3609,
       "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, Mipro (Mini XLR 4 pines rosca hembra) (QF-12m)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205332651/0.jpg"
@@ -8662,7 +8662,7 @@
     {
       "id": 3607,
       "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, Sennheiser (Mini Plug rosca hembra) (QF-12b)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205332710/0.jpg"
@@ -8670,7 +8670,7 @@
     {
       "id": 3608,
       "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, AKG (Mini XLR 3 pines) (QF-12c)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205332681/0.jpg"
@@ -8678,7 +8678,7 @@
     {
       "id": 3611,
       "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, Mini Plug Mono (QF-12z)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205342591/0.jpg"
@@ -8686,7 +8686,7 @@
     {
       "id": 3606,
       "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, SKP (Mini Plug rosca macho) (QF-12a)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205332740/0.jpg"
@@ -8694,7 +8694,7 @@
     {
       "id": 3610,
       "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, Shure (Mini XLR 4 pines) (QF-12s)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205342621/0.jpg"
@@ -8702,7 +8702,7 @@
     {
       "id": 3577,
       "nombre": "Micrófono vincha condenser omnidireccional, teatro, broadcast y presentaciones en vivo, compatible AKG mini XLR 3 pines (plastic band head mic    S-301C)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205352502/0.jpg"
@@ -8710,7 +8710,7 @@
     {
       "id": 3576,
       "nombre": "Micrófono vincha condenser omnidireccional, teatro, broadcast y presentaciones en vivo, compatible SKP mini plug rosca (plastic band head mic     S-301A)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205342562/0.jpg"
@@ -8718,7 +8718,7 @@
     {
       "id": 3578,
       "nombre": "Micrófono vincha condenser omnidireccional, teatro, broadcast y presentaciones en vivo, compatible Shure mini XLR 4 pines (plastic band head mic    S-301S)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205352473/0.jpg"
@@ -8726,7 +8726,7 @@
     {
       "id": 3614,
       "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Audio-Technica (Hirose 4 pines) (S-301t)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205362443/0.jpg"
@@ -8734,7 +8734,7 @@
     {
       "id": 3615,
       "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Mini Plug Mono (S-301z)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261416181443/0.jpg"
@@ -8742,7 +8742,7 @@
     {
       "id": 3613,
       "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Mipro (Mini XLR 4 pines rosca hembra) (S-301m)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912261416462439/0.jpg"
@@ -8750,7 +8750,7 @@
     {
       "id": 3612,
       "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Venetian y Apogee (Mini XLR 3 pines) (S-301cc)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2511281721053927/0.jpg"
@@ -8766,7 +8766,7 @@
     {
       "id": 2081,
       "nombre": "Morsa Clamp de Aluminio Liviano",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754381096/0.jpg"
@@ -8774,7 +8774,7 @@
     {
       "id": 2078,
       "nombre": "Morsa Clamp para Truss 25kg",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754383937/0.jpg"
@@ -8782,7 +8782,7 @@
     {
       "id": 2082,
       "nombre": "Morsa Clamp para Truss de Aluminio",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251754391222/0.jpg"
@@ -8790,7 +8790,7 @@
     {
       "id": 2079,
       "nombre": "Morsa de Aluminio para Efectos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141156419381/0.jpg"
@@ -8798,7 +8798,7 @@
     {
       "id": 2084,
       "nombre": "Morsa de Aluminio para Iluminación",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141158406962/0.jpg"
@@ -8806,7 +8806,7 @@
     {
       "id": 2086,
       "nombre": "Morsa de Aluminio para Iluminación",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141155528423/0.jpg"
@@ -8814,7 +8814,7 @@
     {
       "id": 1973,
       "nombre": "Máquina Lanza Confetti",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071807473356/0.jpg"
@@ -8822,7 +8822,7 @@
     {
       "id": 1974,
       "nombre": "Máquina Lanza Serpentinas Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131116448094/0.jpg"
@@ -8830,7 +8830,7 @@
     {
       "id": 1938,
       "nombre": "Máquina de Burbujas Compacta",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203171125595585/0.jpg"
@@ -8838,7 +8838,7 @@
     {
       "id": 1939,
       "nombre": "Máquina de Burbujas con Control Inalámbrico",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071807347616/0.jpg"
@@ -8846,7 +8846,7 @@
     {
       "id": 1940,
       "nombre": "Máquina de Espuma Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131117399018/0.jpg"
@@ -8854,7 +8854,7 @@
     {
       "id": 1961,
       "nombre": "Máquina de Humo 1000W con LED RGB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2408161717398739/0.jpg"
@@ -8862,7 +8862,7 @@
     {
       "id": 1955,
       "nombre": "Máquina de Humo 1200W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203171123317029/0.jpg"
@@ -8870,7 +8870,7 @@
     {
       "id": 1956,
       "nombre": "Máquina de Humo 1500W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203171124377134/0.jpg"
@@ -8878,7 +8878,7 @@
     {
       "id": 1952,
       "nombre": "Máquina de Humo 1500W con LED",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2408161721337439/0.jpg"
@@ -8886,7 +8886,7 @@
     {
       "id": 1941,
       "nombre": "Máquina de Humo 3000W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2408161716309057/0.jpg"
@@ -8894,7 +8894,7 @@
     {
       "id": 1945,
       "nombre": "Máquina de Humo 400W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203171059212965/0.jpg"
@@ -8902,7 +8902,7 @@
     {
       "id": 1953,
       "nombre": "Máquina de Humo 400W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071807393628/0.jpg"
@@ -8910,7 +8910,7 @@
     {
       "id": 1942,
       "nombre": "Máquina de Humo 400W Inalámbrica",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2007301620216451/0.jpg"
@@ -8918,7 +8918,7 @@
     {
       "id": 1947,
       "nombre": "Máquina de Humo 400W con LED RGB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2408161720184501/0.jpg"
@@ -8926,7 +8926,7 @@
     {
       "id": 1954,
       "nombre": "Máquina de Humo 600W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071807399368/0.jpg"
@@ -8934,7 +8934,7 @@
     {
       "id": 1957,
       "nombre": "Máquina de Humo 600W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203171101526890/0.jpg"
@@ -8942,7 +8942,7 @@
     {
       "id": 1949,
       "nombre": "Máquina de Humo 600W con Control Remoto",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2007301621185408/0.jpg"
@@ -8950,7 +8950,7 @@
     {
       "id": 1943,
       "nombre": "Máquina de Humo 800W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071807399339/0.jpg"
@@ -8958,7 +8958,7 @@
     {
       "id": 1946,
       "nombre": "Máquina de Humo 800W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203171119094819/0.jpg"
@@ -8966,7 +8966,7 @@
     {
       "id": 1950,
       "nombre": "Máquina de Humo 800W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2007301621499828/0.jpg"
@@ -8974,7 +8974,7 @@
     {
       "id": 1944,
       "nombre": "Máquina de Humo 900W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2009301339462485/0.jpg"
@@ -8982,7 +8982,7 @@
     {
       "id": 1951,
       "nombre": "Máquina de Humo 900W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2008251520208901/0.jpg"
@@ -8990,7 +8990,7 @@
     {
       "id": 1958,
       "nombre": "Máquina de Humo 900W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203171121059906/0.jpg"
@@ -8998,7 +8998,7 @@
     {
       "id": 1963,
       "nombre": "Máquina de Humo Bajo Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131103514115/0.jpg"
@@ -9006,7 +9006,7 @@
     {
       "id": 1962,
       "nombre": "Máquina de Humo Bajo con Hielo Seco",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2408161733592534/0.jpg"
@@ -9014,7 +9014,7 @@
     {
       "id": 1967,
       "nombre": "Máquina de Humo Haze 600W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2210141131004822/0.jpg"
@@ -9022,7 +9022,7 @@
     {
       "id": 1948,
       "nombre": "Máquina de Humo Profesional 3000W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131441554064/0.jpg"
@@ -9030,7 +9030,7 @@
     {
       "id": 1960,
       "nombre": "Máquina de Humo Profesional 3000W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131439542375/0.jpg"
@@ -9038,7 +9038,7 @@
     {
       "id": 1959,
       "nombre": "Máquina de Humo Vertical 1500W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131435391662/0.jpg"
@@ -9046,7 +9046,7 @@
     {
       "id": 1964,
       "nombre": "Máquina de Niebla 1000W DMX",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131019178828/0.jpg"
@@ -9054,7 +9054,7 @@
     {
       "id": 1965,
       "nombre": "Máquina de Niebla 400W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040309674/0.jpg"
@@ -9062,7 +9062,7 @@
     {
       "id": 1968,
       "nombre": "Máquina de Niebla Profesional Hazer",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131446415854/0.jpg"
@@ -9070,7 +9070,7 @@
     {
       "id": 1966,
       "nombre": "Máquina de Niebla Tipo Fazer 2000W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131100546125/0.jpg"
@@ -9078,7 +9078,7 @@
     {
       "id": 1969,
       "nombre": "Máquina de Nieve 1500W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131113141111/0.jpg"
@@ -9086,7 +9086,7 @@
     {
       "id": 1970,
       "nombre": "Máquina de Nieve 600W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602131112102570/0.jpg"
@@ -9094,7 +9094,7 @@
     {
       "id": 1812,
       "nombre": "Nodo ArtNet a DMX con RDM",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602251755234063/0.jpg"
@@ -9894,7 +9894,7 @@
     {
       "id": 2101,
       "nombre": "Par LED 5 en 1 RGBWA",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402151712416824/0.jpg"
@@ -9902,7 +9902,7 @@
     {
       "id": 2103,
       "nombre": "Par LED RGB 180W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402151718166238/0.jpg"
@@ -9910,7 +9910,7 @@
     {
       "id": 2099,
       "nombre": "Par LED RGB 60 Leds 90W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402151720504236/0.jpg"
@@ -9918,7 +9918,7 @@
     {
       "id": 2093,
       "nombre": "Par LED RGB 60W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2410241145388996/0.jpg"
@@ -9926,7 +9926,7 @@
     {
       "id": 2092,
       "nombre": "Par LED RGBW 120W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2410241146138086/0.jpg"
@@ -9934,7 +9934,7 @@
     {
       "id": 1742,
       "nombre": "Paraviento para Micrófono Cuello de Ganso",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331462476/0.jpg"
@@ -9942,7 +9942,7 @@
     {
       "id": 1741,
       "nombre": "Paraviento para Micrófono Shotgun",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331456825/0.jpg"
@@ -9950,7 +9950,7 @@
     {
       "id": 1745,
       "nombre": "Paraviento para Micrófono Shotgun",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331462506/0.jpg"
@@ -10590,7 +10590,7 @@
     {
       "id": 2108,
       "nombre": "Parlante de Techo 5\" Línea 100V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles de Instalación",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111534295087/0.jpg"
@@ -10598,7 +10598,7 @@
     {
       "id": 2107,
       "nombre": "Parlante de Techo 6.5\" Línea 100V",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles de Instalación",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111535267537/0.jpg"
@@ -10606,7 +10606,7 @@
     {
       "id": 2122,
       "nombre": "Pie de Micrófono Jirafa Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331349562/0.jpg"
@@ -10614,7 +10614,7 @@
     {
       "id": 2124,
       "nombre": "Pie de Micrófono de Mesa",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001281331102551/0.jpg"
@@ -10622,7 +10622,7 @@
     {
       "id": 2127,
       "nombre": "Pie de Micrófono de Mesa",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111253156908/0.jpg"
@@ -10630,7 +10630,7 @@
     {
       "id": 2126,
       "nombre": "Pie de Micrófono de Mesa Recto",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1912051715232071/0.jpg"
@@ -10638,7 +10638,7 @@
     {
       "id": 2123,
       "nombre": "Pie de Micrófono para Mesa",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001281333239863/0.jpg"
@@ -10646,7 +10646,7 @@
     {
       "id": 3580,
       "nombre": "Pie de micrófono para grabación (RP-7)",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": null
@@ -10654,7 +10654,7 @@
     {
       "id": 2110,
       "nombre": "Pipeta de Micrófono de Mano",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111248423467/0.jpg"
@@ -10662,7 +10662,7 @@
     {
       "id": 2119,
       "nombre": "Pipeta para Micrófono de Mano",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111248384078/0.jpg"
@@ -10670,7 +10670,7 @@
     {
       "id": 1924,
       "nombre": "Proyector Láser RGB 500mW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Láser",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201152022721/0.jpg"
@@ -11174,7 +11174,7 @@
     {
       "id": 2010,
       "nombre": "Sistema Inalámbrico Doble de Mano",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121648189194/0.jpg"
@@ -11182,7 +11182,7 @@
     {
       "id": 2032,
       "nombre": "Sistema Inalámbrico Doble de Vincha",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121648189224/0.jpg"
@@ -11190,7 +11190,7 @@
     {
       "id": 2057,
       "nombre": "Sistema Inalámbrico Doble de Vincha",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2102251706555246/0.jpg"
@@ -11198,7 +11198,7 @@
     {
       "id": 2025,
       "nombre": "Sistema Inalámbrico Doble para Instrumentos",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2102251633079471/0.jpg"
@@ -11206,7 +11206,7 @@
     {
       "id": 1995,
       "nombre": "Sistema Inalámbrico UHF Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2203141054529921/0.jpg"
@@ -11214,7 +11214,7 @@
     {
       "id": 2011,
       "nombre": "Sistema Inalámbrico UHF Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205411908/0.jpg"
@@ -11222,7 +11222,7 @@
     {
       "id": 2012,
       "nombre": "Sistema Inalámbrico UHF Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205431730/0.jpg"
@@ -11230,7 +11230,7 @@
     {
       "id": 2059,
       "nombre": "Sistema Inalámbrico UHF Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205431700/0.jpg"
@@ -11238,7 +11238,7 @@
     {
       "id": 2062,
       "nombre": "Sistema Inalámbrico UHF Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121648191391/0.jpg"
@@ -11246,7 +11246,7 @@
     {
       "id": 2022,
       "nombre": "Sistema Inalámbrico de Micrófonos de Cuello",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2102251644335732/0.jpg"
@@ -11254,7 +11254,7 @@
     {
       "id": 1751,
       "nombre": "Sistema Line Array 2.1 Portátil",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2202221138043492/0.jpg"
@@ -11262,7 +11262,7 @@
     {
       "id": 1750,
       "nombre": "Sistema Line Array Activo 800W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121248576188/0.jpg"
@@ -11270,7 +11270,7 @@
     {
       "id": 1760,
       "nombre": "Sistema Mini Line Array 2.1",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2202221133582329/0.jpg"
@@ -11278,7 +11278,7 @@
     {
       "id": 1755,
       "nombre": "Sistema Mini Line Array Portátil",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309061631434580/0.jpg"
@@ -11286,7 +11286,7 @@
     {
       "id": 1756,
       "nombre": "Sistema Mini Line Array Portátil",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309061634305800/0.jpg"
@@ -11294,7 +11294,7 @@
     {
       "id": 2069,
       "nombre": "Sistema de Conferencia Inalámbrico UHF",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071330019420/0.jpg"
@@ -11302,7 +11302,7 @@
     {
       "id": 2029,
       "nombre": "Sistema de Micrófono Conferencia UHF",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071329595585/0.jpg"
@@ -11310,7 +11310,7 @@
     {
       "id": 1975,
       "nombre": "Sistema de Micrófono de Conferencia",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Microfonos Alámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071330006497/0.jpg"
@@ -11318,7 +11318,7 @@
     {
       "id": 1747,
       "nombre": "Sistema de Monitoreo Intraural Inalámbrico",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911121648189448/0.jpg"
@@ -11326,7 +11326,7 @@
     {
       "id": 2111,
       "nombre": "Soporte Antivibración para Micrófono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331319889/0.jpg"
@@ -11334,7 +11334,7 @@
     {
       "id": 2121,
       "nombre": "Soporte Antivibración para Micrófono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331319860/0.jpg"
@@ -11342,7 +11342,7 @@
     {
       "id": 2116,
       "nombre": "Soporte Jirafa con Aro de Luz",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011021413388615/0.jpg"
@@ -11350,7 +11350,7 @@
     {
       "id": 2125,
       "nombre": "Soporte de Micrófono con Cable",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331413953/0.jpg"
@@ -11358,7 +11358,7 @@
     {
       "id": 2113,
       "nombre": "Soporte de Micrófono de Piso",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331356274/0.jpg"
@@ -11366,7 +11366,7 @@
     {
       "id": 2114,
       "nombre": "Soporte de Suspensión para Micrófono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331319830/0.jpg"
@@ -11374,7 +11374,7 @@
     {
       "id": 2120,
       "nombre": "Soporte de Suspensión para Micrófono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331319919/0.jpg"
@@ -11382,7 +11382,7 @@
     {
       "id": 2128,
       "nombre": "Soporte para Aro de Luz LED",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011031720249753/0.jpg"
@@ -11390,7 +11390,7 @@
     {
       "id": 2109,
       "nombre": "Soporte para Micrófono con Clamp",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2010201513578431/0.jpg"
@@ -11398,7 +11398,7 @@
     {
       "id": 2117,
       "nombre": "Soporte para Smartphones en Pie",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011031726437007/0.jpg"
@@ -11406,7 +11406,7 @@
     {
       "id": 2112,
       "nombre": "Soporte para Smartphones en Pie de Micrófono",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011031725453318/0.jpg"
@@ -11414,7 +11414,7 @@
     {
       "id": 2115,
       "nombre": "Soporte para Teléfono y Tablet",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911081331326571/0.jpg"
@@ -11422,7 +11422,7 @@
     {
       "id": 2129,
       "nombre": "Splitter DMX 1 Entrada 8 Salidas",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181641337058/0.jpg"
@@ -11430,7 +11430,7 @@
     {
       "id": 2130,
       "nombre": "Splitter DMX 6 Salidas Aislado",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181646318486/0.jpg"
@@ -11438,7 +11438,7 @@
     {
       "id": 1759,
       "nombre": "Subwoofer Activo 2x18\"",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011737252938/0.jpg"
@@ -11446,7 +11446,7 @@
     {
       "id": 1753,
       "nombre": "Subwoofer Activo Profesional 18\"",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Bafles Activos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111531294591/0.jpg"
@@ -12166,7 +12166,7 @@
     {
       "id": 2089,
       "nombre": "Tacho LED Par RGB 6x1.5W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911201232412533/0.jpg"
@@ -12174,7 +12174,7 @@
     {
       "id": 2104,
       "nombre": "Tacho Par LED Flat RGBW",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2002031420552003/0.jpg"
@@ -12182,7 +12182,7 @@
     {
       "id": 2088,
       "nombre": "Tacho Par LED RGB 180W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2002031415095358/0.jpg"
@@ -12190,7 +12190,7 @@
     {
       "id": 2098,
       "nombre": "Tacho Par LED RGB 90W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2002031417402389/0.jpg"
@@ -12198,7 +12198,7 @@
     {
       "id": 2105,
       "nombre": "Tacho Par LED RGBW 54x4W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2411111549065238/0.jpg"
@@ -12206,7 +12206,7 @@
     {
       "id": 2097,
       "nombre": "Tacho Par LED RGBW de Alta Potencia",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2002031329284711/0.jpg"
@@ -12214,7 +12214,7 @@
     {
       "id": 2090,
       "nombre": "Tacho Par LED RGBWA UV 200W",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2402151742125480/0.jpg"
@@ -12222,7 +12222,7 @@
     {
       "id": 2087,
       "nombre": "Tacho Par LED Wash RGB",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Iluminación > Spots LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2002031342109402/0.jpg"
@@ -12230,7 +12230,7 @@
     {
       "id": 2132,
       "nombre": "Tester Multifunción de Cables",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111544285199/0.jpg"
@@ -12238,7 +12238,7 @@
     {
       "id": 2131,
       "nombre": "Tester de Cables Multiconector",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111541394165/0.jpg"
@@ -12246,7 +12246,7 @@
     {
       "id": 2134,
       "nombre": "Tester de Cables Multifunción",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111543185137/0.jpg"
@@ -12254,7 +12254,7 @@
     {
       "id": 2133,
       "nombre": "Tester de Cables Profesional",
-      "marca": null,
+      "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2112161727524752/0.jpg"
