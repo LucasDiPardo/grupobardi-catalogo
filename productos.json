@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-09T11:55:40.777Z",
+  "generado": "2026-09-19T01:28:48.848Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -244,6 +244,30 @@
       "imagen": "https://venetian.com.ar/images/products/1911121343302475/0.jpg"
     },
     {
+      "id": 3572,
+      "nombre": "Adaptador plug 1/4\" para interconectar pedales, resistencia de contacto <10mΩ, aislamiento >1000MΩ (LC3111-1)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911081331278803/0.jpg"
+    },
+    {
+      "id": 3573,
+      "nombre": "Adaptador plug 1/4\" para unir pedales en pedalera, resistencia de contacto mínima, alta resistencia de aislamiento (LC3111-2)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111158132100/0.jpg"
+    },
+    {
+      "id": 3571,
+      "nombre": "Adaptador plug macho mono 6.35mm (1/4\") a RCA hembra (LB2028)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2306141720502767/0.jpg"
+    },
+    {
       "id": 1740,
       "nombre": "Amplificador Compacto 70/100V con USB/BT",
       "marca": null,
@@ -410,6 +434,22 @@
       "categoria": "Sonido > Potencias",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2309011732307493/0.jpg"
+    },
+    {
+      "id": 3638,
+      "nombre": "Aro de luz LED 16cm, 3 tonalidades 2200-12000K, hasta 780 lúmenes, alimentación USB (L01)",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2010011206093232/0.jpg"
+    },
+    {
+      "id": 3639,
+      "nombre": "Aro de luz LED 26cm, 3 tonalidades 2200-12000K, alimentación USB, agarre para soporte (L03)",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2010011204436563/0.jpg"
     },
     {
       "id": 2715,
@@ -3172,6 +3212,38 @@
       "imagen": "https://venetian.com.ar/images/products/2404111747172586/0.jpg"
     },
     {
+      "id": 3644,
+      "nombre": "Cabezal móvil LED Beam 150W, aro RGB, rueda de colores/gobos, prisma y estrobo, DMX 14 canales (BEAMCORE 150)",
+      "marca": null,
+      "categoria": "Iluminación > Cabezales Móviles",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754308114/0.jpg"
+    },
+    {
+      "id": 3643,
+      "nombre": "Cabezal móvil LED Spot 60W, rueda de colores y gobos, aro LED RGB, Pan/Tilt, DMX 14 canales (QUANTUM 60)",
+      "marca": null,
+      "categoria": "Iluminación > Cabezales Móviles",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754325905/0.jpg"
+    },
+    {
+      "id": 3645,
+      "nombre": "Cabezal móvil multiefecto, beam de 6 cabezas, Bee Eye central, láser rojo/verde, LEDs CREE RGBW, DMX 26 canales (X-PHOTON)",
+      "marca": null,
+      "categoria": "Iluminación > Cabezales Móviles",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754334686/0.jpg"
+    },
+    {
+      "id": 3465,
+      "nombre": "Cable DMX 120 Ω (bobina), transmisión DMX512, malla trenzada, cobre estañado (CBL13-1)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554518417/0.jpg"
+    },
+    {
       "id": 1808,
       "nombre": "Cable DMX 3 Pines Profesional",
       "marca": null,
@@ -3202,6 +3274,62 @@
       "categoria": "Iluminación > Controladores DMX",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2506181607061104/0.jpg"
+    },
+    {
+      "id": 3500,
+      "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 1 metro (DMX0201)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2503051506362204/0.jpg"
+    },
+    {
+      "id": 3501,
+      "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 1,5 metros (DMX0202)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554292342/0.jpg"
+    },
+    {
+      "id": 3504,
+      "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 10 metros (DMX0210)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554303725/0.jpg"
+    },
+    {
+      "id": 3505,
+      "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 15 metros (DMX0215)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554455252/0.jpg"
+    },
+    {
+      "id": 3502,
+      "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 3 metros (DMX0203)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554293755/0.jpg"
+    },
+    {
+      "id": 3506,
+      "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 30 metros (DMX0230)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554458511/0.jpg"
+    },
+    {
+      "id": 3503,
+      "nombre": "Cable DMX 3 pines XLR macho-hembra, blindado 120 Ω, DMX512, 7,5 metros (DMX0208)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554465222/0.jpg"
     },
     {
       "id": 1773,
@@ -3260,6 +3388,14 @@
       "imagen": "https://venetian.com.ar/images/products/2003171502293101/0.jpg"
     },
     {
+      "id": 3539,
+      "nombre": "Cable Plug mono 6.35mm a Plug mono 6.35mm, conductor 100% OFC, diámetro exterior 6mm (LE5021)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "id": 1777,
       "nombre": "Cable Speakon para Parlantes",
       "marca": null,
@@ -3290,6 +3426,550 @@
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111748152757/0.jpg"
+    },
+    {
+      "id": 3520,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 1 metro (EMC0101)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2005121056084031/0.jpg"
+    },
+    {
+      "id": 3521,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 2 metros (EMC0102)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111617522245/0.jpg"
+    },
+    {
+      "id": 3519,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 50 cm (EMC01005)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2005051113117382/0.jpg"
+    },
+    {
+      "id": 3546,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 1 metro (NMC0101)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251754354844/0.jpg"
+    },
+    {
+      "id": 3550,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 10 metros (NMC0110)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2010141235441867/0.jpg"
+    },
+    {
+      "id": 3551,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 15 metros (NMC0115)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251800381446/0.jpg"
+    },
+    {
+      "id": 3547,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 2 metros (NMC0102)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251755403394/0.jpg"
+    },
+    {
+      "id": 3548,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 3 metros (NMC0103)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251756315233/0.jpg"
+    },
+    {
+      "id": 3545,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 50 cm (NMC01005)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251753334015/0.jpg"
+    },
+    {
+      "id": 3549,
+      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 6 metros (NMC0106)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251757235316/0.jpg"
+    },
+    {
+      "id": 3541,
+      "nombre": "Cable XLR hembra a Plug mono 6.35mm, blindado, conectores metálicos, 3 metros (NGC0103)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251803244324/0.jpg"
+    },
+    {
+      "id": 3542,
+      "nombre": "Cable XLR hembra a Plug mono 6.35mm, blindado, conectores metálicos, 6 metros (NGC0106)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251802236359/0.jpg"
+    },
+    {
+      "id": 3466,
+      "nombre": "Cable combinado DMX y alimentación, sección 3x1,5mm², control y energía en un solo cable (CBL16)",
+      "marca": null,
+      "categoria": "Iluminación > Controladores DMX",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554473317/0.jpg"
+    },
+    {
+      "id": 3533,
+      "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 10 metros (EMC0610)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111156382580/0.jpg"
+    },
+    {
+      "id": 3534,
+      "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 2 metros (EMC062)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111157299178/0.jpg"
+    },
+    {
+      "id": 3535,
+      "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 3 metros (EMC063)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111129115709/0.jpg"
+    },
+    {
+      "id": 3536,
+      "nombre": "Cable de audio XLR macho a Plug mono 6.35mm, blindado, conectores metálicos, 6 metros (EMC066)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111129549181/0.jpg"
+    },
+    {
+      "id": 3528,
+      "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 1 metro (EMC031)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2503051459259440/0.jpg"
+    },
+    {
+      "id": 3529,
+      "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 10 metros (EMC0310)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2503051502385785/0.jpg"
+    },
+    {
+      "id": 3530,
+      "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 2 metros (EMC032)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2503051501038768/0.jpg"
+    },
+    {
+      "id": 3531,
+      "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 3 metros (EMC033)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2503051501346684/0.jpg"
+    },
+    {
+      "id": 3532,
+      "nombre": "Cable de audio balanceado Plug TRS 6.35mm estéreo a XLR hembra, blindado, 6 metros (EMC036)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2503051502112340/0.jpg"
+    },
+    {
+      "id": 3514,
+      "nombre": "Cable de audio balanceado plug TRS 6,35mm estéreo a XLR hembra, 30cm (EGC0303)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111154255876/0.jpg"
+    },
+    {
+      "id": 3467,
+      "nombre": "Cable de audio para exterior 2x1,5mm², resistente a la intemperie, rollo 100m (CBL18 2*1.50)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2205101628398657/0.jpg"
+    },
+    {
+      "id": 3468,
+      "nombre": "Cable de audio para exterior 2x2,5mm², aislante reforzado, rollo 100m (CBL18 2*2.50)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554526542/0.jpg"
+    },
+    {
+      "id": 3537,
+      "nombre": "Cable de instrumento 6.35mm macho-macho, 6 metros, conductor OFC, blindado, certificaciones CE/ROHS (IC049-20FT)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554476576/0.jpg"
+    },
+    {
+      "id": 3538,
+      "nombre": "Cable de instrumento 6.35mm macho-macho, 9 metros, conductor OFC, aislamiento PE, cubierta PVC (IC049-30FT)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554465193/0.jpg"
+    },
+    {
+      "id": 3543,
+      "nombre": "Cable de instrumento Plug mono 6.35mm a Plug mono, blindado, conectores metálicos, 3 metros (NGC0203)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2007271522375524/0.jpg"
+    },
+    {
+      "id": 3544,
+      "nombre": "Cable de instrumento Plug mono 6.35mm a Plug mono, blindado, conectores metálicos, 6 metros (NGC0206)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251805073674/0.jpg"
+    },
+    {
+      "id": 3460,
+      "nombre": "Cable de instrumento plug 10m, cobre OFC, conectores niquelados 6,35mm, cubierta PVC (AGC0610)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111146509498/0.jpg"
+    },
+    {
+      "id": 3461,
+      "nombre": "Cable de instrumento plug 3m, conectores rectos 6,35mm, cobre OFC, cubierta PVC (AGC063)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111147212197/0.jpg"
+    },
+    {
+      "id": 3462,
+      "nombre": "Cable de instrumento plug 6,35mm 6m, cobre OFC, cubierta PVC resistente (AGC066)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111147468437/0.jpg"
+    },
+    {
+      "id": 3456,
+      "nombre": "Cable de instrumento plug mono, conductor 100% libre de oxígeno, 6 metros (AGC0206)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011251751107654/0.jpg"
+    },
+    {
+      "id": 3457,
+      "nombre": "Cable de instrumento plug/plug TS mono 10m, conectores niquelados 6,35mm, cobre OFC (AGC0510)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111145256487/0.jpg"
+    },
+    {
+      "id": 3458,
+      "nombre": "Cable de instrumento plug/plug TS mono 3m, cobre OFC, conectores niquelados 6,35mm, CE/ROHS (AGC053)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111146004117/0.jpg"
+    },
+    {
+      "id": 3459,
+      "nombre": "Cable de instrumento plug/plug TS mono 6m, cobre OFC, conectores niquelados 6,35mm, PVC (AGC056)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111146232385/0.jpg"
+    },
+    {
+      "id": 3555,
+      "nombre": "Cable de instrumento textil trenzado Plug mono a Plug mono, conectores dorados, 10 metros (SGC0110)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111205149336/0.jpg"
+    },
+    {
+      "id": 3556,
+      "nombre": "Cable de instrumento textil trenzado Plug mono a Plug mono, conectores dorados, 3 metros (SGC013)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111206202077/0.jpg"
+    },
+    {
+      "id": 3557,
+      "nombre": "Cable de instrumento textil trenzado Plug mono a Plug mono, conectores dorados, 6 metros (SGC016)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111206393023/0.jpg"
+    },
+    {
+      "id": 3558,
+      "nombre": "Cable de instrumento textil trenzado Plug mono recto a L (90°), conectores dorados, 10 metros (SGC0210)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111207024922/0.jpg"
+    },
+    {
+      "id": 3559,
+      "nombre": "Cable de instrumento textil trenzado Plug mono recto a L (90°), conectores dorados, 3 metros (SGC023)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111207379123/0.jpg"
+    },
+    {
+      "id": 3560,
+      "nombre": "Cable de instrumento textil trenzado Plug mono recto a L (90°), conectores dorados, 6 metros (SGC026)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111207568323/0.jpg"
+    },
+    {
+      "id": 3524,
+      "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 10 metros (EMC0110)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111617522275/0.jpg"
+    },
+    {
+      "id": 3525,
+      "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 15 metros (EMC0115)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111617532156/0.jpg"
+    },
+    {
+      "id": 3526,
+      "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 20 metros (EMC0120)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2103221244203006/0.jpg"
+    },
+    {
+      "id": 3522,
+      "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 3 metros (EMC0103)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111617522215/0.jpg"
+    },
+    {
+      "id": 3527,
+      "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 30 metros (EMC0130)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2109101531358967/0.jpg"
+    },
+    {
+      "id": 3523,
+      "nombre": "Cable de micrófono XLR balanceado macho-hembra, blindaje EMI/RFI, conectores metálicos, 6 metros (EMC0106)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111617532185/0.jpg"
+    },
+    {
+      "id": 3507,
+      "nombre": "Cable instrumento XLR hembra a plug mono 6,35mm, blindado, 3 metros (EGC0103)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554491412/0.jpg"
+    },
+    {
+      "id": 3508,
+      "nombre": "Cable instrumento XLR hembra a plug mono 6,35mm, blindado, 6 metros (EGC0106)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554525099/0.jpg"
+    },
+    {
+      "id": 3511,
+      "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 10 metros (EGC0210)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111150058451/0.jpg"
+    },
+    {
+      "id": 3509,
+      "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 3 metros (EGC0203)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111748145103/0.jpg"
+    },
+    {
+      "id": 3512,
+      "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 3 metros (EGC023)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111151559529/0.jpg"
+    },
+    {
+      "id": 3510,
+      "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 6 metros (EGC0206)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111748145074/0.jpg"
+    },
+    {
+      "id": 3513,
+      "nombre": "Cable instrumento plug mono 6,35mm recto a L 90°, blindado, 6 metros (EGC026)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111151303079/0.jpg"
+    },
+    {
+      "id": 3464,
+      "nombre": "Cable microfónico balanceado (bobina), cobre estañado, malla trenzada antiinterferencias (CBL03)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554442830/0.jpg"
+    },
+    {
+      "id": 3469,
+      "nombre": "Cable multipar snake 12 pares, blindaje individual por par, baja diafonía, por metro (CBL31-12 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111748133720/0.jpg"
+    },
+    {
+      "id": 3470,
+      "nombre": "Cable multipar snake 16 pares, blindaje individual por par, baja diafonía, por metro (CBL31-16 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554507093/0.jpg"
+    },
+    {
+      "id": 3471,
+      "nombre": "Cable multipar snake 20 pares, blindaje individual por par, baja diafonía, por metro (CBL31-20 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554484700/0.jpg"
+    },
+    {
+      "id": 3472,
+      "nombre": "Cable multipar snake 24 pares, blindaje individual por par, baja diafonía, por metro (CBL31-24 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554525158/0.jpg"
+    },
+    {
+      "id": 3473,
+      "nombre": "Cable multipar snake 32 pares, blindaje individual por par, baja diafonía, por metro (CBL31-32 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554518447/0.jpg"
+    },
+    {
+      "id": 3474,
+      "nombre": "Cable multipar snake 4 pares, blindaje individual por par, baja diafonía, por metro (CBL31-4 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554483287/0.jpg"
+    },
+    {
+      "id": 3475,
+      "nombre": "Cable multipar snake 40 pares, blindaje individual por par, baja diafonía, por metro (CBL31-40 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051554442800/0.jpg"
+    },
+    {
+      "id": 3476,
+      "nombre": "Cable multipar snake 8 pares, blindaje individual por par, baja diafonía, por metro (CBL31-8 Cores)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111748136418/0.jpg"
+    },
+    {
+      "id": 3515,
+      "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 1 metro (ELC011)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111155217683/0.jpg"
+    },
+    {
+      "id": 3516,
+      "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 2 metros (ELC012)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111127443859/0.jpg"
+    },
+    {
+      "id": 3517,
+      "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 3 metros (ELC013)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111155368987/0.jpg"
+    },
+    {
+      "id": 3518,
+      "nombre": "Cable plug TRS 6,35mm estéreo a mini plug 3,5mm estéreo, blindado, 6 metros (ELC016)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111155561384/0.jpg"
     },
     {
       "id": 1784,
@@ -3524,6 +4204,38 @@
       "imagen": "https://venetian.com.ar/images/products/1911051155494129/0.jpg"
     },
     {
+      "id": 3564,
+      "nombre": "Conector Mini XLR hembra 4 pines, compatible cables 3 a 4 mm, vida útil 1000 ciclos (LA1069-4)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155484218/0.jpg"
+    },
+    {
+      "id": 3563,
+      "nombre": "Conector Mini XLR hembra, resistencia de contacto <5mΩ, vida útil +1000 ciclos de conexión (LA1069)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155476153/0.jpg"
+    },
+    {
+      "id": 3565,
+      "nombre": "Conector Mini XLR macho 3 pines, compatible cables 3 a 4 mm, vida útil 1000 ciclos (LA1070)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155459560/0.jpg"
+    },
+    {
+      "id": 3566,
+      "nombre": "Conector Mini XLR macho 4 pines, compatible cables 3 a 4 mm, alta resistencia de aislamiento, vida útil +1000 ciclos (LA1070-4)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155476123/0.jpg"
+    },
+    {
       "id": 1846,
       "nombre": "Conector Miniplug 1/8 Stereo",
       "marca": null,
@@ -3628,6 +4340,14 @@
       "imagen": "https://venetian.com.ar/images/products/2305111202403493/0.jpg"
     },
     {
+      "id": 3540,
+      "nombre": "Conector RCA macho para soldar a cable, metal, baja resistencia de contacto, alta resistencia de aislamiento (LE5021)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155459500/0.jpg"
+    },
+    {
       "id": 1841,
       "nombre": "Conector RJ45 a Chasis",
       "marca": null,
@@ -3706,6 +4426,22 @@
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2305111201057720/0.jpg"
+    },
+    {
+      "id": 3575,
+      "nombre": "Conector Speakon hembra 4 polos chasis redondo, vida útil 2000 conexiones, baja resistencia de contacto (LD4021)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2305111200249193/0.jpg"
+    },
+    {
+      "id": 3574,
+      "nombre": "Conector Speakon hembra de chasis, resistencia de contacto mínima, robusta resistencia de aislamiento (LD4017)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155522164/0.jpg"
     },
     {
       "id": 1851,
@@ -3850,6 +4586,54 @@
       "categoria": "Sonido > Conectores y Cables",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001081026504687/0.jpg"
+    },
+    {
+      "id": 3570,
+      "nombre": "Conector XLR hembra 3 pines a plug estéreo 6.5mm, resistencia de contacto mínima (LB2008)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155469471/0.jpg"
+    },
+    {
+      "id": 3567,
+      "nombre": "Conector XLR hembra 5 pines chasis cuadrado, alta resistencia de aislamiento, vida útil +1000 ciclos (LA1091-5)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111613499965/0.jpg"
+    },
+    {
+      "id": 3569,
+      "nombre": "Conector XLR hembra 5 pines para chasis/PCB, resistencia de contacto <10mΩ, aislamiento >1000MΩ (LA1123)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911121359569749/0.jpg"
+    },
+    {
+      "id": 3561,
+      "nombre": "Conector XLR hembra 5 pines, color negro, baja resistencia de contacto, alto aislamiento eléctrico (LA1011-5B)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111613464717/0.jpg"
+    },
+    {
+      "id": 3568,
+      "nombre": "Conector XLR macho 5 pines chasis cuadrado, vida útil 1000 conexiones, fuerza de inserción 20N (LA1092-5)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911111613499906/0.jpg"
+    },
+    {
+      "id": 3562,
+      "nombre": "Conector XLR macho angulado 90°, resistencia de contacto <5mΩ, vida útil 1000 ciclos de inserción (LA1066)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911051155466212/0.jpg"
     },
     {
       "id": 1810,
@@ -4263,7 +5047,7 @@
       "id": 2840,
       "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR2K0 - 1 VIA 200W",
       "marca": "AMERICAN VOX",
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
@@ -4287,7 +5071,7 @@
       "id": 2841,
       "nombre": "DIVISOR FRECUENCIA AMERICAN VOX CR4K0 - 1 VIA 120W",
       "marca": "AMERICAN VOX",
-      "categoria": null,
+      "categoria": "Sonido > Drivers y Repuestos",
       "precio_venta": null,
       "imagen": null
     },
@@ -5132,6 +5916,14 @@
       "imagen": "https://venetian.com.ar/images/products/2510201659326990/0.jpg"
     },
     {
+      "id": 3640,
+      "nombre": "Efecto LED 2 en 1 RGBW, láser rojo/verde multipuntos, 8 patrones, DMX 7 canales, audio (EF-500)",
+      "marca": null,
+      "categoria": "Iluminación > Efectos LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911201151485344/0.jpg"
+    },
+    {
       "id": 1825,
       "nombre": "Efecto LED Matrix Estroboscópico 3 en 1",
       "marca": null,
@@ -5146,6 +5938,30 @@
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2002031322563719/0.jpg"
+    },
+    {
+      "id": 3641,
+      "nombre": "Efecto LED Mushroom giratorio 20W, RGBA+UV, láser rojo/verde multipunto, DMX 7 canales, IP33 (EF-505)",
+      "marca": null,
+      "categoria": "Iluminación > Efectos LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911201151495314/0.jpg"
+    },
+    {
+      "id": 3642,
+      "nombre": "Efecto LED Spider compacto, 8 LEDs RGBW 5W, láser rojo/verde 50mW, tilt 200°, DMX 10/17 canales (NOVA SPIDER)",
+      "marca": null,
+      "categoria": "Iluminación > Efectos LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754327595/0.jpg"
+    },
+    {
+      "id": 3646,
+      "nombre": "Efecto LED de gobo 8 colores, 8 LEDs CREE RGBW 3W, dimmer lineal y estrobo, DMX 7 canales (SPG008)",
+      "marca": null,
+      "categoria": "Iluminación > Efectos LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911201232449449/0.jpg"
     },
     {
       "id": 1836,
@@ -5388,6 +6204,14 @@
       "imagen": "https://venetian.com.ar/images/products/2602131114529243/0.jpg"
     },
     {
+      "id": 3647,
+      "nombre": "Inflador para lanza papeles 500W, medidor de presión ajustable 0,1-1,6 MPa, parada automática (LP-300)",
+      "marca": null,
+      "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "id": 2910,
       "nombre": "KIT BOBINA Y CONO HP15PLUS PLATI",
       "marca": "GBR PLATINUM",
@@ -5442,6 +6266,22 @@
       "categoria": "Iluminación > Efectos LED",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2011031713564301/0.jpg"
+    },
+    {
+      "id": 3581,
+      "nombre": "Kit de streaming con aro de luz LED 26 cm, control remoto, USB, soporte ajustable hasta 2 m (ZB-02)",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011021414107677/0.jpg"
+    },
+    {
+      "id": 3579,
+      "nombre": "Kit de streaming con aro de luz LED 3 tonos y trípode, brazo para micrófono, bandeja (MP-302)",
+      "marca": null,
+      "categoria": "Iluminación > Spots LED",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011031716214745/0.jpg"
     },
     {
       "id": 445,
@@ -5612,38 +6452,6 @@
       "imagen": null
     },
     {
-      "id": 3138,
-      "nombre": "LIQUIDO GBR BURBUJA X 5LTS",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "id": 3140,
-      "nombre": "LIQUIDO GBR MAQ. HUMO 1LTS PRO",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "id": 3141,
-      "nombre": "LIQUIDO GBR NIEVE 5L",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "id": 3139,
-      "nombre": "LIQUIDO GBR P/MAQ. HUMO X 1 L",
-      "marca": "GBR",
-      "categoria": "Iluminación > Líquidos y Consumibles",
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
       "id": 353,
       "nombre": "LIQUIDO HUMO GBR 5LTS CLASICO",
       "marca": "GBR",
@@ -5674,6 +6482,38 @@
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001221404272438/0.jpg"
+    },
+    {
+      "id": 3452,
+      "nombre": "Linga de seguridad acero 2mm, largo 80cm, carga máxima 30kg (AC535)",
+      "marca": null,
+      "categoria": "Estructuras / Truss",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2001221804433383/0.jpg"
+    },
+    {
+      "id": 3454,
+      "nombre": "Linga de seguridad acero 3mm, largo 80cm, carga máxima 30kg (AC537)",
+      "marca": null,
+      "categoria": "Estructuras / Truss",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2308101542313804/0.jpg"
+    },
+    {
+      "id": 3453,
+      "nombre": "Linga de seguridad acero 4mm, largo 80cm, carga hasta 30kg, con mosquetón (AC536)",
+      "marca": null,
+      "categoria": "Estructuras / Truss",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2308101541147085/0.jpg"
+    },
+    {
+      "id": 3455,
+      "nombre": "Linga de seguridad acero 5mm, largo 75cm, carga hasta 50kg, con mosquetón (AC538)",
+      "marca": null,
+      "categoria": "Estructuras / Truss",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2308101536465893/0.jpg"
     },
     {
       "id": 1926,
@@ -5951,7 +6791,7 @@
       "id": 2842,
       "nombre": "MANIJA BAFLE METALICA GRANDE",
       "marca": "AMERICAN VOX",
-      "categoria": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
       "precio_venta": null,
       "imagen": null
     },
@@ -7060,6 +7900,230 @@
       "imagen": null
     },
     {
+      "id": 3552,
+      "nombre": "Manguera multipar (snake) 12 canales, conectores XLR macho/hembra, blindado par a par, 5 metros (RS-12CH-5M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2309011753186059/0.jpg"
+    },
+    {
+      "id": 3553,
+      "nombre": "Manguera multipar (snake) 16 canales, conectores XLR macho/hembra, blindado par a par, 5 metros (RS-16CH-5M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2309011754426031/0.jpg"
+    },
+    {
+      "id": 3554,
+      "nombre": "Manguera multipar (snake) 8 canales, conectores XLR macho/hembra, blindado par a par, 5 metros (RS-8CH-5M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2309011751577922/0.jpg"
+    },
+    {
+      "id": 3483,
+      "nombre": "Manguera multipar XLR profesional 12 canales, conectores individualizados, 10m (CD8112-3-10M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181158182845/0.jpg"
+    },
+    {
+      "id": 3484,
+      "nombre": "Manguera multipar XLR profesional 12 canales, conectores individualizados, 15m (CD8112-3-15M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181156576973/0.jpg"
+    },
+    {
+      "id": 3485,
+      "nombre": "Manguera multipar XLR profesional 12 canales, conectores individualizados, 5m (CD8112-3-5M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181200063266/0.jpg"
+    },
+    {
+      "id": 3486,
+      "nombre": "Manguera multipar XLR profesional 16 canales, conectores individualizados, 10m (CD8112-4-10M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181154405826/0.jpg"
+    },
+    {
+      "id": 3487,
+      "nombre": "Manguera multipar XLR profesional 16 canales, conectores individualizados, 15m (CD8112-4-15M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181150398834/0.jpg"
+    },
+    {
+      "id": 3488,
+      "nombre": "Manguera multipar XLR profesional 16 canales, conectores individualizados, 5m (CD8112-4-5M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181155486956/0.jpg"
+    },
+    {
+      "id": 3477,
+      "nombre": "Manguera multipar XLR profesional 4 canales, conectores individualizados, 10m (CD8112-1-10M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181212543590/0.jpg"
+    },
+    {
+      "id": 3478,
+      "nombre": "Manguera multipar XLR profesional 4 canales, conectores individualizados, 15m (CD8112-1-15M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181210489836/0.jpg"
+    },
+    {
+      "id": 3479,
+      "nombre": "Manguera multipar XLR profesional 4 canales, conectores individualizados, 5m (CD8112-1-5M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181216361595/0.jpg"
+    },
+    {
+      "id": 3463,
+      "nombre": "Manguera multipar XLR profesional 45m, 24 salidas XLR hembra, 8 retornos XLR macho (BS01RB-2408X-45M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911201604368478/0.jpg"
+    },
+    {
+      "id": 3480,
+      "nombre": "Manguera multipar XLR profesional 8 canales, conectores individualizados, 10m (CD8112-2-10M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181203292402/0.jpg"
+    },
+    {
+      "id": 3481,
+      "nombre": "Manguera multipar XLR profesional 8 canales, conectores individualizados, 15m (CD8112-2-15M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181201389691/0.jpg"
+    },
+    {
+      "id": 3482,
+      "nombre": "Manguera multipar XLR profesional 8 canales, conectores individualizados, 5m (CD8112-2-5M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181208381915/0.jpg"
+    },
+    {
+      "id": 3490,
+      "nombre": "Manguera stagebox 12 canales XLR, 8 entradas + 4 salidas, cable multipar blindado, 15m (CD8159-A-15M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181249381388/0.jpg"
+    },
+    {
+      "id": 3489,
+      "nombre": "Manguera stagebox 12 canales XLR, 8 entradas + 4 salidas, caja metálica, 10m (CD8159-A-10M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181251254449/0.jpg"
+    },
+    {
+      "id": 3492,
+      "nombre": "Manguera stagebox 16 canales XLR, 12 entradas + 4 salidas, cable multipar blindado, 15m (CD8159-B-15M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181246197811/0.jpg"
+    },
+    {
+      "id": 3493,
+      "nombre": "Manguera stagebox 16 canales XLR, 12 entradas + 4 salidas, cable multipar blindado, 30m (CD8159-B-30M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181238052950/0.jpg"
+    },
+    {
+      "id": 3491,
+      "nombre": "Manguera stagebox 16 canales XLR, 12 entradas + 4 salidas, caja metálica, 10m (CD8159-B-10M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181248097640/0.jpg"
+    },
+    {
+      "id": 3494,
+      "nombre": "Manguera stagebox 20 canales XLR, 16 entradas + 4 salidas, cable multipar blindado, 30m (CD8159-C-30M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181235377604/0.jpg"
+    },
+    {
+      "id": 3495,
+      "nombre": "Manguera stagebox 20 canales XLR, 16 entradas + 4 salidas, cable multipar blindado, 45m (CD8159-C-45M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181233454600/0.jpg"
+    },
+    {
+      "id": 3496,
+      "nombre": "Manguera stagebox 24 canales XLR, 16 entradas + 8 salidas, cable multipar blindado, 30m (CD8162-C-30M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181231358701/0.jpg"
+    },
+    {
+      "id": 3497,
+      "nombre": "Manguera stagebox 24 canales XLR, 16 entradas + 8 salidas, cable multipar blindado, 45m (CD8162-C-45M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181228474861/0.jpg"
+    },
+    {
+      "id": 3498,
+      "nombre": "Manguera stagebox 32 canales XLR, 24 entradas + 8 salidas, cable multipar blindado, 30m (CD8162-E-30M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181224366926/0.jpg"
+    },
+    {
+      "id": 3499,
+      "nombre": "Manguera stagebox 32 canales XLR, 24 entradas + 8 salidas, cable multipar blindado, 45m (CD8162-E-45M)",
+      "marca": null,
+      "categoria": "Sonido > Conectores y Cables",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2506181219255404/0.jpg"
+    },
+    {
+      "id": 3637,
+      "nombre": "Maquina Haze (B-600)",
+      "marca": null,
+      "categoria": "Iluminación > Máquinas de Humo",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2408161735563232/0.jpg"
+    },
+    {
       "id": 1977,
       "nombre": "Micrófono Condensador Shotgun",
       "marca": null,
@@ -7164,6 +8228,86 @@
       "imagen": "https://venetian.com.ar/images/products/1911071329545560/0.jpg"
     },
     {
+      "id": 3588,
+      "nombre": "Micrófono condensador shotgun cardioide para cámara DSLR, 35 Hz-18 kHz, shock mount y paraviento (CM-90B)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2010011106376921/0.jpg"
+    },
+    {
+      "id": 3587,
+      "nombre": "Micrófono condensador shotgun omnidireccional para cámara DSLR, 35 Hz-18 kHz, shock mount y paraviento (CM-90A)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2010011105227533/0.jpg"
+    },
+    {
+      "id": 3628,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, AKG (Mini XLR 3 pines) (Z1710c)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205451522/0.jpg"
+    },
+    {
+      "id": 3624,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Audio-Technica (Hirose 4 pines) (Z-1710T)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754474074/0.jpg"
+    },
+    {
+      "id": 3631,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Mini Plug Mono (Z1710z)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205461433/0.jpg"
+    },
+    {
+      "id": 3629,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Mipro (Mini XLR 4 pines rosca hembra) (Z1710m)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205461492/0.jpg"
+    },
+    {
+      "id": 3626,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, SKP (Mini Plug rosca macho) (Z1710a)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205451581/0.jpg"
+    },
+    {
+      "id": 3627,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Sennheiser (Mini Plug rosca hembra) (Z1710b)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205451551/0.jpg"
+    },
+    {
+      "id": 3630,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Shure (Mini XLR 4 pines) (Z1710s)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205461462/0.jpg"
+    },
+    {
+      "id": 3625,
+      "nombre": "Micrófono corbatero lavalier condenser omnidireccional, cápsula de bajo perfil, Venetian (Mini XLR 3 pines) (Z-1710V)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754468562/0.jpg"
+    },
+    {
       "id": 2004,
       "nombre": "Micrófono de Cápsula Profesional",
       "marca": null,
@@ -7226,6 +8370,390 @@
       "categoria": "Sonido > Microfonos Inalámbricos",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911071205243542/0.jpg"
+    },
+    {
+      "id": 3636,
+      "nombre": "Micrófono de conferencia extendible, amplía el alcance de captación, colocación flexible para varios interlocutores (MT-7-V3)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3582,
+      "nombre": "Micrófono lavalier USB con base, cápsula cardioide condenser, sin drivers necesarios (901-USB)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2102251702027033/0.jpg"
+    },
+    {
+      "id": 3616,
+      "nombre": "Micrófono lavalier con conector Lightning, para dispositivos Apple, construcción en aluminio (SL-101AP)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011301742235138/0.jpg"
+    },
+    {
+      "id": 3598,
+      "nombre": "Micrófono lavalier condenser electret omnidireccional, cable 6 m TRRS 3,5mm, batería LR44 (IS-D1)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2012031734588676/0.jpg"
+    },
+    {
+      "id": 3618,
+      "nombre": "Micrófono lavalier condenser omnidireccional, respuesta 65Hz-18kHz, para celulares, tablets y cámaras (SL-101Z3)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205382205/0.jpg"
+    },
+    {
+      "id": 3592,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico (DL-B01D\n(new lapel))",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205263394/0.jpg"
+    },
+    {
+      "id": 3591,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector AKG mini XLR 3 pines (DL-B01C\n(new lapel))",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205253423/0.jpg"
+    },
+    {
+      "id": 3594,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector AKG mini XLR 3 pines (DL-B02C)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754556927/0.jpg"
+    },
+    {
+      "id": 3596,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Audio-Technica Hirose 4 pines (DL-B02T)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754576628/0.jpg"
+    },
+    {
+      "id": 3589,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector SKP mini plug rosca (DL-B01A\n(new lapel))",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205253483/0.jpg"
+    },
+    {
+      "id": 3590,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Sennheiser (DL-B01B\n(new lapel))",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205253453/0.jpg"
+    },
+    {
+      "id": 3593,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Sennheiser (Dl-b02b)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1912261353242732/0.jpg"
+    },
+    {
+      "id": 3595,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Shure mini XLR 4 pines (DL-B02S)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754565946/0.jpg"
+    },
+    {
+      "id": 3597,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional inalámbrico, conector Venetian mini XLR 3 pines (DL-B02V)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754559144/0.jpg"
+    },
+    {
+      "id": 3621,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, Audio-Technica (Hirose 4 pines) (Sl-201t)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071329584418/0.jpg"
+    },
+    {
+      "id": 3620,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, Mipro (Mini XLR 4 pines rosca hembra) (Sl-201m)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1912261422461850/0.jpg"
+    },
+    {
+      "id": 3599,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, SKP (Mini Plug rosca macho) (plastic band lapel       SL-201A)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205382175/0.jpg"
+    },
+    {
+      "id": 3619,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, Sennheiser (Mini Plug rosca hembra) (Sl-201b)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1912261421573787/0.jpg"
+    },
+    {
+      "id": 3601,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, cable reforzado, AKG (Mini XLR 3 pines) (plastic band lapel      SL-201C)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205392146/0.jpg"
+    },
+    {
+      "id": 3622,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, cable reforzado, Mini Plug Mono (Sl-201z)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1912261422186281/0.jpg"
+    },
+    {
+      "id": 3600,
+      "nombre": "Micrófono lavalier corbatero condenser omnidireccional, clip incorporado, cable reforzado, Shure (Mini XLR 4 pines) (plastic band lapel       SL-201S)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205392116/0.jpg"
+    },
+    {
+      "id": 3603,
+      "nombre": "Micrófono lavalier corbatero inalámbrico condenser omnidireccional, diseño discreto, AKG (Mini XLR 3 pines) (Q1-C)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754585071/0.jpg"
+    },
+    {
+      "id": 3604,
+      "nombre": "Micrófono lavalier corbatero inalámbrico condenser omnidireccional, diseño discreto, Shure (Mini XLR 4 pines) (Q1-S)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754593699/0.jpg"
+    },
+    {
+      "id": 3605,
+      "nombre": "Micrófono lavalier corbatero inalámbrico condenser omnidireccional, diseño discreto, Venetian (Mini XLR 3 pines) (Q1-V)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754588962/0.jpg"
+    },
+    {
+      "id": 3602,
+      "nombre": "Micrófono lavalier corbatero inalámbrico condenser, diseño discreto, Sennheiser (Mini Plug rosca hembra) (Q1-B)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754576445/0.jpg"
+    },
+    {
+      "id": 3635,
+      "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, Audio-Technica (Hirose 4 pines) (ZL-1720T)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754524699/0.jpg"
+    },
+    {
+      "id": 3632,
+      "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, Sennheiser (Mini Plug rosca hembra) (Zl-1720b)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1912261347255489/0.jpg"
+    },
+    {
+      "id": 3633,
+      "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, cable reforzado, AKG (Mini XLR 3 pines) (ZL-1720C)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754531516/0.jpg"
+    },
+    {
+      "id": 3634,
+      "nombre": "Micrófono lavalier corbatero miniatura color piel, cápsula de bajo perfil, cable reforzado, Shure (Mini XLR 4 pines) (ZL-1720S)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251754544473/0.jpg"
+    },
+    {
+      "id": 3623,
+      "nombre": "Micrófono lavalier corbatero, conector Mini Plug 3,5mm, diseño compacto y discreto (Sl-404)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205392086/0.jpg"
+    },
+    {
+      "id": 3617,
+      "nombre": "Micrófono lavalier omnidireccional 360°, filtros de ruido de roce y bajas frecuencias, presentaciones y entrevistas (SL-101TC)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2011301741428590/0.jpg"
+    },
+    {
+      "id": 3584,
+      "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector AKG mini XLR 3 pines (ALPHA V3-C)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251755005321/0.jpg"
+    },
+    {
+      "id": 3583,
+      "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector Sennheiser (ALPHA V3-B)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251755001149/0.jpg"
+    },
+    {
+      "id": 3585,
+      "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector Shure mini XLR 4 pines (ALPHA V3-S)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251755025684/0.jpg"
+    },
+    {
+      "id": 3586,
+      "nombre": "Micrófono vincha condenser omnidireccional inalámbrico, conector Venetian mini XLR 3 pines (ALPHA V3-V)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2602251755017199/0.jpg"
+    },
+    {
+      "id": 3609,
+      "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, Mipro (Mini XLR 4 pines rosca hembra) (QF-12m)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205332651/0.jpg"
+    },
+    {
+      "id": 3607,
+      "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, Sennheiser (Mini Plug rosca hembra) (QF-12b)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205332710/0.jpg"
+    },
+    {
+      "id": 3608,
+      "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, AKG (Mini XLR 3 pines) (QF-12c)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205332681/0.jpg"
+    },
+    {
+      "id": 3611,
+      "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, Mini Plug Mono (QF-12z)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205342591/0.jpg"
+    },
+    {
+      "id": 3606,
+      "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, SKP (Mini Plug rosca macho) (QF-12a)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205332740/0.jpg"
+    },
+    {
+      "id": 3610,
+      "nombre": "Micrófono vincha condenser omnidireccional, estructura plegable, varilla ajustable, Shure (Mini XLR 4 pines) (QF-12s)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205342621/0.jpg"
+    },
+    {
+      "id": 3577,
+      "nombre": "Micrófono vincha condenser omnidireccional, teatro, broadcast y presentaciones en vivo, compatible AKG mini XLR 3 pines (plastic band head mic    S-301C)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205352502/0.jpg"
+    },
+    {
+      "id": 3576,
+      "nombre": "Micrófono vincha condenser omnidireccional, teatro, broadcast y presentaciones en vivo, compatible SKP mini plug rosca (plastic band head mic     S-301A)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205342562/0.jpg"
+    },
+    {
+      "id": 3578,
+      "nombre": "Micrófono vincha condenser omnidireccional, teatro, broadcast y presentaciones en vivo, compatible Shure mini XLR 4 pines (plastic band head mic    S-301S)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205352473/0.jpg"
+    },
+    {
+      "id": 3614,
+      "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Audio-Technica (Hirose 4 pines) (S-301t)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911071205362443/0.jpg"
+    },
+    {
+      "id": 3615,
+      "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Mini Plug Mono (S-301z)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1912261416181443/0.jpg"
+    },
+    {
+      "id": 3613,
+      "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Mipro (Mini XLR 4 pines rosca hembra) (S-301m)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1912261416462439/0.jpg"
+    },
+    {
+      "id": 3612,
+      "nombre": "Micrófono vincha condenser profesional, cápsula pequeña, color piel o negro, Venetian y Apogee (Mini XLR 3 pines) (S-301cc)",
+      "marca": null,
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2511281721053927/0.jpg"
     },
     {
       "id": 3450,
@@ -8351,7 +9879,7 @@
       "id": 2839,
       "nombre": "PROCESADOR DIGITAL DIGISYNTHETIC DS458 FIR 4X8",
       "marca": "DIGISYNTHETIC",
-      "categoria": null,
+      "categoria": "Sonido > Accesorios Varios",
       "precio_venta": null,
       "imagen": null
     },
@@ -9114,6 +10642,14 @@
       "categoria": "Sonido > Soportes y Trípodes",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2001281333239863/0.jpg"
+    },
+    {
+      "id": 3580,
+      "nombre": "Pie de micrófono para grabación (RP-7)",
+      "marca": null,
+      "categoria": "Sonido > Soportes y Trípodes",
+      "precio_venta": null,
+      "imagen": null
     },
     {
       "id": 2110,
