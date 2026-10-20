@@ -175,6 +175,7 @@ function abrirModal(producto) {
                 ${whatsappHtml(producto, 'boton-whatsapp boton-whatsapp-modal')}
                 ${botonCarritoModalHtml(producto)}
             </div>
+            ${producto.descripcion ? `<p class="modal-descripcion">${esc(producto.descripcion)}</p>` : ''}
         </div>
     `;
     modalOverlay.hidden = false;
