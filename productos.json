@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-23T14:50:43.001Z",
+  "generado": "2026-10-26T14:05:43.484Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -1919,60 +1919,6 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-463-1792595966391.jpg"
-    },
-    {
-      "id": 2905,
-      "nombre": "BOBINA WOOFER P1000 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "id": 2906,
-      "nombre": "BOBINA WOOFER P1500 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "id": 2907,
-      "nombre": "BOBINA WOOFER P1800 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "id": 2908,
-      "nombre": "BOBINA WOOFER P800 PLATINUM",
-      "marca": "GBR PLATINUM",
-      "categoria": "Sonido > Drivers y Repuestos",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": null
-    },
-    {
-      "id": 3008,
-      "nombre": "BOCINA GBR C/DRIVER 50W 5X8 H520",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": "imagenes/producto-3008-1792595966439.jpg"
-    },
-    {
-      "id": 3009,
-      "nombre": "BOCINA GBR METALICA P/INTEMPERIE",
-      "marca": "GBR",
-      "categoria": "Sonido > Bocinas y Megáfonos",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": null
     },
     {
       "id": 3004,
@@ -4324,15 +4270,6 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/kcref6125-700x700.jpg"
     },
     {
-      "id": 3654,
-      "nombre": "Cable CANON A CANON balanceado conectores metálicos, 0,5 metros",
-      "marca": null,
-      "categoria": "Sonido",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": "imagenes/producto-3654-1792709748769.jpg"
-    },
-    {
       "id": 3524,
       "nombre": "Cable CANON A CANON balanceado conectores metálicos, 10 metros (EMC0110)",
       "marca": "VENETIAN",
@@ -4358,6 +4295,15 @@
       "descripcion": "Venetian cable de micrófono balanceado con conectores XLR macho y hembra, blindaje superior contra interferencias EMI/RFI, conectores metálicos profesionales y cable flexible reforzado. Ideal para conexión de micrófonos, previos, consolas y equipos de audio profesional balanceado. Largo: 3 metros.",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911111617522215/0.jpg"
+    },
+    {
+      "id": 3519,
+      "nombre": "Cable CANON A CANON balanceado conectores metálicos, 50 cm (EMC01005)",
+      "marca": "VENETIAN",
+      "categoria": "Sonido > Conectores y Cables",
+      "descripcion": "Venetian cable de micrófono balanceado con conectores XLR macho y hembra, blindaje superior contra interferencias EMI/RFI, conectores metálicos profesionales y cable flexible reforzado. Ideal para conexión de micrófonos, previos, consolas y equipos de audio profesional balanceado. Largo: 50 cm.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2005051113117382/0.jpg"
     },
     {
       "id": 3523,
@@ -4466,33 +4412,6 @@
       "descripcion": "Venetian cable balanceado con conectores Plug TRS 1/4 (6.35mm) estéreo en ambos extremos, blindaje contra interferencias y conectores metálicos profesionales. Ideal para conexión entre consolas, interfaces de audio, procesadores y equipos balanceados. Largo: 6 metros.",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2003171502293101/0.jpg"
-    },
-    {
-      "id": 3520,
-      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 1 metro (EMC0101)",
-      "marca": "VENETIAN",
-      "categoria": "Sonido > Conectores y Cables",
-      "descripcion": "Venetian cable de micrófono balanceado con conectores XLR macho y hembra, blindaje superior contra interferencias EMI/RFI, conectores metálicos profesionales y cable flexible reforzado. Ideal para conexión de micrófonos, previos, consolas y equipos de audio profesional balanceado. Largo: 1 metro.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2005121056084031/0.jpg"
-    },
-    {
-      "id": 3521,
-      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 2 metros (EMC0102)",
-      "marca": "VENETIAN",
-      "categoria": "Sonido > Conectores y Cables",
-      "descripcion": "Venetian cable de micrófono balanceado con conectores XLR macho y hembra, blindaje superior contra interferencias EMI/RFI, conectores metálicos profesionales y cable flexible reforzado. Ideal para conexión de micrófonos, previos, consolas y equipos de audio profesional balanceado. Largo: 2 metros.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/1911111617522245/0.jpg"
-    },
-    {
-      "id": 3519,
-      "nombre": "Cable XLR balanceado macho-hembra, blindaje EMI/RFI, 50 cm (EMC01005)",
-      "marca": "VENETIAN",
-      "categoria": "Sonido > Conectores y Cables",
-      "descripcion": "Venetian cable de micrófono balanceado con conectores XLR macho y hembra, blindaje superior contra interferencias EMI/RFI, conectores metálicos profesionales y cable flexible reforzado. Ideal para conexión de micrófonos, previos, consolas y equipos de audio profesional balanceado. Largo: 50 cm.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2005051113117382/0.jpg"
     },
     {
       "id": 3533,
@@ -10937,15 +10856,6 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-355-1784573292176.jpg"
-    },
-    {
-      "id": 2914,
-      "nombre": "LUZ PILOTO LED GBR CUELLO FLEX",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": null
     },
     {
       "id": 1540,
