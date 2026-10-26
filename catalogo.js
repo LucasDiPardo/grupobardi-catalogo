@@ -376,6 +376,12 @@ async function iniciar() {
 
     actualizarChipActivo();
     renderizar();
+
+    // Link directo a un producto (lo usa el feed del catalogo de WhatsApp):
+    // catalogo.html?producto=123 abre su ficha.
+    const productoDesdeUrl = Number(new URLSearchParams(location.search).get('producto'));
+    const productoLinkeado = catalogo.productos.find((p) => p.id === productoDesdeUrl);
+    if (productoLinkeado) abrirModal(productoLinkeado);
     if (catalogo.generado) {
         const fecha = new Intl.DateTimeFormat('es-AR', { dateStyle: 'long', timeStyle: 'short' }).format(new Date(catalogo.generado));
         pieFecha.textContent = `Catálogo actualizado: ${fecha}`;
