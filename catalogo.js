@@ -236,8 +236,11 @@ let categoriaActiva = '';
 const SIN_MARCA = '__sin_marca__';
 let marcaActiva = '';
 
+// Minusculas y sin acentos: "movil" encuentra "MÓVIL".
+const sinAcentos = (texto) => texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+
 function productosFiltrados() {
-    const q = buscador.value.trim().toLowerCase();
+    const q = sinAcentos(buscador.value.trim());
     return catalogo.productos.filter((p) => {
         if (categoriaActiva) {
             const coincide = p.categoria === categoriaActiva || (p.categoria && p.categoria.startsWith(`${categoriaActiva} > `));
@@ -249,7 +252,7 @@ function productosFiltrados() {
             if (p.marca !== marcaActiva) return false;
         }
         if (!q) return true;
-        return p.nombre.toLowerCase().includes(q) || (p.marca && p.marca.toLowerCase().includes(q));
+        return sinAcentos(p.nombre).includes(q) || (p.marca && sinAcentos(p.marca).includes(q));
     });
 }
 

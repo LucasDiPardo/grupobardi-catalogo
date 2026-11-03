@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-26T14:29:44.322Z",
+  "generado": "2026-11-03T22:48:56.228Z",
   "mostrar_precios": false,
   "whatsapp_numero": "5492346687154",
   "productos": [
@@ -76,6 +76,42 @@
       "imagen": "imagenes/producto-11-1787675271637.jpg"
     },
     {
+      "id": 3664,
+      "nombre": "ADAPTADOR GBR MET.P/EMBUTIR",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3664-1793677141707.jpg"
+    },
+    {
+      "id": 3240,
+      "nombre": "ADAPTADOR GBR MET.P/EMBUTIR - SOMBRERO",
+      "marca": null,
+      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3240-1792595977593.jpg"
+    },
+    {
+      "id": 3656,
+      "nombre": "ADAPTADOR P/MIC.GBR UHF INALAMB.",
+      "marca": null,
+      "categoria": "Sonido > Accesorios Varios",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3656-1793219008142.jpg"
+    },
+    {
+      "id": 3657,
+      "nombre": "ADAPTADOR P/MIC.GBR UHF INALAMB.",
+      "marca": null,
+      "categoria": "Sonido > Accesorios Varios",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3657-1793218713889.jpg"
+    },
+    {
       "id": 1718,
       "nombre": "ADAPTADOR VENETIAN Speakon UNION Hembra a Hembra / LB1027",
       "marca": "VENETIAN",
@@ -101,24 +137,6 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-186-1787675197056.jpg"
-    },
-    {
-      "id": 2542,
-      "nombre": "AMPLIFICADOR DE SONIDO HC14000 (9400)",
-      "marca": null,
-      "categoria": "Sonido > Potencias",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": "imagenes/producto-2542-1787676062423.jpg"
-    },
-    {
-      "id": 2541,
-      "nombre": "AMPLIFICADOR DE SONIDO HC8000 (7200)",
-      "marca": null,
-      "categoria": "Sonido > Potencias",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": "imagenes/producto-2541-1787676091938.jpg"
     },
     {
       "id": 2695,
@@ -166,6 +184,15 @@
       "imagen": "imagenes/producto-2696-1787076763251.jpg"
     },
     {
+      "id": 3734,
+      "nombre": "ANVIL X 4 CABEZAL GBR 200W ML25",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3734-1793677141763.jpg"
+    },
+    {
       "id": 2457,
       "nombre": "ANVIL X10 CASE - LED PAR300 DMX - 18x8W RGBW con ARO LED",
       "marca": "GBR",
@@ -182,6 +209,69 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-2456-1785277471138.jpg"
+    },
+    {
+      "id": 3665,
+      "nombre": "ARO/REJA GBR DE 12\" G12",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3665-1793677141708.jpg"
+    },
+    {
+      "id": 3666,
+      "nombre": "ARO/REJA GBR DE 5\"POR UNIDAD",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3666-1793677141708.jpg"
+    },
+    {
+      "id": 3667,
+      "nombre": "ARO/REJA GBR DE 6\" POR UNIDAD",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3668,
+      "nombre": "ARO/REJA GBR DE 8\" G8",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3737,
+      "nombre": "ATENUADOR DE LINEA GBR 30W 100V.",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3737-1793677141766.jpg"
+    },
+    {
+      "id": 3738,
+      "nombre": "ATENUADOR DE LINEA GBR 60W 100V.",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3738-1793677141767.jpg"
+    },
+    {
+      "id": 3669,
+      "nombre": "AURICULAR GBR COMPACTO Y LIVIANO",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3669-1793677141709.jpg"
     },
     {
       "id": 1286,
@@ -553,24 +643,6 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/gxd8-800x800.jpg"
     },
     {
-      "id": 1736,
-      "nombre": "Amplificador de Potencia Estéreo",
-      "marca": "VENETIAN",
-      "categoria": "Sonido > Potencias",
-      "descripcion": "Venetian Mh8200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2309011734453634/0.jpg"
-    },
-    {
-      "id": 1737,
-      "nombre": "Amplificador de Potencia Estéreo",
-      "marca": "VENETIAN",
-      "categoria": "Sonido > Potencias",
-      "descripcion": "Venetian Mh9200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2309011732307493/0.jpg"
-    },
-    {
       "id": 880,
       "nombre": "Amplifier Module RCF 22115007 X-PRO3 85-265 Volt",
       "marca": null,
@@ -832,6 +904,15 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/epe50abu-810x1080.jpg"
     },
     {
+      "id": 3718,
+      "nombre": "BABLE GBR 200W 6X4\"2VIAS X PAR",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "id": 2715,
       "nombre": "BAFLE CAJA 10\" VACIA",
       "marca": "B-SOUND",
@@ -919,7 +1000,7 @@
       "categoria": "Sonido > Bafles Activos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2965-1793677141657.jpg"
     },
     {
       "id": 2995,
@@ -928,7 +1009,7 @@
       "categoria": "Sonido > Bafles Activos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2995-1793677141663.jpg"
     },
     {
       "id": 2960,
@@ -955,7 +1036,7 @@
       "categoria": "Sonido > Bafles Activos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2966-1793677141658.jpg"
     },
     {
       "id": 2967,
@@ -964,7 +1045,7 @@
       "categoria": "Sonido > Bafles Activos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2967-1793677141659.jpg"
     },
     {
       "id": 2952,
@@ -1054,7 +1135,7 @@
       "categoria": "Sonido > Bafles Portátiles / Batería",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2994-1793677141662.jpg"
     },
     {
       "id": 2972,
@@ -1064,6 +1145,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-2972-1792595963167.jpg"
+    },
+    {
+      "id": 3717,
+      "nombre": "BAFLE GBR 18\" 2400W 1V POT dsp",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3717-1793677141749.jpg"
     },
     {
       "id": 151,
@@ -1162,7 +1252,7 @@
       "categoria": "Sonido > Bafles Portátiles / Batería",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2992-1793677141661.jpg"
     },
     {
       "id": 2959,
@@ -1234,7 +1324,7 @@
       "categoria": "Sonido > Bafles Pasivos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2948-1793677141652.jpg"
     },
     {
       "id": 2987,
@@ -1279,7 +1369,7 @@
       "categoria": "Sonido > Bafles Pasivos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2950-1793677141653.jpg"
     },
     {
       "id": 2988,
@@ -1423,7 +1513,7 @@
       "categoria": "Sonido > Bafles Activos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2963-1793677141656.jpg"
     },
     {
       "id": 2962,
@@ -1432,7 +1522,7 @@
       "categoria": "Sonido > Bafles Activos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2962-1793677141655.jpg"
     },
     {
       "id": 2964,
@@ -1441,7 +1531,7 @@
       "categoria": "Sonido > Bafles Activos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2964-1793677141657.jpg"
     },
     {
       "id": 2993,
@@ -1495,7 +1585,7 @@
       "categoria": "Sonido > Bafles Pasivos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2977-1793677141660.jpg"
     },
     {
       "id": 2975,
@@ -1594,7 +1684,7 @@
       "categoria": "Sonido > Bafles Pasivos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2979-1793677141661.jpg"
     },
     {
       "id": 2549,
@@ -1882,7 +1972,7 @@
       "categoria": "Iluminación > Spots LED",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3232-1793677141701.jpg"
     },
     {
       "id": 3220,
@@ -1921,6 +2011,60 @@
       "imagen": "imagenes/producto-463-1792595966391.jpg"
     },
     {
+      "id": 3706,
+      "nombre": "BOBINA WOOFER P1000 PLATINUM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3706-1793677141740.jpg"
+    },
+    {
+      "id": 3707,
+      "nombre": "BOBINA WOOFER P1500 PLATINUM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3707-1793677141741.jpg"
+    },
+    {
+      "id": 3708,
+      "nombre": "BOBINA WOOFER P1800 PLATINUM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3708-1793677141742.jpg"
+    },
+    {
+      "id": 3709,
+      "nombre": "BOBINA WOOFER P800 PLATINUM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3709-1793677141743.jpg"
+    },
+    {
+      "id": 3719,
+      "nombre": "BOCINA GBR C/DRIVER 50W 5X8 H520",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3719-1793677141750.jpg"
+    },
+    {
+      "id": 3720,
+      "nombre": "BOCINA GBR METALICA P/INTEMPERIE",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3720-1793677141752.jpg"
+    },
+    {
       "id": 3004,
       "nombre": "BOCINA GBR S/DRIVER 1\"",
       "marca": "GBR",
@@ -1954,7 +2098,7 @@
       "categoria": "Sonido > Bocinas y Megáfonos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3005-1793677141664.jpg"
     },
     {
       "id": 3007,
@@ -1963,7 +2107,7 @@
       "categoria": "Sonido > Bocinas y Megáfonos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3007-1793677141665.jpg"
     },
     {
       "id": 3133,
@@ -1972,7 +2116,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3133-1793677141683.jpg"
     },
     {
       "id": 3134,
@@ -1981,7 +2125,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3134-1793677141684.jpg"
     },
     {
       "id": 3135,
@@ -2000,6 +2144,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "id": 3773,
+      "nombre": "BUBBLES - Fluido para maquinas de Burbujas",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Genera gran fujo de burbujas mas livianas e de larga durabilidad. Embalage normal de 5 Ltr. Caja com 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3773-1793744579730.webp"
     },
     {
       "id": 2517,
@@ -2026,7 +2179,7 @@
       "categoria": "Sonido > Soportes y Trípodes",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2854-1793677141633.jpg"
     },
     {
       "id": 2853,
@@ -2035,7 +2188,7 @@
       "categoria": "Sonido > Soportes y Trípodes",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2853-1793677141632.jpg"
     },
     {
       "id": 1761,
@@ -2926,7 +3079,7 @@
       "categoria": "Iluminación > Cabezales Móviles",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3167-1793677141686.jpg"
     },
     {
       "id": 387,
@@ -2956,6 +3109,15 @@
       "imagen": "imagenes/producto-391-1792595967103.jpg"
     },
     {
+      "id": 3733,
+      "nombre": "CABEZAL GBR DMX DOBLE 200W BEAM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3733-1793677141763.jpg"
+    },
+    {
       "id": 3201,
       "nombre": "CABEZAL GBR DMX LASER 5W RGB",
       "marca": "GBR",
@@ -2980,7 +3142,7 @@
       "categoria": "Iluminación > Cabezales Móviles",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3177-1793677141687.jpg"
     },
     {
       "id": 3176,
@@ -3080,6 +3242,96 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "id": 3677,
+      "nombre": "CABLE BAFLE 2X1,5MM TIPO TALLLER",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3677-1793677141714.jpg"
+    },
+    {
+      "id": 3676,
+      "nombre": "CABLE BAFLE 2X1MM TIPO TALLLER",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3676-1793677141713.jpg"
+    },
+    {
+      "id": 3678,
+      "nombre": "CABLE BAFLE 2X2,5MM TIPO TALLLER",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3678-1793677141715.jpg"
+    },
+    {
+      "id": 3679,
+      "nombre": "CABLE BAFLE 3X1,5MM TIPO TALLLER",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3679-1793677141716.jpg"
+    },
+    {
+      "id": 3673,
+      "nombre": "CABLE BAFLE ROJO Y NEGRO 2 X 1MM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3673-1793677141713.jpg"
+    },
+    {
+      "id": 3674,
+      "nombre": "CABLE BAFLE ROJO Y NEGRO 2X1,5MM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3675,
+      "nombre": "CABLE BAFLE ROJO Y NEGRO 2X2,5MM",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3671,
+      "nombre": "CABLE BALANC.DMX 120 OHMS X MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3671-1793677141711.jpg"
+    },
+    {
+      "id": 3670,
+      "nombre": "CABLE BALANC.MIC.DMX P/MET",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3670-1793677141710.jpg"
+    },
+    {
+      "id": 3672,
+      "nombre": "CABLE BALANC.MIC.DMX P/MET",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3672-1793677141712.jpg"
     },
     {
       "id": 2491,
@@ -3322,7 +3574,7 @@
       "categoria": "Sonido > Conectores y Cables",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-41-1793677141768.jpg"
     },
     {
       "id": 44,
@@ -3331,7 +3583,7 @@
       "categoria": "Sonido > Conectores y Cables",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-44-1793677141769.jpg"
     },
     {
       "id": 2872,
@@ -3340,7 +3592,7 @@
       "categoria": "Sonido > Conectores y Cables",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2872-1793677141635.jpg"
     },
     {
       "id": 1786,
@@ -3350,6 +3602,33 @@
       "descripcion": "Venetian SP-DBP II es una caja directa pasiva de doble canal que convierte señales de instrumentos no balanceadas en señales balanceadas para conexión profesional a consolas. Su construcción robusta en acero y la atenuación seleccionable en cada canal garantizan una adaptación precisa a distintos niveles de señal sin distorsión. Es una solución versátil y confiable para conectar guitarras, bajos o teclados en vivo o en estudio.",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2602111536052457/0.jpg"
+    },
+    {
+      "id": 3682,
+      "nombre": "CAJA GBR PARA BAFLE BORNERA",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3682-1793677141720.jpg"
+    },
+    {
+      "id": 3680,
+      "nombre": "CAJA GBR PORTA CANON XLR-2",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3680-1793677141717.jpg"
+    },
+    {
+      "id": 3681,
+      "nombre": "CAJA GBR PORTA JACK PLUG-2",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3681-1793677141719.jpg"
     },
     {
       "id": 2710,
@@ -3385,13 +3664,22 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2865-1793677141634.jpg"
     },
     {
       "id": 2775,
       "nombre": "CIERRE MARIPOSA GBR EMBUTIR",
       "marca": "GBR",
       "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3699,
+      "nombre": "CONECT.CANON HEMBRA P/CABLE",
+      "marca": null,
+      "categoria": null,
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
@@ -3404,6 +3692,60 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-2885-1792595967692.jpg"
+    },
+    {
+      "id": 3700,
+      "nombre": "CONECT.GBR MINI CANON P/MIC UHF",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3700-1793677141731.jpg"
+    },
+    {
+      "id": 3704,
+      "nombre": "CONECT.GBR SPEAKON HEMBRA CHASIS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3704-1793677141738.jpg"
+    },
+    {
+      "id": 3701,
+      "nombre": "CONECT.GBR SPEAKON INTERC.HEMBRA",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3701-1793677141732.jpg"
+    },
+    {
+      "id": 3702,
+      "nombre": "CONECT.GBR SPEAKON MACHO CABLE",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3702-1793677141733.jpg"
+    },
+    {
+      "id": 3703,
+      "nombre": "CONECT.GBR SPEAKON MACHO CABLE",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3703-1793677141736.jpg"
+    },
+    {
+      "id": 3705,
+      "nombre": "CONECT.RCA MACHO METALICO",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3705-1793677141740.jpg"
     },
     {
       "id": 2556,
@@ -3419,6 +3761,78 @@
       "nombre": "CONECTOR CANON XLR MACHO CABLE",
       "marca": null,
       "categoria": "Sonido > Conectores y Cables",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3691,
+      "nombre": "CONECTOR CANON-CANON 1 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3691-1793677141727.jpg"
+    },
+    {
+      "id": 3692,
+      "nombre": "CONECTOR CANON-CANON 10 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3692-1793677141728.jpg"
+    },
+    {
+      "id": 3693,
+      "nombre": "CONECTOR CANON-CANON 15 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3693-1793677141729.jpg"
+    },
+    {
+      "id": 3694,
+      "nombre": "CONECTOR CANON-CANON 20 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3694-1793677141730.jpg"
+    },
+    {
+      "id": 3695,
+      "nombre": "CONECTOR CANON-CANON 25 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3696,
+      "nombre": "CONECTOR CANON-CANON 3 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3697,
+      "nombre": "CONECTOR CANON-CANON 30 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3698,
+      "nombre": "CONECTOR CANON-CANON 6 MTS",
+      "marca": null,
+      "categoria": null,
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
@@ -3478,6 +3892,24 @@
       "imagen": "imagenes/producto-3648-1792711862787.jpg"
     },
     {
+      "id": 3683,
+      "nombre": "CONECTOR MONO 6.5 METALICO PRO",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3683-1793677141721.jpg"
+    },
+    {
+      "id": 3684,
+      "nombre": "CONECTOR PLUG-PLUG 1 MTS",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3684-1793677141722.jpg"
+    },
+    {
       "id": 65,
       "nombre": "CONECTOR POWERCOM GBR CABLE MACHO AZUL",
       "marca": null,
@@ -3494,6 +3926,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-2748-1792711387735.jpg"
+    },
+    {
+      "id": 3685,
+      "nombre": "CONECTOR RCA METALICO PRO",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3685-1793677141723.jpg"
     },
     {
       "id": 2498,
@@ -3523,13 +3964,58 @@
       "imagen": "imagenes/producto-2500-1792595967787.jpg"
     },
     {
+      "id": 3686,
+      "nombre": "CONECTOR SPK-SPK 10MTS 2x1mm",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3686-1793677141724.jpg"
+    },
+    {
+      "id": 3687,
+      "nombre": "CONECTOR SPK-SPK 15MTS 2x1mm",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3687-1793677141724.jpg"
+    },
+    {
+      "id": 3688,
+      "nombre": "CONECTOR SPK-SPK 20MTS 2x1mm",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3688-1793677141725.jpg"
+    },
+    {
+      "id": 3689,
+      "nombre": "CONECTOR SPK-SPK 30MTS 2x1mm",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3689-1793677141726.jpg"
+    },
+    {
+      "id": 3690,
+      "nombre": "CONECTOR SPK-SPK 6MTS 2x1 mm",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3690-1793677141727.jpg"
+    },
+    {
       "id": 3216,
       "nombre": "CONS. INTERFACE PARA PC",
       "marca": null,
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3216-1793677141699.jpg"
     },
     {
       "id": 433,
@@ -3619,7 +4105,25 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3058-1793677141675.jpg"
+    },
+    {
+      "id": 3721,
+      "nombre": "CONS.SONIDO GBR 5 ENT MP3",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3721-1793677141753.jpg"
+    },
+    {
+      "id": 3722,
+      "nombre": "CONS.SONIDO GBR 5 ENT MP3",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3722-1793677141754.jpg"
     },
     {
       "id": 3070,
@@ -3637,7 +4141,7 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3059-1793677141676.jpg"
     },
     {
       "id": 3060,
@@ -3655,7 +4159,7 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3057-1793677141675.jpg"
     },
     {
       "id": 3051,
@@ -3700,7 +4204,7 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3062-1793677141677.jpg"
     },
     {
       "id": 3065,
@@ -3799,7 +4303,7 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-249-1793677141628.jpg"
     },
     {
       "id": 259,
@@ -3826,7 +4330,7 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-252-1793677141629.jpg"
     },
     {
       "id": 261,
@@ -3871,7 +4375,7 @@
       "categoria": "Sonido > Consolas y Mezcladoras",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-253-1793677141630.jpg"
     },
     {
       "id": 2137,
@@ -3898,7 +4402,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3210-1793677141692.jpg"
     },
     {
       "id": 3215,
@@ -3907,7 +4411,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3215-1793677141698.jpg"
     },
     {
       "id": 3206,
@@ -3934,7 +4438,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3213-1793677141696.jpg"
     },
     {
       "id": 3212,
@@ -3943,7 +4447,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3212-1793677141695.jpg"
     },
     {
       "id": 3214,
@@ -3952,7 +4456,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3214-1793677141697.jpg"
     },
     {
       "id": 3211,
@@ -3961,7 +4465,7 @@
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3211-1793677141693.jpg"
     },
     {
       "id": 2510,
@@ -3989,6 +4493,24 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "id": 3752,
+      "nombre": "CRYO-JET FOG - Fluido para generadoras de efectos de CO2",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Alta Densidad - Rápida disipacion en el ambiente (5 segundos) - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3752-1793744641226.webp"
+    },
+    {
+      "id": 3755,
+      "nombre": "CRYO-JET TURBO FOG - Fluido para generadoras de efectos de CO2 equipados con TURBINA",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Alta Densidad - Rápida disipacion en el ambiente (5 segundos) - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3755-1793744739698.webp"
     },
     {
       "id": 2301,
@@ -7084,7 +7606,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2891-1793677141637.jpg"
     },
     {
       "id": 2892,
@@ -7093,7 +7615,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2892-1793677141638.jpg"
     },
     {
       "id": 2890,
@@ -7102,7 +7624,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2890-1793677141636.jpg"
     },
     {
       "id": 2896,
@@ -7120,7 +7642,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2893-1793677141640.jpg"
     },
     {
       "id": 2894,
@@ -7129,7 +7651,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2894-1793677141641.jpg"
     },
     {
       "id": 2895,
@@ -7156,7 +7678,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2898-1793677141642.jpg"
     },
     {
       "id": 2899,
@@ -7165,7 +7687,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2899-1793677141643.jpg"
     },
     {
       "id": 2900,
@@ -7174,7 +7696,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2900-1793677141644.jpg"
     },
     {
       "id": 3653,
@@ -7390,7 +7912,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3010-1793677141666.jpg"
     },
     {
       "id": 3011,
@@ -7426,7 +7948,7 @@
       "categoria": "Sonido > Drivers y Repuestos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3017-1793677141667.jpg"
     },
     {
       "id": 2718,
@@ -8146,7 +8668,7 @@
       "categoria": "Iluminación > Efectos LED",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3186-1793677141688.jpg"
     },
     {
       "id": 3188,
@@ -8155,7 +8677,7 @@
       "categoria": "Iluminación > Efectos LED",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3188-1793677141689.jpg"
     },
     {
       "id": 3185,
@@ -8174,6 +8696,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-3187-1792595970339.jpg"
+    },
+    {
+      "id": 3735,
+      "nombre": "EFECTO GBR LED 4 EN1 DMX LASER",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3735-1793677141764.jpg"
     },
     {
       "id": 405,
@@ -8275,6 +8806,15 @@
       "imagen": "imagenes/producto-3154-1792595970921.jpg"
     },
     {
+      "id": 3727,
+      "nombre": "EQUIPO HUMO GBR 1500W PISTOLA",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3727-1793677141758.jpg"
+    },
+    {
       "id": 365,
       "nombre": "EQUIPO HUMO GBR 1500W REMOTO",
       "marca": "GBR",
@@ -8300,6 +8840,24 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-367-1792595971059.jpg"
+    },
+    {
+      "id": 3731,
+      "nombre": "EQUIPO HUMO GBR 3000W LED PRO",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3731-1793677141761.jpg"
+    },
+    {
+      "id": 3730,
+      "nombre": "EQUIPO HUMO GBR 3000W MULTI LED.",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3730-1793677141760.jpg"
     },
     {
       "id": 368,
@@ -8381,6 +8939,24 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-3151-1792595971565.jpg"
+    },
+    {
+      "id": 3729,
+      "nombre": "EQUIPO L/ HUMO BAJO GBR DMX",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3729-1793677141759.jpg"
+    },
+    {
+      "id": 3728,
+      "nombre": "EQUIPO L/ HUMO+BURBU PRO EXTERIO",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3728-1793677141758.jpg"
     },
     {
       "id": 3142,
@@ -8488,7 +9064,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2903-1793677141645.jpg"
     },
     {
       "id": 3239,
@@ -9058,13 +9634,31 @@
       "imagen": "imagenes/producto-3132-1792595972236.jpg"
     },
     {
+      "id": 3775,
+      "nombre": "FOAM & SNOW - Fluido para maquinas de Nieve y Espuma",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Embalage standard de 5 Ltr. - Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3775-1793744873532.webp"
+    },
+    {
+      "id": 3778,
+      "nombre": "FOAM & SNOW 5x25 - Fluido CONCENTRADO",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Para preparar 25 litros de líquido para máquinas de nieve y espuma - Embalage standard de 5 Ltr. - Caja com 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3778-1793744904815.webp"
+    },
+    {
       "id": 3165,
       "nombre": "FUNDA PARA BAFLE 860",
       "marca": null,
       "categoria": "Sonido > Fundas y Estuches",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3165-1793677141685.jpg"
     },
     {
       "id": 3160,
@@ -9074,6 +9668,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-3160-1792595972293.jpg"
+    },
+    {
+      "id": 3732,
+      "nombre": "FUNDA PARA BAFLE ARRAY 1000",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3732-1793677141762.jpg"
     },
     {
       "id": 3164,
@@ -9496,7 +10099,7 @@
       "categoria": "Iluminación > Soportes y Trípodes",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-4-1793677141767.jpg"
     },
     {
       "id": 5,
@@ -9505,7 +10108,7 @@
       "categoria": "Iluminación > Soportes y Trípodes",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-5-1793677141771.jpg"
     },
     {
       "id": 6,
@@ -9515,6 +10118,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-6-1792595972563.jpg"
+    },
+    {
+      "id": 3241,
+      "nombre": "GGG",
+      "marca": null,
+      "categoria": "Iluminación > Máquinas de Humo",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3241-1792595973082.jpg"
     },
     {
       "id": 2314,
@@ -10039,6 +10651,24 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/dag-mini-650x650.jpg"
     },
     {
+      "id": 3762,
+      "nombre": "HAZE & FAZER - Fluido a base de AGUA para generadoras de Neblina/Niebla",
+      "marca": "USA",
+      "categoria": null,
+      "descripcion": "Transparente, de Alta Densidade y Durabilidad en el ambiente - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3762-1793745284240.webp"
+    },
+    {
+      "id": 3766,
+      "nombre": "HAZE OIL CRACK - Fluido a base de ACEITE para generadoras de Neblina/Niebla/CRAQUERA.",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Transparente Alta Densidad y Durabilidad en el ambiente - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3766-1793745347868.webp"
+    },
+    {
       "id": 1047,
       "nombre": "Halt Spigot Lion Support LT-S201 Pin Kit 3 Pcs Acero",
       "marca": null,
@@ -10072,7 +10702,7 @@
       "categoria": "Iluminación > Controladores DMX",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3209-1793677141692.jpg"
     },
     {
       "id": 1971,
@@ -10648,7 +11278,7 @@
       "categoria": "Iluminación > Filtros y Accesorios de Color",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-445-1793677141770.jpg"
     },
     {
       "id": 3217,
@@ -10657,7 +11287,7 @@
       "categoria": "Iluminación > Filtros y Accesorios de Color",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3217-1793677141699.jpg"
     },
     {
       "id": 3218,
@@ -10738,7 +11368,7 @@
       "categoria": "Iluminación > Láser",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3200-1793677141690.jpg"
     },
     {
       "id": 3203,
@@ -10747,7 +11377,7 @@
       "categoria": "Iluminación > Láser",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3203-1793677141691.jpg"
     },
     {
       "id": 3202,
@@ -10831,13 +11461,67 @@
       "imagen": "imagenes/producto-2717-1787077211560.jpg"
     },
     {
-      "id": 3241,
-      "nombre": "LIQUIDO DE HUMO X5 LITROS PROFESIONAL",
+      "id": 3723,
+      "nombre": "LIQUIDO GBR BURBUJA X 5LTS",
       "marca": null,
-      "categoria": "Iluminación > Máquinas de Humo",
+      "categoria": null,
       "descripcion": null,
       "precio_venta": null,
-      "imagen": "imagenes/producto-3241-1792595973082.jpg"
+      "imagen": "imagenes/producto-3723-1793677141754.jpg"
+    },
+    {
+      "id": 3725,
+      "nombre": "LIQUIDO GBR MAQ. HUMO 1LTS PRO.",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3725-1793677141756.jpg"
+    },
+    {
+      "id": 3726,
+      "nombre": "LIQUIDO GBR NIEVE 5L",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3726-1793677141757.jpg"
+    },
+    {
+      "id": 3724,
+      "nombre": "LIQUIDO GBR P/MAQ. HUMO X 1 L.",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3724-1793677141755.jpg"
+    },
+    {
+      "id": 3748,
+      "nombre": "LIQUIDO HUMO 1L USA DISCO DJ",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Fluido para maquina de HUMO Densidad Média - Alta Durabilidad en ambiente - Embalage normal de 1 Ltr. Caja con 12 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3748-1793743897548.png"
+    },
+    {
+      "id": 3739,
+      "nombre": "LIQUIDO HUMO 1L USA PROFESIONAL",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "SMOKE PROFISSIONAL - Fluido para maquina de HUMO Alta densidad y larga durabilidad - Uso aplicaciones profesionales Indoor y Outdoor. Embalage normal de 1 Ltr. Caja con 12 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3739-1793744200168.webp"
+    },
+    {
+      "id": 3740,
+      "nombre": "LIQUIDO HUMO 5L USA PROFESIONAL",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Fluido para maquina de HUMO Alta densidad y larga durabilidad - Uso aplicaciones profesionales Indoor y Outdoor. Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3740-1793743230846.jpg"
     },
     {
       "id": 353,
@@ -10856,6 +11540,33 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-355-1784573292176.jpg"
+    },
+    {
+      "id": 3749,
+      "nombre": "LIQUIDO HUMO USA 5L DISCO DJ ",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Fluido para maquina de HUMO Densidad Média - Alt Durabilidad en ambiente - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3749-1793744035127.webp"
+    },
+    {
+      "id": 3758,
+      "nombre": "LOW FOG - Fluido para generadoras de HUMO BAJO",
+      "marca": "USA",
+      "categoria": null,
+      "descripcion": "Maxima Densidad - Alta tasa de permanencia en el PISO - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3710,
+      "nombre": "LUZ PILOTO LED GBR CUELLO FLEX",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3710-1793677141744.jpg"
     },
     {
       "id": 1540,
@@ -11305,7 +12016,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2916-1793677141647.jpg"
     },
     {
       "id": 2915,
@@ -11314,7 +12025,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2915-1793677141646.jpg"
     },
     {
       "id": 2835,
@@ -11881,7 +12592,7 @@
       "categoria": "Sonido > Microfonos Alámbricos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3077-1793677141678.jpg"
     },
     {
       "id": 3088,
@@ -11890,7 +12601,7 @@
       "categoria": "Sonido > Microfonos Alámbricos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3088-1793677141681.jpg"
     },
     {
       "id": 3089,
@@ -11899,7 +12610,7 @@
       "categoria": "Sonido > Microfonos Alámbricos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3089-1793677141681.jpg"
     },
     {
       "id": 3090,
@@ -11908,7 +12619,7 @@
       "categoria": "Sonido > Microfonos Alámbricos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3090-1793677141682.jpg"
     },
     {
       "id": 3078,
@@ -11917,7 +12628,7 @@
       "categoria": "Sonido > Microfonos Alámbricos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3078-1793677141679.jpg"
     },
     {
       "id": 3079,
@@ -11926,7 +12637,7 @@
       "categoria": "Sonido > Microfonos Alámbricos",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3079-1793677141680.jpg"
     },
     {
       "id": 3081,
@@ -11945,6 +12656,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-288-1792595975539.png"
+    },
+    {
+      "id": 3082,
+      "nombre": "MICROFONO GBR DE MANO TIPO 57 ",
+      "marca": "GBR",
+      "categoria": "Sonido > Microfonos Alámbricos",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3082-1792595975756.jpg"
     },
     {
       "id": 287,
@@ -11999,15 +12719,6 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-3080-1792595975753.jpg"
-    },
-    {
-      "id": 3082,
-      "nombre": "MICROFONO GBR PARA",
-      "marca": "GBR",
-      "categoria": "Sonido > Microfonos Alámbricos",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": "imagenes/producto-3082-1792595975756.jpg"
     },
     {
       "id": 3092,
@@ -12088,7 +12799,7 @@
       "categoria": "Iluminación > Esferas Espejadas",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-8-1793677141771.jpg"
     },
     {
       "id": 2852,
@@ -13676,7 +14387,7 @@
     },
     {
       "id": 1947,
-      "nombre": "Máquina de Humo 400W con LED RGB",
+      "nombre": "Máquina de Humo 400W con LED RGB / ZL-400",
       "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": "Venetian ZL-400 es una máquina de humo de 400W con un tanque de 0.25 litros y tres LEDs RGB integrados. Se controla mediante panel manual, control remoto por cable o inalámbrico, siendo ideal para generar atmósfera en espacios reducidos como bares o pubs.",
@@ -13694,7 +14405,7 @@
     },
     {
       "id": 1957,
-      "nombre": "Máquina de Humo 600W",
+      "nombre": "Máquina de Humo 600W / Z-600",
       "marca": "VENETIAN",
       "categoria": "Iluminación > Máquinas de Humo",
       "descripcion": "Venetian Z-600 es una máquina de humo compacta de 600W, ideal para espacios reducidos como bares o pubs. Ofrece control manual y remoto inalámbrico con alcance de 25 metros, con un tiempo de calentamiento rápido y una potente salida de humo. Su diseño práctico facilita su uso en diversos eventos.",
@@ -13720,15 +14431,6 @@
       "imagen": "https://venetian.com.ar/images/products/1911071807399339/0.jpg"
     },
     {
-      "id": 1946,
-      "nombre": "Máquina de Humo 800W",
-      "marca": "VENETIAN",
-      "categoria": "Iluminación > Máquinas de Humo",
-      "descripcion": "Venetian Z-800 es una máquina de humo de 800W con un potente caudal de 4500 pies cúbicos por minuto. Incluye control manual y un práctico control remoto inalámbrico con alcance de 25 metros, ideal para espacios medianos como pubs, bares o teatros pequeños. Su tiempo de calentamiento es de aproximadamente 108 segundos.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2203171119094819/0.jpg"
-    },
-    {
       "id": 1950,
       "nombre": "Máquina de Humo 800W",
       "marca": "VENETIAN",
@@ -13736,6 +14438,15 @@
       "descripcion": "Venetian F-800 es una máquina de humo compacta y estable con un potente calentador de 800W. Ofrece control tanto por cable como inalámbrico, con un alcance remoto de 25 metros, y un depósito de 1 litro para una proyección de humo efectiva. Es ideal para DJs, pequeños clubes, teatros y eventos familiares por su manejo sencillo y rendimiento confiable.",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/2007301621499828/0.jpg"
+    },
+    {
+      "id": 1946,
+      "nombre": "Máquina de Humo 800W / Z-800",
+      "marca": "VENETIAN",
+      "categoria": "Iluminación > Máquinas de Humo",
+      "descripcion": "Venetian Z-800 es una máquina de humo de 800W con un potente caudal de 4500 pies cúbicos por minuto. Incluye control manual y un práctico control remoto inalámbrico con alcance de 25 metros, ideal para espacios medianos como pubs, bares o teatros pequeños. Su tiempo de calentamiento es de aproximadamente 108 segundos.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2203171119094819/0.jpg"
     },
     {
       "id": 1944,
@@ -13945,6 +14656,15 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/13401313-1000x1000.jpg"
     },
     {
+      "id": 3769,
+      "nombre": "NEUTRON_iON HAZE - Fluido a base de ÁGUA para generadoras de Neblina/Niebla",
+      "marca": "USA",
+      "categoria": null,
+      "descripcion": "Efecto transparente Alta Densidad, Durabilidad EXTREMA (hasta 40 hs. com 1 litro) - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "id": 1563,
       "nombre": "Niple Macho Lion Support T185M 1&quot; para T185",
       "marca": null,
@@ -13972,6 +14692,15 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/004-8649-049-400x400.jpg"
     },
     {
+      "id": 3744,
+      "nombre": "OUTDOOR FOG - Fluido para maquina de HUMO densidad y durabilidad EXTREMAS",
+      "marca": "USA",
+      "categoria": null,
+      "descripcion": "Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "id": 1103,
       "nombre": "Oil Haze Stagefix OH5 5L (crack o Niebla a Base de Aceite)",
       "marca": null,
@@ -13996,7 +14725,7 @@
       "categoria": "Sonido > Soportes y Trípodes",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-114-1793677141627.jpg"
     },
     {
       "id": 2514,
@@ -14023,7 +14752,7 @@
       "categoria": "Iluminación > Máquinas de Burbujas y Confetti",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-350-1793677141706.jpg"
     },
     {
       "id": 2789,
@@ -14122,7 +14851,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3042-1793677141673.jpg"
     },
     {
       "id": 3019,
@@ -14149,7 +14878,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3032-1793677141668.jpg"
     },
     {
       "id": 3046,
@@ -14176,7 +14905,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3033-1793677141669.jpg"
     },
     {
       "id": 3039,
@@ -14230,7 +14959,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3027-1793677141668.jpg"
     },
     {
       "id": 3022,
@@ -14266,7 +14995,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3041-1793677141672.jpg"
     },
     {
       "id": 3034,
@@ -14284,7 +15013,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3035-1793677141670.jpg"
     },
     {
       "id": 3036,
@@ -14293,7 +15022,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3036-1793677141671.jpg"
     },
     {
       "id": 3037,
@@ -14320,7 +15049,7 @@
       "categoria": "Sonido > Parlantes (repuesto)",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3045-1793677141674.jpg"
     },
     {
       "id": 3023,
@@ -14653,7 +15382,7 @@
       "categoria": "Sonido > Soportes y Trípodes",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2918-1793677141648.jpg"
     },
     {
       "id": 2920,
@@ -14779,25 +15508,16 @@
       "categoria": "Sonido > Potencias",
       "descripcion": null,
       "precio_venta": null,
+      "imagen": "imagenes/producto-344-1793677141705.jpg"
+    },
+    {
+      "id": 3788,
+      "nombre": "PRO CLEANER - Fluido para mantenimiento preventivo de maquinas de humo/haze base agua (5 L)",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
       "imagen": null
-    },
-    {
-      "id": 1733,
-      "nombre": "POTENCIA VENETIAN MH3200",
-      "marca": "VENETIAN",
-      "categoria": "Sonido > Potencias",
-      "descripcion": "Venetian Mh3200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2309011727212958/0.jpg"
-    },
-    {
-      "id": 1732,
-      "nombre": "POTENCIA VENETIAN MH7200",
-      "marca": "VENETIAN",
-      "categoria": "Sonido > Potencias",
-      "descripcion": "Venetian Mh7200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
-      "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2309011729551651/0.jpg"
     },
     {
       "id": 2473,
@@ -14861,6 +15581,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "id": 3781,
+      "nombre": "PROFESSIONAL Hi-FOAM Fluids - Fluido SUPER- CONCENTRADO ",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Para maquinas de Espuma com estabilizantes para mayor durabilidad de la espuma - Mezcla al 1% com agua potável. Embalage standard de 5 Ltr. - Caixa com 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3781-1793745180597.webp"
     },
     {
       "id": 3205,
@@ -16960,26 +17689,26 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/padlock-bracket-2626x2758.jpg"
     },
     {
-      "id": 1729,
-      "nombre": "Potencia VENETIAN 200W",
-      "marca": "VENETIAN",
+      "id": 2542,
+      "nombre": "Potencia SHAMSONIC HC14000",
+      "marca": null,
       "categoria": "Sonido > Potencias",
-      "descripcion": "Venetian AM 200 es un amplificador de potencia clase AB con transformador toroidal, ofreciendo 2x200W en 8 ohms y 600W en modo puente. Cuenta con protección inteligente contra cortocircuitos y sobrecalentamiento, y admite entradas de micrófono y línea. Su diseño con ventilador de velocidad ajustable asegura un funcionamiento estable y confiable para refuerzo de sonido.",
+      "descripcion": "amplificador de potencia Shamsonic HC 14000 es un equipo profesional de audio pesado diseñado para operar principalmente en Clase H, capaz de entregar hasta 6000 Watts RMS totales en 2 Ohms.\nEspecificaciones de Potencia (RMS)\n• A 8 Ohms: 2800 W totales (2 x 1400 W por canal).\n• A 4 Ohms: 4200 W totales (2 x 2100 W por canal).\n• A 2 Ohms: 6000 W totales (2 x 3000 W por canal).\n• Modo Bridge (Puente) 8 Ohms: 4200 W.\n• Modo Bridge (Puente) 4 Ohms: 6000 W.",
       "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/1911191040337650/0.jpg"
+      "imagen": "imagenes/producto-2542-1787676062423.jpg"
     },
     {
-      "id": 1720,
-      "nombre": "Potencia VENETIAN 300W",
-      "marca": "VENETIAN",
+      "id": 2541,
+      "nombre": "Potencia SHAMSONIC HC8000",
+      "marca": null,
       "categoria": "Sonido > Potencias",
-      "descripcion": "Venetian AM 100 es un amplificador de potencia clase AB con transformador toroidal, que entrega 2x100W en 8 ohms o 300W en modo bridge. Cuenta con múltiples protecciones, un sistema de refrigeración eficiente y conectividad para micrófono y línea, ofreciendo un rendimiento robusto y estable para sistemas de sonido fijo o portátil.",
+      "descripcion": "amplificador de potencia profesional Shamsonic HC8000 es un equipo de Clase H diseñado en formato de 2 unidades de rack (2U), muy utilizado en sonido en vivo, discotecas, eventos e iglesias debido a su alto rendimiento en frecuencias medias y graves.\nPotencia de Salida (RMS)\n• Modo Estéreo (por canal):\n\t• 2 x 800 W RMS a 8 Ohms\n\t• 2 x 1300 W RMS a 4 Ohms\n\t• 2 x 1900 W RMS a 2 Ohms\n• Modo Bridge (Puente):\n\t• 2600 W RMS a 8 Ohms\n\t• 3800 W RMS a 4 Ohms",
       "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/1911191040321969/0.jpg"
+      "imagen": "imagenes/producto-2541-1787676091938.jpg"
     },
     {
       "id": 1728,
-      "nombre": "Potencia VENETIAN 4 Canales",
+      "nombre": "Potencia VENETIAN 4 canales KX4800",
       "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "descripcion": "Venetian KX4800 es un amplificador de potencia de línea pesada con salida Clase H, ofreciendo 4 x 800W en 8 ohmios en modo estéreo. Cuenta con cuatro canales independientes, entradas XLR y salidas Speakon, diseñado para una respuesta de frecuencia completa y protección integrada contra sobrecarga.",
@@ -16987,13 +17716,67 @@
       "imagen": "https://venetian.com.ar/images/products/2309011724524194/0.jpg"
     },
     {
+      "id": 1720,
+      "nombre": "Potencia VENETIAN AM-100",
+      "marca": "VENETIAN",
+      "categoria": "Sonido > Potencias",
+      "descripcion": "Venetian AM 100 es un amplificador de potencia clase AB con transformador toroidal, que entrega 2x100W en 8 ohms o 300W en modo bridge. Cuenta con múltiples protecciones, un sistema de refrigeración eficiente y conectividad para micrófono y línea, ofreciendo un rendimiento robusto y estable para sistemas de sonido fijo o portátil.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911191040321969/0.jpg"
+    },
+    {
       "id": 1731,
-      "nombre": "Potencia VENETIAN 450W",
+      "nombre": "Potencia VENETIAN AM-150",
       "marca": "VENETIAN",
       "categoria": "Sonido > Potencias",
       "descripcion": "Venetian AM-150 es un amplificador de potencia clase AB con transformador toroidal, ofreciendo 2x150W en 8 ohms, 2x225W en 4 ohms y 450W en modo bridge. Cuenta con un sistema de refrigeración eficiente y múltiples protecciones integradas para un funcionamiento estable y seguro. Sus conectividades incluyen entradas MIC y RCA, y salidas para dos grupos de parlantes.",
       "precio_venta": null,
       "imagen": "https://venetian.com.ar/images/products/1911191040337679/0.jpg"
+    },
+    {
+      "id": 1729,
+      "nombre": "Potencia VENETIAN AM-200",
+      "marca": "VENETIAN",
+      "categoria": "Sonido > Potencias",
+      "descripcion": "Venetian AM 200 es un amplificador de potencia clase AB con transformador toroidal, ofreciendo 2x200W en 8 ohms y 600W en modo puente. Cuenta con protección inteligente contra cortocircuitos y sobrecalentamiento, y admite entradas de micrófono y línea. Su diseño con ventilador de velocidad ajustable asegura un funcionamiento estable y confiable para refuerzo de sonido.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/1911191040337650/0.jpg"
+    },
+    {
+      "id": 1733,
+      "nombre": "Potencia VENETIAN MH3200",
+      "marca": "VENETIAN",
+      "categoria": "Sonido > Potencias",
+      "descripcion": "Venetian Mh3200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2309011727212958/0.jpg"
+    },
+    {
+      "id": 1732,
+      "nombre": "Potencia VENETIAN MH7200",
+      "marca": "VENETIAN",
+      "categoria": "Sonido > Potencias",
+      "descripcion": "Venetian Mh7200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2309011729551651/0.jpg"
+    },
+    {
+      "id": 1736,
+      "nombre": "Potencia VENETIAN MH8200",
+      "marca": "VENETIAN",
+      "categoria": "Sonido > Potencias",
+      "descripcion": "Venetian Mh8200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2309011734453634/0.jpg"
+    },
+    {
+      "id": 1737,
+      "nombre": "Potencia VENETIAN MH9200",
+      "marca": "VENETIAN",
+      "categoria": "Sonido > Potencias",
+      "descripcion": "Venetian Mh9200 es un amplificador de potencia estéreo profesional para uso en vivo e instalaciones fijas. Entradas balanceadas XLR/TRS, salidas con conectores Speakon y bornera, protecciones contra cortocircuito, sobrecarga y sobrecalentamiento. Respuesta de frecuencia amplia con baja distorsión, ideal para sistemas de PA, eventos y DJ.",
+      "precio_venta": null,
+      "imagen": "https://venetian.com.ar/images/products/2309011732307493/0.jpg"
     },
     {
       "id": 1269,
@@ -17563,13 +18346,49 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/w9004-v6-2604x2654.jpg"
     },
     {
-      "id": 10,
-      "nombre": "SOMBRERO GBR METALICO EMBUTIR",
-      "marca": "GBR",
-      "categoria": "Sonido > Accesorios Varios",
+      "id": 3711,
+      "nombre": "SNAKE MANGUERA 12+4CH 20 MTS XLR",
+      "marca": null,
+      "categoria": null,
       "descripcion": null,
       "precio_venta": null,
-      "imagen": "imagenes/producto-10-1787675142951.jpg"
+      "imagen": "imagenes/producto-3711-1793677141745.jpg"
+    },
+    {
+      "id": 3712,
+      "nombre": "SNAKE MANGUERA 16+4CH 30 MTS XLR",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3712-1793677141746.jpg"
+    },
+    {
+      "id": 3715,
+      "nombre": "SNAKE MANGUERA 8+4 CH 20 MTS XLR",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3715-1793677141747.jpg"
+    },
+    {
+      "id": 3713,
+      "nombre": "SNAKE MANGUERA 8CH X 10 MTS XLR",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3713-1793677141746.jpg"
+    },
+    {
+      "id": 3714,
+      "nombre": "SNAKE MANGUERA 8CH X 20 MTS XLR",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
     },
     {
       "id": 2685,
@@ -17579,15 +18398,6 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
-    },
-    {
-      "id": 3240,
-      "nombre": "SOMBRERO PARA BAFLE METALICO",
-      "marca": null,
-      "categoria": "Gabinetes / Cajas Vacías > Herrajes y Accesorios de Case",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": "imagenes/producto-3240-1792595977593.jpg"
     },
     {
       "id": 2925,
@@ -17606,6 +18416,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": null
+    },
+    {
+      "id": 3716,
+      "nombre": "SOPORTE GBR BAFLE REGULABLE",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3716-1793677141748.jpg"
     },
     {
       "id": 2923,
@@ -17650,7 +18469,7 @@
       "categoria": "Sonido > Soportes y Trípodes",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-106-1793677141622.jpg"
     },
     {
       "id": 2370,
@@ -17740,7 +18559,7 @@
       "categoria": "Iluminación > Spots LED",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3227-1793677141700.jpg"
     },
     {
       "id": 450,
@@ -17788,6 +18607,15 @@
       "imagen": "imagenes/producto-3221-1792595978303.jpg"
     },
     {
+      "id": 3736,
+      "nombre": "SPOT GBR LED 9X10W 4 EN 1 DMX",
+      "marca": null,
+      "categoria": null,
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3736-1793677141765.jpg"
+    },
+    {
       "id": 3226,
       "nombre": "SPOT GBR LED 9X10W 6 EN 1 UV DMX",
       "marca": "GBR",
@@ -17804,6 +18632,24 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "imagenes/producto-458-1792595978360.jpg"
+    },
+    {
+      "id": 3747,
+      "nombre": "STAGE&STUDIO FOG - Fluido para maquina de HUMO",
+      "marca": "USA",
+      "categoria": null,
+      "descripcion": "Alta Densidad, Rapida disipacion - Embalage normal de 5 Ltr. Caja con 4 unidades.",
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3784,
+      "nombre": "STANDARD Hi-FOAM Fluids - Fluido SUPER- CONCENTRADO para maquinas de Espuma.",
+      "marca": null,
+      "categoria": null,
+      "descripcion": "Gran durabilidad de la espuma - Mezcla al 1% com agua potável. Embalage standard de 5 Ltr. - Caixa com 4 unidades.",
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3784-1793745024446.webp"
     },
     {
       "id": 2524,
@@ -18221,7 +19067,7 @@
     },
     {
       "id": 1198,
-      "nombre": "Soporte Atril para partituras",
+      "nombre": "Soporte Atril para partituras / SOP-PAR-ALU",
       "marca": null,
       "categoria": "Instrumentos > Otros Instrumentos",
       "descripcion": null,
@@ -18272,6 +19118,15 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/ldcurv500cmb-1000x1000.jpg"
+    },
+    {
+      "id": 1210,
+      "nombre": "Soporte Lion Support SOP-TEC-XX Teclado de Estructura Doble",
+      "marca": null,
+      "categoria": "Instrumentos > Teclados y Otros",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/sop-tec-xx-400x400.jpg"
     },
     {
       "id": 1201,
@@ -18344,15 +19199,6 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/sop-tec-x-400x400.jpg"
-    },
-    {
-      "id": 1210,
-      "nombre": "Soporte Lion Support Sop-tec-xx Teclado de Estructura Doble",
-      "marca": null,
-      "categoria": "Instrumentos > Teclados y Otros",
-      "descripcion": null,
-      "precio_venta": null,
-      "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/sop-tec-xx-400x400.jpg"
     },
     {
       "id": 1211,
@@ -18688,6 +19534,24 @@
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/tour18-s-1500x1500.jpg"
     },
     {
+      "id": 3659,
+      "nombre": "TORRE MINI TELESCOPICA 3.6M 150KG C/ACC LINEA ZINCADA",
+      "marca": "TRUSS RAPTOR",
+      "categoria": "Estructuras / Truss",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
+      "id": 3661,
+      "nombre": "TORRE MINI TELESCOPICA 3.6M 150KG C/ACC LINEA ZINCADA",
+      "marca": "TRUSS RAPTOR",
+      "categoria": "Sonido > Soportes y Trípodes",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": null
+    },
+    {
       "id": 2382,
       "nombre": "TORRE PATA PIE PANTALLA LED",
       "marca": "TRUSS RAPTOR",
@@ -18730,7 +19594,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3236-1793677141704.jpg"
     },
     {
       "id": 3237,
@@ -18739,7 +19603,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3237-1793677141705.jpg"
     },
     {
       "id": 3235,
@@ -18748,7 +19612,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3235-1793677141703.jpg"
     },
     {
       "id": 3234,
@@ -18757,7 +19621,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-3234-1793677141702.jpg"
     },
     {
       "id": 474,
@@ -19063,7 +19927,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2928-1793677141649.jpg"
     },
     {
       "id": 2929,
@@ -19072,7 +19936,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2929-1793677141650.jpg"
     },
     {
       "id": 2930,
@@ -19081,7 +19945,7 @@
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": null,
       "precio_venta": null,
-      "imagen": null
+      "imagen": "imagenes/producto-2930-1793677141651.jpg"
     },
     {
       "id": 3047,
@@ -19400,12 +20264,12 @@
     },
     {
       "id": 2133,
-      "nombre": "Tester de Cables Profesional",
+      "nombre": "Tester de Cables Profesional / CT-04F",
       "marca": "VENETIAN",
       "categoria": "Sonido > Accesorios Varios",
       "descripcion": "Venetian CT-04F es un probador de cables compacto y versátil para audio profesional. Detecta falsos contactos, mide continuidad y localiza cortocircuitos en una amplia variedad de conectores como XLR, Speakon, USB, RCA y RJ45. Funciona con una batería de 9V, ofreciendo una solución portátil y confiable para mantenimiento y diagnóstico en vivo.",
       "precio_venta": null,
-      "imagen": "https://venetian.com.ar/images/products/2112161727524752/0.jpg"
+      "imagen": "imagenes/producto-2133-1793219097227.jpg"
     },
     {
       "id": 1681,
@@ -19757,6 +20621,24 @@
       "descripcion": null,
       "precio_venta": null,
       "imagen": "https://ar.xprostore.com/image/cache/data/imagenesweb/r371-md-blk-1000x1000.jpg"
+    },
+    {
+      "id": 3662,
+      "nombre": "VMR CABLE INSTRUMENTO PLUG A PLUG MONO 3M / CS-PLGM-PLGM-3",
+      "marca": "VMR",
+      "categoria": "Sonido > Conectores y Cables",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3662-1793219044856.jpg"
+    },
+    {
+      "id": 3663,
+      "nombre": "VMR CABLE INSTRUMENTO PLUG A PLUG MONO 6M / CS-PLGM-PLGM-6",
+      "marca": "VMR",
+      "categoria": "Sonido > Conectores y Cables",
+      "descripcion": null,
+      "precio_venta": null,
+      "imagen": "imagenes/producto-3663-1793219066940.jpg"
     },
     {
       "id": 1236,
